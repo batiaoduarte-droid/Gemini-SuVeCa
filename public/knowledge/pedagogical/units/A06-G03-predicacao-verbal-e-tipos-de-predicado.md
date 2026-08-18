@@ -45,19 +45,60 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Concordância Verbal Elementar: Capacidade de flexionar o verbo para testar a relação com o núcleo do sujeito.
 
 ```text
-SINTAXE DA ORAÇÃO │ ┌────────────────────────────────────┼────────────────────────────────────┐ ▼ ▼ ▼ TERMOS ESSENCIAIS TERMOS INTEGRANTES TERMOS ACESSÓRIOS │ │ │ ┌───────┴───────┐ ┌────────┴────────┐ ┌────────┴────────┐ ▼ ▼ ▼ ▼ ▼ ▼ SUJEITO PREDICADO COMPLEMENTOS COMPLEMENTO ADJUNTO ADJUNTO │ (Obrigatório) VERBAIS NOMINAL ADVERBIAL ADNOMINAL │ │ (OD / OI) (Circunstância) (Interno ao SN) │ │ │ ├───────────────────────────────────────────────┐ │ ▼ ▼ │ PREDICAÇÃO VERBAL TIPOS DE PREDICADO │ │ │ │ ┌───────┴───────────────────────┐ ┌───────┼───────────────────────┐ │ ▼ ▼ ▼ ▼ ▼ │ VERBOS NOCIONAIS VERBOS DE ESTADO PREDICADO PREDICADO PREDICADO │ (Ação / Movimento) (Relacionais) NOMINAL VERBAL VERBO-NOMINAL │ │ │ │ │ │ │ ┌───┴───┬───────┬───────┐ │ │ │ │ │ ▼ ▼ ▼ ▼ ▼ │ │ │ │ V.I. V.T.D. V.T.I. V.T.D.I. V. LIGAÇÃO │ │ │ │ (Sem (Com (Com (Com OD │ │ │ │ │ Obj.) OD) OI) + OI) │ │ │ │ │ │ │ │ │ │ │ └───────────────────┬───────────────┘ │ │ │ │ ▼ │ │ │ │ PREDICATIVO DO SUJEITO ──────────────────┴──────────┼───────────────────┘ │ (Atributo / Seta no Sujeito) │ │ │ │ │ ▼ │ │ PREDICATIVO DO OBJETO ──────────────────────────────┼───────────────────┘ │ (Atributo / Seta no Objeto) │ │ │ └──────────────────────────────────────────────────────────────────┘
+SINTAXE DA ORAÇÃO
+│ ┌────────────────────────────────────┼────────────────────────────────────┐ ▼ ▼ ▼ TERMOS ESSENCIAIS TERMOS INTEGRANTES TERMOS ACESSÓRIOS │ │
+│ ┌───────┴───────┐ ┌────────┴────────┐ ┌────────┴────────┐ ▼ ▼ ▼ ▼ ▼ ▼ SUJEITO PREDICADO COMPLEMENTOS COMPLEMENTO ADJUNTO ADJUNTO │ (Obrigatório) VERBAIS NOMINAL ADVERBIAL ADNOMINAL │ │ (OD / OI) (Circunstância) (Interno ao SN) │ │ │ ├───────────────────────────────────────────────┐
+│ ▼ ▼ │ PREDICAÇÃO VERBAL TIPOS DE PREDICADO │ │ │
+│ ┌───────┴───────────────────────┐ ┌───────┼───────────────────────┐
+│ ▼ ▼ ▼ ▼ ▼ │ VERBOS NOCIONAIS VERBOS DE ESTADO PREDICADO PREDICADO PREDICADO │ (Ação / Movimento) (Relacionais) NOMINAL VERBAL VERBO-NOMINAL │ │ │ │ │ │
+│ ┌───┴───┬───────┬───────┐ │ │ │ │
+│ ▼ ▼ ▼ ▼ ▼ │ │ │ │ V.I. V.T.D. V.T.I. V.T.D.I. V. LIGAÇÃO │ │ │ │ (Sem (Com (Com (Com OD │ │ │ │ │ Obj.) OD) OI) + OI) │ │ │ │ │ │ │ │ │ │ │ └───────────────────┬───────────────┘ │ │ │
+│ ▼ │ │ │ │ PREDICATIVO DO SUJEITO ──────────────────┴──────────┼───────────────────┘ │ (Atributo / Seta no Sujeito) │ │ │ │
+│ ▼ │ │ PREDICATIVO DO OBJETO ──────────────────────────────┼───────────────────┘ │ (Atributo / Seta no Objeto) │ │ │ └──────────────────────────────────────────────────────────────────┘
 ```
 
 ```text
-SINTAXE DA ORAÇÃO │ ┌──────────────────────────────────┼──────────────────────────────────┐ ▼ ▼ ▼ TERMOS ESSENCIAIS TERMOS INTEGRANTES TERMOS ACESSÓRIOS ├── Sujeito ├── Objeto Direto ├── Adjunto Adnominal └── Predicado ├── Objeto Indireto ├── Adjunto Adverbial ├── Complemento Nominal └── Aposto └── Agente da Passiva
+SINTAXE DA ORAÇÃO
+│ ┌──────────────────────────────────┼──────────────────────────────────┐ ▼ ▼ ▼ TERMOS ESSENCIAIS TERMOS INTEGRANTES TERMOS ACESSÓRIOS
+├── Sujeito
+├── Objeto Direto
+├── Adjunto Adnominal
+└── Predicado
+├── Objeto Indireto
+├── Adjunto Adverbial
+├── Complemento Nominal
+└── Aposto
+└── Agente da Passiva
 ```
 
 ```text
-ESTRUTURA ORACIONAL │ ┌────────────────────┴────────────────────┐ ▼ ▼ SUJEITO PREDICADO (Pode existir ou não existir) (Totalmente Obrigatório) │ │ ┌────────────┴────────────┐ │ ▼ ▼ ▼ EXISTENTE INEXISTENTE "TUDO MENOS O SUJEITO" ├── Simples (Oração sem Sujeito / (Estruturado em torno ├── Composto Verbos Impessoais) do Verbo Central) ├── Oracional ├── Indeterminado └── Oculto / Desinencial │ ┌─────────────────────┴─────────────────────┐ ▼ ▼ VERBOS DE AÇÃO / MOVIMENTO VERBOS DE ESTADO (Verbos Nocionais) (Verbos Relacionais) │ │ ┌──────────┬─────┴────┬──────────┐ ▼ ▼ ▼ ▼ ▼ VERBO DE LIGAÇÃO INTRANS. TRANS. TRANS. TRANS. (V.L.) (V.I.) DIRETO INDIRETO DIR. E IND. │ │ (V.T.D.) (V.T.I.) (V.T.D.I.) ▼ │ │ │ │ CRITÉRIO BIVALENTE: │ ▼ ▼ ▼ 1. Expressa ESTADO │ Exige Exige Exige 2. Exige PREDICATIVO │ Objeto Objeto OD + OI DO SUJEITO │ Direto Indireto │ ▼ TERMOS ACESSÓRIOS E QUALIFICADORES: ├── Adjunto Adverbial (Circunstância / Seta no Verbo / Dispensável) └── Predicativo do Sujeito / do Objeto (Estado / Seta no Nome / Invariável vs. Variável)
+ESTRUTURA ORACIONAL
+│ ┌────────────────────┴────────────────────┐ ▼ ▼ SUJEITO PREDICADO (Pode existir ou não existir) (Totalmente Obrigatório) │
+│ ┌────────────┴────────────┐
+│ ▼ ▼ ▼ EXISTENTE INEXISTENTE "TUDO MENOS O SUJEITO"
+├── Simples (Oração sem Sujeito / (Estruturado em torno
+├── Composto Verbos Impessoais) do Verbo Central)
+├── Oracional
+├── Indeterminado
+└── Oculto / Desinencial
+│ ┌─────────────────────┴─────────────────────┐ ▼ ▼ VERBOS DE AÇÃO / MOVIMENTO VERBOS DE ESTADO (Verbos Nocionais) (Verbos Relacionais) │
+│ ┌──────────┬─────┴────┬──────────┐ ▼ ▼ ▼ ▼ ▼ VERBO DE LIGAÇÃO INTRANS. TRANS. TRANS. TRANS. (V.L.) (V.I.) DIRETO INDIRETO DIR. E IND. │ │ (V.T.D.) (V.T.I.) (V.T.D.I.) ▼ │ │ │ │ CRITÉRIO BIVALENTE:
+│ ▼ ▼ ▼ 1. Expressa ESTADO │ Exige Exige Exige 2. Exige PREDICATIVO │ Objeto Objeto OD + OI DO SUJEITO │ Direto Indireto
+│ ▼ TERMOS ACESSÓRIOS E QUALIFICADORES:
+├── Adjunto Adverbial (Circunstância / Seta no Verbo / Dispensável)
+└── Predicativo do Sujeito / do Objeto (Estado / Seta no Nome / Invariável vs. Variável)
 ```
 
 ```text
-│ ┌─────────────────────┴─────────────────────┐ ▼ ▼ TIPOS DE PREDICADO │ ┌─────────────────────────────────┼─────────────────────────────────┐ ▼ ▼ ▼ PREDICADO NOMINAL PREDICADO VERBAL PREDICADO VERBO-NOMINAL (P.N.) (P.V.) (P.V.N.) │ │ │ ├── Núcleo: Nome (Pred. Suj.) ├── Núcleo: Verbo de Ação ├── 2 Núcleos: └── Estrutura: VL + Pred. Suj. └── Estrutura: VI/VTD/VTI/VTDI Verbo de Ação + Predicativo sem Predicativo └── Predicativo do Sujeito OU Predicativo do Objeto
+│ ┌─────────────────────┴─────────────────────┐ ▼ ▼ TIPOS DE PREDICADO
+│ ┌─────────────────────────────────┼─────────────────────────────────┐ ▼ ▼ ▼ PREDICADO NOMINAL PREDICADO VERBAL PREDICADO VERBO-NOMINAL (P.N.) (P.V.) (P.V.N.)
+│ │ │
+├── Núcleo: Nome (Pred. Suj.)
+├── Núcleo: Verbo de Ação
+├── 2 Núcleos:
+└── Estrutura: VL + Pred. Suj.
+└── Estrutura: VI/VTD/VTI/VTDI Verbo de Ação + Predicativo sem Predicativo
+└── Predicativo do Sujeito OU Predicativo do Objeto
 ```
 
 ---
@@ -134,7 +175,8 @@ O Verbo Intransitivo (VI) expressa sentido nocional completo e não exige comple
 Os Verbos Transitivos são verbos nocionais de predicação incompleta que demandam termos integrantes (objetos) para integralizar seu significado.
 
 ```text
-VERBOS TRANSITIVOS │ ┌────────────────────────┼────────────────────────┐ ▼ ▼ ▼ TRANSITIVO DIRETO TRANSITIVO INDIRETO TRANSITIVO DIRETO E (V.T.D.) (V.T.I.) INDIRETO (V.T.D.I.) │ │ (ou Bitransitivo) ▼ ▼ │ Complemento SEM Complemento COM ▼ preposição preposição Exige 2 complementos: (Objeto Direto) (Objeto Indireto) 1 SEM prep. (O.D.)
+VERBOS TRANSITIVOS
+│ ┌────────────────────────┼────────────────────────┐ ▼ ▼ ▼ TRANSITIVO DIRETO TRANSITIVO INDIRETO TRANSITIVO DIRETO E (V.T.D.) (V.T.I.) INDIRETO (V.T.D.I.) │ │ (ou Bitransitivo) ▼ ▼ │ Complemento SEM Complemento COM ▼ preposição preposição Exige 2 complementos: (Objeto Direto) (Objeto Indireto) 1 SEM prep. (O.D.)
 ```
 
 - 1 COM prep. (O.I.)
@@ -295,7 +337,14 @@ $$
 Identificar com 100% de segurança o sujeito, delimitar o predicado, classificar a transitividade do verbo e definir o tipo de predicado em qualquer questão de concurso público.
 
 ```text
-[ INÍCIO: LOCALIZAR O VERBO ] │ ▼ Etapa 1: "VIVA O VERBO" (Isolar o Sujeito) Pergunta: "Quem é que / O que é que + VERBO?" │ ▼ Etapa 2: Delimitar o Predicado Equação: Predicado = Oração - Sujeito │ ▼ Etapa 3: "A GRANDE SACADA" (Natureza Verbal) O verbo expressa ESTADO ou AÇÃO/PROCESSO? │ ┌─────────────────────┴─────────────────────┐ ▼ ▼ VERBO DE ESTADO VERBO DE AÇÃO │ │ ▼ ▼ Tem Predicativo do Sujeito? Inspecionar termos pós-verbais ┌───────┴───────┐ ("Mantra do Contexto"): ▼ ▼ - Sem objeto (só adjunto adv.) ➔ VI [ SIM ] [ NÃO ] - Objeto sem preposição ➔ VTD │ │ - Objeto com preposição ➔ VTI ▼ ▼ - Ambos os objetos ➔ VTDI VERBO DE VERBO DE │ LIGAÇÃO AÇÃO ▼ (VL) (VI) Há termo adjetivo predicativo? │ │ │ ▼ ▼ ┌─────────┴─────────┐ PREDICADO PREDICADO ▼ ▼ NOMINAL VERBAL [ NÃO ] [ SIM ] (PN) (PV) │ │ ▼ ▼ PREDICADO PREDICADO VERBAL VERBO-NOMINAL (PV) (PVN)
+[ INÍCIO: LOCALIZAR O VERBO ]
+│ ▼ Etapa 1: "VIVA O VERBO" (Isolar o Sujeito) Pergunta: "Quem é que / O que é que + VERBO?"
+│ ▼ Etapa 2: Delimitar o Predicado Equação: Predicado = Oração - Sujeito
+│ ▼ Etapa 3: "A GRANDE SACADA" (Natureza Verbal) O verbo expressa ESTADO ou AÇÃO/PROCESSO?
+│ ┌─────────────────────┴─────────────────────┐ ▼ ▼ VERBO DE ESTADO VERBO DE AÇÃO │
+│ ▼ ▼ Tem Predicativo do Sujeito? Inspecionar termos pós-verbais ┌───────┴───────┐ ("Mantra do Contexto"): ▼ ▼ - Sem objeto (só adjunto adv.) ➔ VI [ SIM ] [ NÃO ] - Objeto sem preposição ➔ VTD │ │ - Objeto com preposição ➔ VTI ▼ ▼ - Ambos os objetos ➔ VTDI VERBO DE VERBO DE │ LIGAÇÃO AÇÃO ▼ (VL) (VI) Há termo adjetivo predicativo? │ │
+│ ▼ ▼ ┌─────────┴─────────┐ PREDICADO PREDICADO ▼ ▼ NOMINAL VERBAL [ NÃO ] [ SIM ] (PN) (PV) │
+│ ▼ ▼ PREDICADO PREDICADO VERBAL VERBO-NOMINAL (PV) (PVN)
 ```
 
 1. Etapa 1 — "Viva o Verbo" (Localização e Reordenação do Sujeito):
@@ -352,7 +401,14 @@ Evitar confundir o artigo feminino "a" (indicador de Objeto Direto / VTD) com a 
 Identificar com 100% de segurança o sujeito, delimitar o predicado, classificar a transitividade do verbo e definir o tipo de predicado em qualquer questão de concurso público.
 
 ```text
-[ INÍCIO: LOCALIZAR O VERBO ] │ ▼ Etapa 1: "VIVA O VERBO" (Isolar o Sujeito) Pergunta: "Quem é que / O que é que + VERBO?" │ ▼ Etapa 2: Delimitar o Predicado Equação: Predicado = Oração - Sujeito │ ▼ Etapa 3: "A GRANDE SACADA" (Natureza Verbal) O verbo expressa ESTADO ou AÇÃO/PROCESSO? │ ┌─────────────────────┴─────────────────────┐ ▼ ▼ VERBO DE ESTADO VERBO DE AÇÃO │ │ ▼ ▼ Tem Predicativo do Sujeito? Inspecionar termos pós-verbais ┌───────┴───────┐ ("Mantra do Contexto"): ▼ ▼ - Sem objeto (só adjunto adv.) ➔ VI [ SIM ] [ NÃO ] - Objeto sem preposição ➔ VTD │ │ - Objeto com preposição ➔ VTI ▼ ▼ - Ambos os objetos ➔ VTDI VERBO DE VERBO DE │ LIGAÇÃO AÇÃO ▼ (VL) (VI) Há termo adjetivo predicativo? │ │ │ ▼ ▼ ┌─────────┴─────────┐ PREDICADO PREDICADO ▼ ▼ NOMINAL VERBAL [ NÃO ] [ SIM ] (PN) (PV) │ │ ▼ ▼ PREDICADO PREDICADO VERBAL VERBO-NOMINAL (PV) (PVN)
+[ INÍCIO: LOCALIZAR O VERBO ]
+│ ▼ Etapa 1: "VIVA O VERBO" (Isolar o Sujeito) Pergunta: "Quem é que / O que é que + VERBO?"
+│ ▼ Etapa 2: Delimitar o Predicado Equação: Predicado = Oração - Sujeito
+│ ▼ Etapa 3: "A GRANDE SACADA" (Natureza Verbal) O verbo expressa ESTADO ou AÇÃO/PROCESSO?
+│ ┌─────────────────────┴─────────────────────┐ ▼ ▼ VERBO DE ESTADO VERBO DE AÇÃO │
+│ ▼ ▼ Tem Predicativo do Sujeito? Inspecionar termos pós-verbais ┌───────┴───────┐ ("Mantra do Contexto"): ▼ ▼ - Sem objeto (só adjunto adv.) ➔ VI [ SIM ] [ NÃO ] - Objeto sem preposição ➔ VTD │ │ - Objeto com preposição ➔ VTI ▼ ▼ - Ambos os objetos ➔ VTDI VERBO DE VERBO DE │ LIGAÇÃO AÇÃO ▼ (VL) (VI) Há termo adjetivo predicativo? │ │
+│ ▼ ▼ ┌─────────┴─────────┐ PREDICADO PREDICADO ▼ ▼ NOMINAL VERBAL [ NÃO ] [ SIM ] (PN) (PV) │
+│ ▼ ▼ PREDICADO PREDICADO VERBAL VERBO-NOMINAL (PV) (PVN)
 ```
 
 #### Roteiro Sequencial Detalhado

@@ -41,7 +41,8 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 ## Pré-requisitos e modelo mental
 
 ```text
-TRANSPOSIÇÃO: VOZ ATIVA ──► VOZ PASSIVA ANALÍTICA │ ┌────────────────────────────────────────────────┴────────────────────────────────────────────────┐ ▼ ▼ MÉTODO OPERACIONAL REGRAS ESTRUTURAIS E ("Chamar o Feito à Ordem") RESTRIÇÕES SINTÁTICAS │ │
+TRANSPOSIÇÃO: VOZ ATIVA ──► VOZ PASSIVA ANALÍTICA
+│ ┌────────────────────────────────────────────────┴────────────────────────────────────────────────┐ ▼ ▼ MÉTODO OPERACIONAL REGRAS ESTRUTURAIS E ("Chamar o Feito à Ordem") RESTRIÇÕES SINTÁTICAS │ │
 ```
 
 1. Isolar Objeto Direto (OD) ──────────► Vira Sujeito Paciente (Comanda a concordância) ──────────────────┤
@@ -51,7 +52,44 @@ TRANSPOSIÇÃO: VOZ ATIVA ──► VOZ PASSIVA ANALÍTICA │ ┌────�
 5. Regra da Soma Verbal ───────────────► A cadeia verbal SEMPRE ganha 1 verbo (N -> N+1) ─────────────────┘
 
 ```text
-│ ┌────────────────────────────────────────────────┴────────────────────────────────────────────────┐ ▼ ▼ COMPORTAMENTO POR TEMPO / ESTRUTURA CASOS ESPECIAIS EM PROVA │ │ ├── Tempo Simples (Indicativo): ├── Sujeito Indeterminado: │ ├── Presente: estuda -> é estudado │ └── 3ª pl. sem sujeito -> Passiva sem agente expresso │ ├── Pretérito Perfeito: estudou -> foi estudado ├── Locução Verbal / Tempo Composto: │ ├── Pretérito Imperfeito: estudava -> era estudado │ ├── "O principal manda, o auxiliar obedece" │ └── Futuro do Presente: estudará -> será estudado │ └── havia transferido -> haviam sido transferidos ├── Modo Subjuntivo: ├── Infinitivo Pessoal / Composto (FGV): │ └── Presente Subjuntivo: não nos iludamos -> não sejamos iludidos │ └── buscar a paz e a alegria -> serem buscadas ├── Verbo no Infinitivo: ├── Sujeito Composto Heterogêneo (FCC): │ └── Impessoal/Pessoal: buscar -> ser buscado / serem buscados │ └── Fem. + Masc. -> Particípio Masculino Plural └── Locuções com Gerúndio: ├── Redução / Elipse do Auxiliar (CESPE): └── irá ensinando -> irão sendo ensinados │ └── que senti -> [foram] sentidas por mim └── Bloqueio Sintático (VTI e VI): └── Sem OD = Impossível voz passiva analítica
+│ ┌────────────────────────────────────────────────┴────────────────────────────────────────────────┐ ▼ ▼ COMPORTAMENTO POR TEMPO / ESTRUTURA CASOS ESPECIAIS EM PROVA
+│ │
+├── Tempo Simples (Indicativo):
+├── Sujeito Indeterminado:
+│
+├── Presente: estuda -> é estudado
+│
+└── 3ª pl. sem sujeito -> Passiva sem agente expresso
+│
+├── Pretérito Perfeito: estudou -> foi estudado
+├── Locução Verbal / Tempo Composto:
+│
+├── Pretérito Imperfeito: estudava -> era estudado
+│
+├── "O principal manda, o auxiliar obedece"
+│
+└── Futuro do Presente: estudará -> será estudado
+│
+└── havia transferido -> haviam sido transferidos
+├── Modo Subjuntivo:
+├── Infinitivo Pessoal / Composto (FGV):
+│
+└── Presente Subjuntivo: não nos iludamos -> não sejamos iludidos
+│
+└── buscar a paz e a alegria -> serem buscadas
+├── Verbo no Infinitivo:
+├── Sujeito Composto Heterogêneo (FCC):
+│
+└── Impessoal/Pessoal: buscar -> ser buscado / serem buscados
+│
+└── Fem. + Masc. -> Particípio Masculino Plural
+└── Locuções com Gerúndio:
+├── Redução / Elipse do Auxiliar (CESPE):
+└── irá ensinando -> irão sendo ensinados
+│
+└── que senti -> [foram] sentidas por mim
+└── Bloqueio Sintático (VTI e VI):
+└── Sem OD = Impossível voz passiva analítica
 ```
 
 ---
@@ -241,7 +279,10 @@ Em orações adjetivas em que o pronome relativo que funciona como objeto direto
 Verificar se a oração possui Verbo Transitivo Direto (VTD) ou Transitivo Direto e Indireto (VTDI) com Objeto Direto legítimo. Se houver apenas VTI, VI ou VL, abortar a transposição (estrutura não admite passiva analítica).
 
 ```text
-[Passo 1: Chamar o Feito à Ordem no Enunciado] ├── Sublinhar e isolar o Núcleo do Objeto Direto (OD). ├── Identificar o Sujeito Agente (expresso, composto, elíptico ou indeterminado). └── Anotar no topo a sigla exata do Tempo e Modo Verbal (ex: PRET. PERF., PRES. SUBJ., INF.).
+[Passo 1: Chamar o Feito à Ordem no Enunciado]
+├── Sublinhar e isolar o Núcleo do Objeto Direto (OD).
+├── Identificar o Sujeito Agente (expresso, composto, elíptico ou indeterminado).
+└── Anotar no topo a sigla exata do Tempo e Modo Verbal (ex: PRET. PERF., PRES. SUBJ., INF.).
 ```
 
 ```text
@@ -249,11 +290,18 @@ Verificar se a oração possui Verbo Transitivo Direto (VTD) ou Transitivo Diret
 ```
 
 ```text
-[Passo 3: Montagem da Locução Passiva no Rascunho] ├── Inserir o verbo auxiliar SER exatamente no tempo/modo registrado no Passo 1. ├── Se o Sujeito for Composto ou Plural e o verbo for Infinitivo -> flexionar para "SEREM". ├── Ajustar a concordância de número e pessoa do auxiliar SER com o novo sujeito. ├── Converter o verbo principal ativo em PARTICÍPIO. └── Flexionar o PARTICÍPIO em gênero e número (concordância nominal com o Sujeito Paciente).
+[Passo 3: Montagem da Locução Passiva no Rascunho]
+├── Inserir o verbo auxiliar SER exatamente no tempo/modo registrado no Passo 1.
+├── Se o Sujeito for Composto ou Plural e o verbo for Infinitivo -> flexionar para "SEREM".
+├── Ajustar a concordância de número e pessoa do auxiliar SER com o novo sujeito.
+├── Converter o verbo principal ativo em PARTICÍPIO.
+└── Flexionar o PARTICÍPIO em gênero e número (concordância nominal com o Sujeito Paciente).
 ```
 
 ```text
-[Passo 4: Tratamento do Agente da Passiva] ├── Se Sujeito Agente expresso -> introduzir com preposição POR/PELO ou DE. └── Se Sujeito Agente elíptico/indeterminado -> manter o Agente da Passiva Oculto/Indeterminado.
+[Passo 4: Tratamento do Agente da Passiva]
+├── Se Sujeito Agente expresso -> introduzir com preposição POR/PELO ou DE.
+└── Se Sujeito Agente elíptico/indeterminado -> manter o Agente da Passiva Oculto/Indeterminado.
 ```
 
 ```text
@@ -279,7 +327,10 @@ Verificar se a oração possui Verbo Transitivo Direto (VTD) ou Transitivo Diret
 #### Sequência de Execução em 5 Passos
 
 ```text
-[Passo 1: Chamar o Feito à Ordem no Enunciado] ├── Sublinhar e isolar o Núcleo do Objeto Direto (OD). ├── Identificar o Sujeito Agente (expresso, composto, elíptico ou indeterminado). └── Anotar no topo a sigla exata do Tempo e Modo Verbal (ex: PRET. PERF., PRES. SUBJ., INF.).
+[Passo 1: Chamar o Feito à Ordem no Enunciado]
+├── Sublinhar e isolar o Núcleo do Objeto Direto (OD).
+├── Identificar o Sujeito Agente (expresso, composto, elíptico ou indeterminado).
+└── Anotar no topo a sigla exata do Tempo e Modo Verbal (ex: PRET. PERF., PRES. SUBJ., INF.).
 ```
 
 ```text
@@ -287,11 +338,18 @@ Verificar se a oração possui Verbo Transitivo Direto (VTD) ou Transitivo Diret
 ```
 
 ```text
-[Passo 3: Montagem da Locução Passiva no Rascunho] ├── Inserir o verbo auxiliar SER exatamente no tempo/modo registrado no Passo 1. ├── Se o Sujeito for Composto ou Plural e o verbo for Infinitivo -> flexionar para "SEREM". ├── Ajustar a concordância de número e pessoa do auxiliar SER com o novo sujeito. ├── Converter o verbo principal ativo em PARTICÍPIO. └── Flexionar o PARTICÍPIO em gênero e número (concordância nominal com o Sujeito Paciente).
+[Passo 3: Montagem da Locução Passiva no Rascunho]
+├── Inserir o verbo auxiliar SER exatamente no tempo/modo registrado no Passo 1.
+├── Se o Sujeito for Composto ou Plural e o verbo for Infinitivo -> flexionar para "SEREM".
+├── Ajustar a concordância de número e pessoa do auxiliar SER com o novo sujeito.
+├── Converter o verbo principal ativo em PARTICÍPIO.
+└── Flexionar o PARTICÍPIO em gênero e número (concordância nominal com o Sujeito Paciente).
 ```
 
 ```text
-[Passo 4: Tratamento do Agente da Passiva] ├── Se Sujeito Agente expresso -> introduzir com preposição POR/PELO ou DE. └── Se Sujeito Agente elíptico/indeterminado -> manter o Agente da Passiva Oculto/Indeterminado.
+[Passo 4: Tratamento do Agente da Passiva]
+├── Se Sujeito Agente expresso -> introduzir com preposição POR/PELO ou DE.
+└── Se Sujeito Agente elíptico/indeterminado -> manter o Agente da Passiva Oculto/Indeterminado.
 ```
 
 ```text

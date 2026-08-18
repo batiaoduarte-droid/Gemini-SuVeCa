@@ -46,7 +46,9 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Noções de Sintaxe de Regência e Conectores Gramaticais (identificação de termos regentes e regidos para valores de preposição).
 
 ```text
-POLISSEMIA (Mesma forma gráfica + Mesma pronúncia + Mesma raiz etimológica -> Múltiplos sentidos) │ ┌────────────────────────────────┼────────────────────────────────┐ ▼ ▼ ▼ ESTRUTURA FORMAL NATUREZA DOS SENTIDOS DINÂMICA DISCURSIVA (O PAPEL DO CONTEXTO) ├─ Equivalência Estrutural ├─ Puramente Denotativa │ │ └─ Homonímia Perfeita │ ├─ Banco (fin./móvel) ├─ Contexto Delimita o Sentido │ └─ Ex.: cedo/cedo │ ├─ Letra (mús./graf./alf.) │ ├─ Sem Ambiguidade / Clareza Plena │ │ └─ Vela (cera/barco) │ ├─ Neutralização da Polissemia ├─ NÃO é Polissemia: │ │ │ └─ Ex.: "amanhã" + "hoje" │ ├─ Homófonos └─ Denotativa + Conotativa │ └─ Repetição Estilística (FGV) │ │ └─ conserto/concerto ├─ Boca (corpo/garrafa) │ └─ Ex.: "canto" das cigarras │ │ └─ sela/cela ├─ Porco (animal/pessoa) │ no "canto" da sala │ │ └─ cesta/sexta ├─ Nó (corda/garganta) │ │ ├─ Homógrafos └─ Casa (imóvel/faixa °C) └─ Contexto NÃO Delimita / Insuficiente │ │ └─ colher [o]/[ɔ] ├─ Ambiguidade Viciosa (Defeito) │ └─ Parônimos │ └─ Ex.: "o banco está ao lado" │ └─ emergir/imergir │ └─ Ex.: "o porco do tio" │ └─ Ambiguidade Intencional (Recurso) │ ├─ Trocadilhos Publicitários │ └─ Emissores (Jornal, Restaurante) └────────────────────────────────────┬────────────────────────────────┘ │ POLISSEMIA DE CONECTORES ("PARA") │ ┌───────────────────┬─────────────┴─────┬───────────────────┐ ▼ ▼ ▼ ▼ Destino Finalidade Capacidade Proximidade Temporal ("para a Europa") ("para comprar") ("para 50 pessoas") ("estava para sair" / Iminência)
+POLISSEMIA (Mesma forma gráfica + Mesma pronúncia + Mesma raiz etimológica -> Múltiplos sentidos)
+│ ┌────────────────────────────────┼────────────────────────────────┐ ▼ ▼ ▼ ESTRUTURA FORMAL NATUREZA DOS SENTIDOS DINÂMICA DISCURSIVA (O PAPEL DO CONTEXTO) ├─ Equivalência Estrutural ├─ Puramente Denotativa │ │ └─ Homonímia Perfeita │ ├─ Banco (fin./móvel) ├─ Contexto Delimita o Sentido │ └─ Ex.: cedo/cedo │ ├─ Letra (mús./graf./alf.) │ ├─ Sem Ambiguidade / Clareza Plena │ │ └─ Vela (cera/barco) │ ├─ Neutralização da Polissemia ├─ NÃO é Polissemia: │ │ │ └─ Ex.: "amanhã" + "hoje" │ ├─ Homófonos └─ Denotativa + Conotativa │ └─ Repetição Estilística (FGV) │ │ └─ conserto/concerto ├─ Boca (corpo/garrafa) │ └─ Ex.: "canto" das cigarras │ │ └─ sela/cela ├─ Porco (animal/pessoa) │ no "canto" da sala │ │ └─ cesta/sexta ├─ Nó (corda/garganta) │ │ ├─ Homógrafos └─ Casa (imóvel/faixa °C) └─ Contexto NÃO Delimita / Insuficiente │ │ └─ colher [o]/[ɔ] ├─ Ambiguidade Viciosa (Defeito) │ └─ Parônimos │ └─ Ex.: "o banco está ao lado" │ └─ emergir/imergir │ └─ Ex.: "o porco do tio" │ └─ Ambiguidade Intencional (Recurso) │ ├─ Trocadilhos Publicitários │ └─ Emissores (Jornal, Restaurante) └────────────────────────────────────┬────────────────────────────────┘ │ POLISSEMIA DE CONECTORES ("PARA")
+│ ┌───────────────────┬─────────────┴─────┬───────────────────┐ ▼ ▼ ▼ ▼ Destino Finalidade Capacidade Proximidade Temporal ("para a Europa") ("para comprar") ("para 50 pessoas") ("estava para sair" / Iminência)
 ```
 
 ---
@@ -136,7 +138,9 @@ A polissemia é um fato estritamente lexical (propriedade de uma palavra possuir
 A abordagem didática sintetiza a relação por meio do mantra pedagógico: "Nem toda polissemia gera ambiguidade".
 
 ```text
-POLISSEMIA (LÉXICO) │ ┌───────────────────────┴───────────────────────┐ ▼ ▼ CONTEXTO DELIMITA O SENTIDO CONTEXTO NÃO DELIMITA (INSUFICIENTE) │ │ ▼ ▼ POLISSEMIA CLARA / AMBIGUIDADE VICIOSA RECURSO ESTILÍSTICO VÁLIDO OU DUPLO SENTIDO INDESEJADO (Sem dúvida interpretativa para o leitor) (Hesitação e prejuízo à clareza textual)
+POLISSEMIA (LÉXICO)
+│ ┌───────────────────────┴───────────────────────┐ ▼ ▼ CONTEXTO DELIMITA O SENTIDO CONTEXTO NÃO DELIMITA (INSUFICIENTE) │
+│ ▼ ▼ POLISSEMIA CLARA / AMBIGUIDADE VICIOSA RECURSO ESTILÍSTICO VÁLIDO OU DUPLO SENTIDO INDESEJADO (Sem dúvida interpretativa para o leitor) (Hesitação e prejuízo à clareza textual)
 ```
 
 1. Polissemia sem ambiguidade: Ocorre na esmagadora maioria dos enunciados cotidianos e cultos. As palavras vizinhas (cotexto) amarram perfeitamente o sentido pretendido. Exemplo: "Sentia dor na planta dos pés" — a presença de "dos pés" restringe o vocábulo à anatomia humana, eliminando qualquer leitura vegetal.
@@ -233,7 +237,15 @@ PERFIL DAS BANCAS EM POLISSEMIA ┌───────────────
 ## Roteiros de resolução
 
 ```text
-PROTOCOLO DE DIAGNÓSTICO DE POLISSEMIA │ [PASSO 1: ANÁLISE GRÁFICA] As palavras possuem EXATAMENTE as mesmas letras? ├── NÃO ──> DESCARTAR POLISSEMIA (Homófonos Heterógrafos) │ (Ex.: conserto/concerto, sela/cela, cesta/sexta) └── SIM │ ▼ [PASSO 2: ANÁLISE FONÉTICA] A pronúncia e o timbre vocálico são IDÊNTICOS? ├── NÃO ──> DESCARTAR POLISSEMIA (Homógrafos Heterófonos) │ (Ex.: colher [/o/] verbo vs. colher [/ɔ/] talher) └── SIM │ ▼ [PASSO 3: ANÁLISE SEMÂNTICA] Os significados nos contextos são DIVERGENTES? ├── NÃO ──> MESMA PALAVRA (Repetição Lexical Unívoca) └── SIM ──> CONFIRMA-SE POLISSEMIA / HOMONÍMIA PERFEITA
+PROTOCOLO DE DIAGNÓSTICO DE POLISSEMIA │ [PASSO 1: ANÁLISE GRÁFICA] As palavras possuem EXATAMENTE as mesmas letras?
+├── NÃO ──> DESCARTAR POLISSEMIA (Homófonos Heterógrafos) │ (Ex.: conserto/concerto, sela/cela, cesta/sexta)
+└── SIM
+│ ▼ [PASSO 2: ANÁLISE FONÉTICA] A pronúncia e o timbre vocálico são IDÊNTICOS?
+├── NÃO ──> DESCARTAR POLISSEMIA (Homógrafos Heterófonos) │ (Ex.: colher [/o/] verbo vs. colher [/ɔ/] talher)
+└── SIM
+│ ▼ [PASSO 3: ANÁLISE SEMÂNTICA] Os significados nos contextos são DIVERGENTES?
+├── NÃO ──> MESMA PALAVRA (Repetição Lexical Unívoca)
+└── SIM ──> CONFIRMA-SE POLISSEMIA / HOMONÍMIA PERFEITA
 ```
 
 1. Identificar a falha de precisão terminológica da banca: O termo amplo "Homonímia" engloba imperfeições formais (homófonos heterógrafos e homógrafos heterófonos).
@@ -247,7 +259,8 @@ PROTOCOLO DE DIAGNÓSTICO DE POLISSEMIA │ [PASSO 1: ANÁLISE GRÁFICA] As pala
 - Se os termos vizinhos forem neutros ou compatíveis com duas acepções (ex.: "está aqui ao lado" para banco; "do tio" para porco), o contexto falhou, gerando ambiguidade viciosa.
 
 ```text
-TÉCNICA DAS DUAS SETAS │ [Identificar o Vocábulo-Pivô] │ ┌───────────────────────┴───────────────────────┐ ▼ ▼ [PRIMEIRA SETA] [SEGUNDA SETA] Conecta ao Sentido Literal / Conecta ao Sentido Figurado / Atividade do Emissor Institucional Sentido Geral da Expressão (Ex.: Jornal -> notícia QUENTE [recente]) (Ex.: Cafezinho -> QUENTE [temperatura]) (Ex.: Restaurante -> MASSA [culinária]) (Ex.: Atendimento -> MASSA [povo]) (Ex.: Espelho -> REFLETIR [imagem]) (Ex.: Ponderar -> REFLETIR [pensar]) │ │ └───────────────────────┬───────────────────────┘ ▼ [VALIDAÇÃO: Se ambas as setas forem plenamente coerentes, CONFIRMA-SE O JOGO POLISSÊMICO ATIVADO]
+TÉCNICA DAS DUAS SETAS │ [Identificar o Vocábulo-Pivô]
+│ ┌───────────────────────┴───────────────────────┐ ▼ ▼ [PRIMEIRA SETA] [SEGUNDA SETA] Conecta ao Sentido Literal / Conecta ao Sentido Figurado / Atividade do Emissor Institucional Sentido Geral da Expressão (Ex.: Jornal -> notícia QUENTE [recente]) (Ex.: Cafezinho -> QUENTE [temperatura]) (Ex.: Restaurante -> MASSA [culinária]) (Ex.: Atendimento -> MASSA [povo]) (Ex.: Espelho -> REFLETIR [imagem]) (Ex.: Ponderar -> REFLETIR [pensar]) │ │ └───────────────────────┬───────────────────────┘ ▼ [VALIDAÇÃO: Se ambas as setas forem plenamente coerentes, CONFIRMA-SE O JOGO POLISSÊMICO ATIVADO]
 ```
 
 1. Isole a preposição para e sublinhe o termo regido imediatamente posterior.
@@ -260,7 +273,15 @@ TÉCNICA DAS DUAS SETAS │ [Identificar o Vocábulo-Pivô] │ ┌────�
 - Se reger entidade julgadora indicando perspectiva avaliativa (na opinião de) $\rightarrow$ Ponto de Vista / Opinião.
 
 ```text
-PROTOCOLO DE DIAGNÓSTICO DE POLISSEMIA │ [PASSO 1: ANÁLISE GRÁFICA] As palavras possuem EXATAMENTE as mesmas letras? ├── NÃO ──> DESCARTAR POLISSEMIA (Homófonos Heterógrafos) │ (Ex.: conserto/concerto, sela/cela, cesta/sexta) └── SIM │ ▼ [PASSO 2: ANÁLISE FONÉTICA] A pronúncia e o timbre vocálico são IDÊNTICOS? ├── NÃO ──> DESCARTAR POLISSEMIA (Homógrafos Heterófonos) │ (Ex.: colher [/o/] verbo vs. colher [/ɔ/] talher) └── SIM │ ▼ [PASSO 3: ANÁLISE SEMÂNTICA] Os significados nos contextos são DIVERGENTES? ├── NÃO ──> MESMA PALAVRA (Repetição Lexical Unívoca) └── SIM ──> CONFIRMA-SE POLISSEMIA / HOMONÍMIA PERFEITA
+PROTOCOLO DE DIAGNÓSTICO DE POLISSEMIA │ [PASSO 1: ANÁLISE GRÁFICA] As palavras possuem EXATAMENTE as mesmas letras?
+├── NÃO ──> DESCARTAR POLISSEMIA (Homófonos Heterógrafos) │ (Ex.: conserto/concerto, sela/cela, cesta/sexta)
+└── SIM
+│ ▼ [PASSO 2: ANÁLISE FONÉTICA] A pronúncia e o timbre vocálico são IDÊNTICOS?
+├── NÃO ──> DESCARTAR POLISSEMIA (Homógrafos Heterófonos) │ (Ex.: colher [/o/] verbo vs. colher [/ɔ/] talher)
+└── SIM
+│ ▼ [PASSO 3: ANÁLISE SEMÂNTICA] Os significados nos contextos são DIVERGENTES?
+├── NÃO ──> MESMA PALAVRA (Repetição Lexical Unívoca)
+└── SIM ──> CONFIRMA-SE POLISSEMIA / HOMONÍMIA PERFEITA
 ```
 
 1. Identificar a falha de precisão terminológica da banca: O termo amplo "Homonímia" engloba imperfeições formais (homófonos heterógrafos e homógrafos heterófonos).
@@ -274,7 +295,8 @@ PROTOCOLO DE DIAGNÓSTICO DE POLISSEMIA │ [PASSO 1: ANÁLISE GRÁFICA] As pala
 - Se os termos vizinhos forem neutros ou compatíveis com duas acepções (ex.: "está aqui ao lado" para banco; "do tio" para porco), o contexto falhou, gerando ambiguidade viciosa.
 
 ```text
-TÉCNICA DAS DUAS SETAS │ [Identificar o Vocábulo-Pivô] │ ┌───────────────────────┴───────────────────────┐ ▼ ▼ [PRIMEIRA SETA] [SEGUNDA SETA] Conecta ao Sentido Literal / Conecta ao Sentido Figurado / Atividade do Emissor Institucional Sentido Geral da Expressão (Ex.: Jornal -> notícia QUENTE [recente]) (Ex.: Cafezinho -> QUENTE [temperatura]) (Ex.: Restaurante -> MASSA [culinária]) (Ex.: Atendimento -> MASSA [povo]) (Ex.: Espelho -> REFLETIR [imagem]) (Ex.: Ponderar -> REFLETIR [pensar]) │ │ └───────────────────────┬───────────────────────┘ ▼ [VALIDAÇÃO: Se ambas as setas forem plenamente coerentes, CONFIRMA-SE O JOGO POLISSÊMICO ATIVADO]
+TÉCNICA DAS DUAS SETAS │ [Identificar o Vocábulo-Pivô]
+│ ┌───────────────────────┴───────────────────────┐ ▼ ▼ [PRIMEIRA SETA] [SEGUNDA SETA] Conecta ao Sentido Literal / Conecta ao Sentido Figurado / Atividade do Emissor Institucional Sentido Geral da Expressão (Ex.: Jornal -> notícia QUENTE [recente]) (Ex.: Cafezinho -> QUENTE [temperatura]) (Ex.: Restaurante -> MASSA [culinária]) (Ex.: Atendimento -> MASSA [povo]) (Ex.: Espelho -> REFLETIR [imagem]) (Ex.: Ponderar -> REFLETIR [pensar]) │ │ └───────────────────────┬───────────────────────┘ ▼ [VALIDAÇÃO: Se ambas as setas forem plenamente coerentes, CONFIRMA-SE O JOGO POLISSÊMICO ATIVADO]
 ```
 
 1. Isole a preposição para e sublinhe o termo regido imediatamente posterior.

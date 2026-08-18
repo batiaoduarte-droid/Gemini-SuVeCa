@@ -46,7 +46,8 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Semântica e Pontuação: Noção de causa versus consequência; papel das vírgulas em intercalações e deslocamentos sintáticos.
 
 ```text
-EMPREGO DOS PORQUÊS │ ┌────────────────────────┬─────────────┴───────────────┬────────────────────────┐ ▼ ▼ ▼ ▼ PORQUÊ PORQUE POR QUÊ POR QUE (Junto + Acento) (Junto + Sem Acento) (Separado + Acento) (Separado + Sem Acento) │ │ │ │ Substantivo Conjunção: Advérbio em: Múltiplas Funções: Exige Determinante: - Causal (= pois) - Final de oração 1. Preposição "por" +
+EMPREGO DOS PORQUÊS
+│ ┌────────────────────────┬─────────────┴───────────────┬────────────────────────┐ ▼ ▼ ▼ ▼ PORQUÊ PORQUE POR QUÊ POR QUE (Junto + Acento) (Junto + Sem Acento) (Separado + Acento) (Separado + Sem Acento) │ │ │ │ Substantivo Conjunção: Advérbio em: Múltiplas Funções: Exige Determinante: - Causal (= pois) - Final de oração 1. Preposição "por" +
 ```
 
 - Artigo (o, um) - Explicativa (= pois) interrogativa Pronome Relativo

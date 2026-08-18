@@ -44,7 +44,44 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Distinção básica de Classes Gramaticais: Substantivo versus Adjetivo versus Advérbio.
 
 ```text
-PONTUAÇÃO: REGRAS FUNDAMENTAIS DA VÍRGULA │ ├── 1. ESTRUTURA DIRETA (PROIBIÇÃO - REGRA DO SVC) │ ├── Sujeito  Verbo │ └── Verbo  Complemento (OD / OI) │ └── Aplicação: Método "Diante do Verbo" │ ├── 2. TERMO EXTERNO INDEPENDENTE (VOCATIVO) │ ├── Definição: Chamamento / Invocação do interlocutor │ ├── Pontuação: Obrigatoriamente ISOLADO por vírgula(s) │ └── Variações: Início (Vrg após), Intercalado (Entre vírgulas), Fim (Vrg antes) │ ├── 3. TERMO EXPLICATIVO SUBSTANTIVO (APOSTO EXPLICATIVO) │ ├── Mantra: "Aposto é caso de SUBSTANTIVO" (Substantivo explica Substantivo) │ ├── Pontuação: Obrigatoriamente entre vírgulas, travessões ou parênteses │ ├── Teste de Validação: Inserção de "[que é]" mantendo a equivalência (A = B) │ └── Distinções Críticas: │ ├── Adjetivo entre vírgulas = Predicativo do Sujeito Deslocado (NÃO é aposto) │ └── Advérbio / Data entre vírgulas = Adjunto Adverbial (NÃO é aposto) │ └── 4. TERMOS COORDENADOS (ENUMERAÇÃO E DOIS-PONTOS) ├── Enumeração: Separação por vírgulas de termos de mesma função sintática ├── Presença do conectivo "e": Marca adição/enumeração, afastando a ideia de aposto └── Sintaxe dos Dois-Pontos (:): ├── Verbo + [: ] + Lista = ✗ INCORRETO (Violação do SVC) └── Verbo + Substantivo Genérico (OD) + [: ] + Lista = ✓ CORRETO (Aposto Enumerativo)
+PONTUAÇÃO: REGRAS FUNDAMENTAIS DA VÍRGULA
+│
+├── 1. ESTRUTURA DIRETA (PROIBIÇÃO - REGRA DO SVC)
+│
+├── Sujeito  Verbo
+│
+└── Verbo  Complemento (OD / OI)
+│
+└── Aplicação: Método "Diante do Verbo"
+│
+├── 2. TERMO EXTERNO INDEPENDENTE (VOCATIVO)
+│
+├── Definição: Chamamento / Invocação do interlocutor
+│
+├── Pontuação: Obrigatoriamente ISOLADO por vírgula(s)
+│
+└── Variações: Início (Vrg após), Intercalado (Entre vírgulas), Fim (Vrg antes)
+│
+├── 3. TERMO EXPLICATIVO SUBSTANTIVO (APOSTO EXPLICATIVO)
+│
+├── Mantra: "Aposto é caso de SUBSTANTIVO" (Substantivo explica Substantivo)
+│
+├── Pontuação: Obrigatoriamente entre vírgulas, travessões ou parênteses
+│
+├── Teste de Validação: Inserção de "[que é]" mantendo a equivalência (A = B)
+│
+└── Distinções Críticas:
+│
+├── Adjetivo entre vírgulas = Predicativo do Sujeito Deslocado (NÃO é aposto)
+│
+└── Advérbio / Data entre vírgulas = Adjunto Adverbial (NÃO é aposto)
+│
+└── 4. TERMOS COORDENADOS (ENUMERAÇÃO E DOIS-PONTOS)
+├── Enumeração: Separação por vírgulas de termos de mesma função sintática
+├── Presença do conectivo "e": Marca adição/enumeração, afastando a ideia de aposto
+└── Sintaxe dos Dois-Pontos (:):
+├── Verbo + [: ] + Lista = ✗ INCORRETO (Violação do SVC)
+└── Verbo + Substantivo Genérico (OD) + [: ] + Lista = ✓ CORRETO (Aposto Enumerativo)
 ```
 
 ---

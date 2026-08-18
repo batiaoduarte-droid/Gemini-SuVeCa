@@ -46,7 +46,47 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Morfologia e Fonética elementar: Noções de significante (grafia e som/fonia) e significado (conteúdo semântico).
 
 ```text
-RELAÇÕES SEMÂNTICO-ESTRUTURAIS │ ├── A. FENÔMENOS DE DUPLO SENTIDO (AMBIGUIDADE / ANFIBOLOGIA) │ ├── 1. Ambiguidade Lexical (Vocabular) │ │ └── Palavra polissêmica em cotexto sem restrição semântica │ │ │ └── 2. Ambiguidade Estrutural (Sintática / Posicional) │ ├── Mau uso da coordenação ("e"): Adição simples vs. Ação recíproca/conflito │ ├── Mau uso de formas nominais: Gerúndio (-ndo) e Particípio (-do) com duplo sujeito │ ├── Mau uso de pronomes: Relativo "que" (duplo antecedente) e Possessivo "seu" (2 referentes no texto) │ ├── Má colocação de modificadores: Adjetivo vs. Advérbio / Escopo temporal ("já") │ └── Indefinição Agente vs. Paciente: Preposição "de" (Adjunto Adnominal vs. Complemento Nominal) │ ├── B. RELAÇÕES FORMAIS E SEMÂNTICAS ENTRE VOCÁBULOS │ ├── 1. Princípio Semântico Invariável: Sentidos SEMPRE diferentes │ ├── 2. Homonímia ("Homo" = Pelo menos um elemento 100% IGUAL) │ │ ├── Homônimos Perfeitos: Som = E Grafia = (ex.: manga/manga; feridos subst./adj.) │ │ └── Homônimos Imperfeitos: │ │ ├── Homófonos: Som = / Grafia ≠ (ex.: sessão/seção/cessão, paço/passo, acender/ascender) │ │ └── Homógrafos: Grafia = / Som ≠ (ex.: sede /ê/ vs. sede /é/, colher /ê/ vs. colher /é/) │ │ │ └── 3. Paronímia ("Paro" = Apenas PARECIDO; nada é 100% igual) │ └── Semelhança fonética e gráfica parcial (ex.: eminente/iminente, deferir/diferir, emigrar/imigrar) │ └── C. RELAÇÕES HIERÁRQUICAS E DE PROGRESSÃO TEXTUAL ├── Hiperonímia: Termo geral/abrangente (conjunto maior: animal, fruta) └── Hiponímia: Termo específico/subordinado (membro do conjunto: boi, maçã)
+RELAÇÕES SEMÂNTICO-ESTRUTURAIS
+│
+├── A. FENÔMENOS DE DUPLO SENTIDO (AMBIGUIDADE / ANFIBOLOGIA)
+│
+├── 1. Ambiguidade Lexical (Vocabular)
+│ │
+└── Palavra polissêmica em cotexto sem restrição semântica
+│ │ │
+└── 2. Ambiguidade Estrutural (Sintática / Posicional)
+│
+├── Mau uso da coordenação ("e"): Adição simples vs. Ação recíproca/conflito
+│
+├── Mau uso de formas nominais: Gerúndio (-ndo) e Particípio (-do) com duplo sujeito
+│
+├── Mau uso de pronomes: Relativo "que" (duplo antecedente) e Possessivo "seu" (2 referentes no texto)
+│
+├── Má colocação de modificadores: Adjetivo vs. Advérbio / Escopo temporal ("já")
+│
+└── Indefinição Agente vs. Paciente: Preposição "de" (Adjunto Adnominal vs. Complemento Nominal)
+│
+├── B. RELAÇÕES FORMAIS E SEMÂNTICAS ENTRE VOCÁBULOS
+│
+├── 1. Princípio Semântico Invariável: Sentidos SEMPRE diferentes
+│
+├── 2. Homonímia ("Homo" = Pelo menos um elemento 100% IGUAL)
+│ │
+├── Homônimos Perfeitos: Som = E Grafia = (ex.: manga/manga; feridos subst./adj.)
+│ │
+└── Homônimos Imperfeitos:
+│ │
+├── Homófonos: Som = / Grafia ≠ (ex.: sessão/seção/cessão, paço/passo, acender/ascender)
+│ │
+└── Homógrafos: Grafia = / Som ≠ (ex.: sede /ê/ vs. sede /é/, colher /ê/ vs. colher /é/)
+│ │ │
+└── 3. Paronímia ("Paro" = Apenas PARECIDO; nada é 100% igual)
+│
+└── Semelhança fonética e gráfica parcial (ex.: eminente/iminente, deferir/diferir, emigrar/imigrar)
+│
+└── C. RELAÇÕES HIERÁRQUICAS E DE PROGRESSÃO TEXTUAL
+├── Hiperonímia: Termo geral/abrangente (conjunto maior: animal, fruta)
+└── Hiponímia: Termo específico/subordinado (membro do conjunto: boi, maçã)
 ```
 
 ---
@@ -108,7 +148,16 @@ Ocorre quando um sintagma preposicionado por "de" liga-se a um substantivo abstr
 Esquema mnemônico-operacional criado para guiar a análise imediata de qualquer enunciado ambíguo em provas de concursos, reduzindo a tipologia a três vias lógicas de inspeção.
 
 ```text
-┌── 1. VIA DA PALAVRA (Ambiguidade Lexical) │ └─ Polissemia pura sem ancoragem contextual (ex.: banco, cachorro) │ MÉTODO DAS TRÊS VIAS ───┼── 2. VIA DOS CONECTIVOS ESPECÍFICOS │ ├── Preposição "DE": Agente (AA) vs. Paciente (CN) │ └── Conjunção "E": Soma Aditiva vs. Ação Recíproca/Oposição │ └── 3. VIA DAS SETAS (Referenciação e Posição) ├── Formas Nominais: Gerúndio (-ndo) e Particípio (-do) ├── Pronomes: Relativo ("que") e Possessivo ("seu") └── Modificadores Flutuantes: Adjetivo vs. Advérbio ("rápido", "já")
+┌── 1. VIA DA PALAVRA (Ambiguidade Lexical) │ └─ Polissemia pura sem ancoragem contextual (ex.: banco, cachorro) │ MÉTODO DAS TRÊS VIAS ───┼── 2. VIA DOS CONECTIVOS ESPECÍFICOS
+│
+├── Preposição "DE": Agente (AA) vs. Paciente (CN)
+│
+└── Conjunção "E": Soma Aditiva vs. Ação Recíproca/Oposição
+│
+└── 3. VIA DAS SETAS (Referenciação e Posição)
+├── Formas Nominais: Gerúndio (-ndo) e Particípio (-do)
+├── Pronomes: Relativo ("que") e Possessivo ("seu")
+└── Modificadores Flutuantes: Adjetivo vs. Advérbio ("rápido", "já")
 ```
 
 Diferentemente da sinonímia (em que os vocábulos compartilham campo semântico idêntico ou muito próximo), os homônimos e os parônimos caracterizam-se pela obrigatoriedade de significados completamente distintos.

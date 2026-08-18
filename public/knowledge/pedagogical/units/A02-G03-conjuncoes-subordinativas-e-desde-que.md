@@ -232,7 +232,10 @@ A tabela abaixo sintetiza as formulações canônicas consolidadas no esta unida
 2. Passo 4 — Checagem de Conectivos Polissêmicos: Se a substituição envolver conectivos como uma vez que ou desde que, execute o protocolo diagnóstico específico .
 
 ```text
-CONECTIVO POLISSÊMICO NO TEXTO │ ┌──────────────────────────┴──────────────────────────┐ ▼ ▼ "DESDE QUE" "UMA VEZ QUE" │ │ ▼ ▼ Inspecionar o MODO VERBAL Analisar a ORAÇÃO POSTERIOR da oração subordinada ao conectivo │ │ ┌────┴────┐ ┌────┴────┐ ▼ ▼ ▼ ▼ SUBJUNTIVO INDICATIVO MOTIVO/ HIPÓTESE/ │ │ EXPLICAÇÃO EXIGÊNCIA ▼ ▼ │ │ CONDIÇÃO TEMPO ▼ ▼ (= caso, (= desde quando, CAUSAL/ CONDICIONAL contanto desde o momento EXPLICATIVO (= se, contanto que) em que) (= porque) que)
+CONECTIVO POLISSÊMICO NO TEXTO
+│ ┌──────────────────────────┴──────────────────────────┐ ▼ ▼ "DESDE QUE" "UMA VEZ QUE" │
+│ ▼ ▼ Inspecionar o MODO VERBAL Analisar a ORAÇÃO POSTERIOR da oração subordinada ao conectivo │
+│ ┌────┴────┐ ┌────┴────┐ ▼ ▼ ▼ ▼ SUBJUNTIVO INDICATIVO MOTIVO/ HIPÓTESE/ │ │ EXPLICAÇÃO EXIGÊNCIA ▼ ▼ │ │ CONDIÇÃO TEMPO ▼ ▼ (= caso, (= desde quando, CAUSAL/ CONDICIONAL contanto desde o momento EXPLICATIVO (= se, contanto que) em que) (= porque) que)
 ```
 
 1. Passo 1 — Identificação do Conectivo: Localize o conectivo subordinativo destacado na oração.
@@ -254,7 +257,10 @@ CONECTIVO POLISSÊMICO NO TEXTO │ ┌─────────────�
 2. Passo 4 — Checagem de Conectivos Polissêmicos: Se a substituição envolver conectivos como uma vez que ou desde que, execute o protocolo diagnóstico específico .
 
 ```text
-CONECTIVO POLISSÊMICO NO TEXTO │ ┌──────────────────────────┴──────────────────────────┐ ▼ ▼ "DESDE QUE" "UMA VEZ QUE" │ │ ▼ ▼ Inspecionar o MODO VERBAL Analisar a ORAÇÃO POSTERIOR da oração subordinada ao conectivo │ │ ┌────┴────┐ ┌────┴────┐ ▼ ▼ ▼ ▼ SUBJUNTIVO INDICATIVO MOTIVO/ HIPÓTESE/ │ │ EXPLICAÇÃO EXIGÊNCIA ▼ ▼ │ │ CONDIÇÃO TEMPO ▼ ▼ (= caso, (= desde quando, CAUSAL/ CONDICIONAL contanto desde o momento EXPLICATIVO (= se, contanto que) em que) (= porque) que)
+CONECTIVO POLISSÊMICO NO TEXTO
+│ ┌──────────────────────────┴──────────────────────────┐ ▼ ▼ "DESDE QUE" "UMA VEZ QUE" │
+│ ▼ ▼ Inspecionar o MODO VERBAL Analisar a ORAÇÃO POSTERIOR da oração subordinada ao conectivo │
+│ ┌────┴────┐ ┌────┴────┐ ▼ ▼ ▼ ▼ SUBJUNTIVO INDICATIVO MOTIVO/ HIPÓTESE/ │ │ EXPLICAÇÃO EXIGÊNCIA ▼ ▼ │ │ CONDIÇÃO TEMPO ▼ ▼ (= caso, (= desde quando, CAUSAL/ CONDICIONAL contanto desde o momento EXPLICATIVO (= se, contanto que) em que) (= porque) que)
 ```
 
 ---

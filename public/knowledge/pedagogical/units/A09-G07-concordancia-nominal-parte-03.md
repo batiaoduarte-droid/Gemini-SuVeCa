@@ -46,7 +46,67 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Regra geral de concordância nominal (o adjetivo concorda em gênero e número com o substantivo a que se refere).
 
 ```text
-text CONCORDÂNCIA NOMINAL: EXPRESSÕES E CASOS ESPECIAIS │ ├── 1. EXPRESSÕES AVALIATIVAS (V.L. + PREDICATIVO) │ ├── Substantivo COM determinante (artigo, pronome, numeral, loc. adjetiva) ──► FLEXIONA │ ├── Substantivo SEM determinante (sentido geral/abstrato) ──► INVARIÁVEL (Masc. Sing.) │ └── Sujeito Oracional (Oração Substantiva Subjetiva = "ISSO") ──► INVARIÁVEL (Masc. Sing.) │ ├── 2. ESTRUTURAS SUPERLATIVAS COM "POSSÍVEL" │ ├── "Possível" segue estritamente o ARTIGO determinante da locução superlativa │ ├── Artigo no singular ("o / a mais...") ──► "possível" (singular) │ └── Artigo no plural ("os / as mais...") ──► "possíveis" (plural) │ ├── 3. LOCUÇÕES COM DUPLA POSSIBILIDADE NORMATIVA │ ├── "Haja vista": │ │ ├── Padrão invariável: "haja vista" (válido para singular ou plural) │ │ ├── Flexão verbal: "hajam vista" (admitido apenas diante de substantivo plural) │ │ └── Erro absoluto: "haja vistas" / "hajam vistas" (o substantivo "vista" NUNCA varia) │ └── "A olhos vistos" / "Olhos vistos": │ ├── Padrão invariável: "a olhos vistos" (concordância interna com "olhos") │ └── Concordância referencial: "a olhos visto / vista / vistos / vistas" (com o sujeito) │ ├── 4. ESTRUTURAS COMPARATIVAS E ANAFÓRICAS │ ├── "Tal qual" (Bivalente): │ │ ├── "TAL" concorda em número com o ANTECEDENTE │ │ └── "QUAL" concorda em número com o CONSEQUENTE │ └── "Como tal": O pronome "tal/tais" flexiona conforme o número do termo que retoma │ ├── 5. NÚCLEOS COORDENADOS E DOUTRINA DE BECHARA │ ├── "O período de X e Y" (1 artigo) ──► 1 núcleo expandido ──► Singular ("alterado") │ ├── "O período de X e de Y" (preposição repetida) ──► Preferência normativa: Singular │ └── "O período de X e o [período] de Y" (2 artigos) ──► 2 núcleos ──► Plural ("alterados") │ ├── 6. PARTICÍPIO NA VOZ PASSIVA ANALÍTICA │ └── Locução "ser + particípio" ──► Particípio concorda com o sujeito paciente │ └── 7. VOCÁBULOS ESPECIAIS ├── "Menos" ──► Estritamente invariável (inexiste "menas") ├── "Só" ──► Sentido de "somente/apenas" = advérbio invariável ├── "Junto" ──► Duplo referente: advérbio de modo (invariável) ou adjetivo (variável) └── "Alerta" ──► Advérbio invariável / uso de "em alerta" como locução invariável
+text CONCORDÂNCIA NOMINAL: EXPRESSÕES E CASOS ESPECIAIS
+│
+├── 1. EXPRESSÕES AVALIATIVAS (V.L. + PREDICATIVO)
+│
+├── Substantivo COM determinante (artigo, pronome, numeral, loc. adjetiva) ──► FLEXIONA
+│
+├── Substantivo SEM determinante (sentido geral/abstrato) ──► INVARIÁVEL (Masc. Sing.)
+│
+└── Sujeito Oracional (Oração Substantiva Subjetiva = "ISSO") ──► INVARIÁVEL (Masc. Sing.)
+│
+├── 2. ESTRUTURAS SUPERLATIVAS COM "POSSÍVEL"
+│
+├── "Possível" segue estritamente o ARTIGO determinante da locução superlativa
+│
+├── Artigo no singular ("o / a mais...") ──► "possível" (singular)
+│
+└── Artigo no plural ("os / as mais...") ──► "possíveis" (plural)
+│
+├── 3. LOCUÇÕES COM DUPLA POSSIBILIDADE NORMATIVA
+│
+├── "Haja vista":
+│ │
+├── Padrão invariável: "haja vista" (válido para singular ou plural)
+│ │
+├── Flexão verbal: "hajam vista" (admitido apenas diante de substantivo plural)
+│ │
+└── Erro absoluto: "haja vistas" / "hajam vistas" (o substantivo "vista" NUNCA varia)
+│
+└── "A olhos vistos" / "Olhos vistos":
+│
+├── Padrão invariável: "a olhos vistos" (concordância interna com "olhos")
+│
+└── Concordância referencial: "a olhos visto / vista / vistos / vistas" (com o sujeito)
+│
+├── 4. ESTRUTURAS COMPARATIVAS E ANAFÓRICAS
+│
+├── "Tal qual" (Bivalente):
+│ │
+├── "TAL" concorda em número com o ANTECEDENTE
+│ │
+└── "QUAL" concorda em número com o CONSEQUENTE
+│
+└── "Como tal": O pronome "tal/tais" flexiona conforme o número do termo que retoma
+│
+├── 5. NÚCLEOS COORDENADOS E DOUTRINA DE BECHARA
+│
+├── "O período de X e Y" (1 artigo) ──► 1 núcleo expandido ──► Singular ("alterado")
+│
+├── "O período de X e de Y" (preposição repetida) ──► Preferência normativa: Singular
+│
+└── "O período de X e o [período] de Y" (2 artigos) ──► 2 núcleos ──► Plural ("alterados")
+│
+├── 6. PARTICÍPIO NA VOZ PASSIVA ANALÍTICA
+│
+└── Locução "ser + particípio" ──► Particípio concorda com o sujeito paciente
+│
+└── 7. VOCÁBULOS ESPECIAIS
+├── "Menos" ──► Estritamente invariável (inexiste "menas")
+├── "Só" ──► Sentido de "somente/apenas" = advérbio invariável
+├── "Junto" ──► Duplo referente: advérbio de modo (invariável) ou adjetivo (variável)
+└── "Alerta" ──► Advérbio invariável / uso de "em alerta" como locução invariável
 ```
 
 ---

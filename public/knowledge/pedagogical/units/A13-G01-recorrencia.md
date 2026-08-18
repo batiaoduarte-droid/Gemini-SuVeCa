@@ -44,7 +44,46 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Reconhecimento dos valores semânticos fundamentais dos conectivos coordenativos (especialmente a adversidade).
 
 ```text
-COMPREENSÃO TEXTUAL EM CONCURSOS (RECORRÊNCIA) │ ├── 1. Princípios Epistêmicos │ ├── Foco no Explícito (Literalidade Semântica) │ ├── Fechamento Textual (O texto como universo fechado de validade) │ └── "Verdade do Texto" vs. "Verdade da Vida" (Proibição de conhecimento empírico externo) │ ├── 2. Tipologia de Formulação de Assertivas │ ├── Paráfrase Correta (Equivalência Semântica Integral) │ │ ├── Sinonímia Vocabular e Reestruturação Sintática │ │ ├── Singular Genérico / Categórico (Singular ↔ Plural) │ │ └── Equivalência Temporal de Simultaneidade ("Paralelo" ↔ "Tão antigo quanto") │ ├── Paráfrase Incorreta por Contradição │ │ └── Inversão da Polaridade Semântica ([+] ↔ [-] / Presença de advérbio desestabilizador) │ └── Paráfrase Incorreta por Extrapolação │ ├── Dedução não autorizada (O falso raciocínio "Se... então") │ ├── Conversão de Tempo/Cronologia em Hierarquia/Importância │ ├── Inserção de Termos Modais ou Quantificadores Ausentes ("a maior parte", "difundida") │ └── Troca de Referentes em Torno de Adversativas ("Mas") │ └── 3. Procedimentos e Ferramentas Operacionais ├── Protocolo de Fragmentação da Assertiva (Numeração 1, 2, 3...) ├── Técnica das Setas ("Setas Salvam" — Rastreamento de Referentes e Elipses) ├── Matriz de Polarização Semântica ([+] vs. [-]) ├── Técnica do Desapego Provisório (Uso do ponto de interrogação "?") └── Manejo Rápido de Enumerações Extensas (Enlace Hiperonímico)
+COMPREENSÃO TEXTUAL EM CONCURSOS (RECORRÊNCIA)
+│
+├── 1. Princípios Epistêmicos
+│
+├── Foco no Explícito (Literalidade Semântica)
+│
+├── Fechamento Textual (O texto como universo fechado de validade)
+│
+└── "Verdade do Texto" vs. "Verdade da Vida" (Proibição de conhecimento empírico externo)
+│
+├── 2. Tipologia de Formulação de Assertivas
+│
+├── Paráfrase Correta (Equivalência Semântica Integral)
+│ │
+├── Sinonímia Vocabular e Reestruturação Sintática
+│ │
+├── Singular Genérico / Categórico (Singular ↔ Plural)
+│ │
+└── Equivalência Temporal de Simultaneidade ("Paralelo" ↔ "Tão antigo quanto")
+│
+├── Paráfrase Incorreta por Contradição
+│ │
+└── Inversão da Polaridade Semântica ([+] ↔ [-] / Presença de advérbio desestabilizador)
+│
+└── Paráfrase Incorreta por Extrapolação
+│
+├── Dedução não autorizada (O falso raciocínio "Se... então")
+│
+├── Conversão de Tempo/Cronologia em Hierarquia/Importância
+│
+├── Inserção de Termos Modais ou Quantificadores Ausentes ("a maior parte", "difundida")
+│
+└── Troca de Referentes em Torno de Adversativas ("Mas")
+│
+└── 3. Procedimentos e Ferramentas Operacionais
+├── Protocolo de Fragmentação da Assertiva (Numeração 1, 2, 3...)
+├── Técnica das Setas ("Setas Salvam" — Rastreamento de Referentes e Elipses)
+├── Matriz de Polarização Semântica ([+] vs. [-])
+├── Técnica do Desapego Provisório (Uso do ponto de interrogação "?")
+└── Manejo Rápido de Enumerações Extensas (Enlace Hiperonímico)
 ```
 
 ---
@@ -103,7 +142,11 @@ MECANISMO DA CONTRADIÇÃO: Texto Original: [Elemento A (+)] ──► [Resultad
 A extrapolação textual ocorre quando a assertiva introduz dados quantitativos, qualificadores, relações de causalidade, juízos de prioridade ou noções de mundo real que não possuem âncora textual explícita no fragmento de apoio.
 
 ```text
-MANIFESTAÇÕES DA EXTRAPOLAÇÃO: ├── 1. Falso "Se... Então": Dedução psicológica livre não explicitada pelo autor. ├── 2. Eixo Temporal vs. Eixo Axiológico: Converter ordem cronológica ("de início") em prioridade ("priorizar"). ├── 3. Inserção de Termos Ausentes: Adicionar verbos ou adjetivos inexistentes (ex.: "difundida"). └── 4. "Verdade da Vida" vs. "Verdade do Texto": Validar assertiva com base em fatos empíricos externos não expressos.
+MANIFESTAÇÕES DA EXTRAPOLAÇÃO:
+├── 1. Falso "Se... Então": Dedução psicológica livre não explicitada pelo autor.
+├── 2. Eixo Temporal vs. Eixo Axiológico: Converter ordem cronológica ("de início") em prioridade ("priorizar").
+├── 3. Inserção de Termos Ausentes: Adicionar verbos ou adjetivos inexistentes (ex.: "difundida").
+└── 4. "Verdade da Vida" vs. "Verdade do Texto": Validar assertiva com base em fatos empíricos externos não expressos.
 ```
 
 A extrapolação manifesta-se pedagogicamente sob quatro vertentes críticas:
@@ -152,7 +195,9 @@ $$
 Validar itens de compreensão textual em provas de concurso (especialmente itens Certo/Errado do Cebraspe), neutralizando erros de impulsividade, falsos paralelismos, contradições e extrapolações.
 
 ```text
-[Passo 1: Identificar o Comando de Prova] │ • Localizar fórmulas: "De acordo com o texto...", "Conforme as ideias..." │ • Desativar inferência livre; ativar rastreamento estrito de explícitos. ▼ [Passo 2: Leitura Global Silenciosa com Técnica das Setas] │ • Ler internamente sem oralizar ("Um olho no peixe, outro no gato"). │ • Traçar setas ligando pronomes, elipses e adjetivos aos antecedentes. │ • Mapear conectivos de polaridade e adversativas ("Mas"). ▼ [Passo 3: Fragmentação e Numeração Analítica da Assertiva] │ • Dividir a frase da banca em blocos de sentido: [1], [2], [3], [4]... │ • Isolar: Sujeito / Verbo / Complemento / Circunstâncias / Modificadores. ▼ [Passo 4: Confronto Bloco a Bloco com o Texto-Base] │ • Mapear equivalência sinônima para cada número. │ • Validar singular genérico (= plural) e simultaneidade temporal. │ • Aplicar "Desapego Provisório" (marcar "?" em caso de dúvida temporária). ▼ [Passo 5: Teste de Polarização e Blindagem Epistêmica] │ • Houve inversão de carga semântica ([+] vs. [-])? ──► Erro por Contradição. │ • Há termos ausentes ("difundida", "priorizar")? ──► Erro por Extrapolação. │ • O dado decorre apenas da "verdade da vida"? ──► Erro por Extrapolação. ▼ [Passo 6: Julgamento Conclusivo] ├── Todos os blocos possuem âncora explícita e compatível ──► CERTO └── Qualquer bloco apresenta contradição, extrapolação ou troca de agente ──► ERRADO
+[Passo 1: Identificar o Comando de Prova] │ • Localizar fórmulas: "De acordo com o texto...", "Conforme as ideias..." │ • Desativar inferência livre; ativar rastreamento estrito de explícitos. ▼ [Passo 2: Leitura Global Silenciosa com Técnica das Setas] │ • Ler internamente sem oralizar ("Um olho no peixe, outro no gato"). │ • Traçar setas ligando pronomes, elipses e adjetivos aos antecedentes. │ • Mapear conectivos de polaridade e adversativas ("Mas"). ▼ [Passo 3: Fragmentação e Numeração Analítica da Assertiva] │ • Dividir a frase da banca em blocos de sentido: [1], [2], [3], [4]... │ • Isolar: Sujeito / Verbo / Complemento / Circunstâncias / Modificadores. ▼ [Passo 4: Confronto Bloco a Bloco com o Texto-Base] │ • Mapear equivalência sinônima para cada número. │ • Validar singular genérico (= plural) e simultaneidade temporal. │ • Aplicar "Desapego Provisório" (marcar "?" em caso de dúvida temporária). ▼ [Passo 5: Teste de Polarização e Blindagem Epistêmica] │ • Houve inversão de carga semântica ([+] vs. [-])? ──► Erro por Contradição. │ • Há termos ausentes ("difundida", "priorizar")? ──► Erro por Extrapolação. │ • O dado decorre apenas da "verdade da vida"? ──► Erro por Extrapolação. ▼ [Passo 6: Julgamento Conclusivo]
+├── Todos os blocos possuem âncora explícita e compatível ──► CERTO
+└── Qualquer bloco apresenta contradição, extrapolação ou troca de agente ──► ERRADO
 ```
 
 1. Leitura Silenciosa Contínua: Realizar a leitura estritamente interna (evitar sussurros ou leitura labial que consomem atenção e energia cognitiva).
@@ -171,7 +216,9 @@ Validar itens de compreensão textual em provas de concurso (especialmente itens
 #### Fluxograma Operacional
 
 ```text
-[Passo 1: Identificar o Comando de Prova] │ • Localizar fórmulas: "De acordo com o texto...", "Conforme as ideias..." │ • Desativar inferência livre; ativar rastreamento estrito de explícitos. ▼ [Passo 2: Leitura Global Silenciosa com Técnica das Setas] │ • Ler internamente sem oralizar ("Um olho no peixe, outro no gato"). │ • Traçar setas ligando pronomes, elipses e adjetivos aos antecedentes. │ • Mapear conectivos de polaridade e adversativas ("Mas"). ▼ [Passo 3: Fragmentação e Numeração Analítica da Assertiva] │ • Dividir a frase da banca em blocos de sentido: [1], [2], [3], [4]... │ • Isolar: Sujeito / Verbo / Complemento / Circunstâncias / Modificadores. ▼ [Passo 4: Confronto Bloco a Bloco com o Texto-Base] │ • Mapear equivalência sinônima para cada número. │ • Validar singular genérico (= plural) e simultaneidade temporal. │ • Aplicar "Desapego Provisório" (marcar "?" em caso de dúvida temporária). ▼ [Passo 5: Teste de Polarização e Blindagem Epistêmica] │ • Houve inversão de carga semântica ([+] vs. [-])? ──► Erro por Contradição. │ • Há termos ausentes ("difundida", "priorizar")? ──► Erro por Extrapolação. │ • O dado decorre apenas da "verdade da vida"? ──► Erro por Extrapolação. ▼ [Passo 6: Julgamento Conclusivo] ├── Todos os blocos possuem âncora explícita e compatível ──► CERTO └── Qualquer bloco apresenta contradição, extrapolação ou troca de agente ──► ERRADO
+[Passo 1: Identificar o Comando de Prova] │ • Localizar fórmulas: "De acordo com o texto...", "Conforme as ideias..." │ • Desativar inferência livre; ativar rastreamento estrito de explícitos. ▼ [Passo 2: Leitura Global Silenciosa com Técnica das Setas] │ • Ler internamente sem oralizar ("Um olho no peixe, outro no gato"). │ • Traçar setas ligando pronomes, elipses e adjetivos aos antecedentes. │ • Mapear conectivos de polaridade e adversativas ("Mas"). ▼ [Passo 3: Fragmentação e Numeração Analítica da Assertiva] │ • Dividir a frase da banca em blocos de sentido: [1], [2], [3], [4]... │ • Isolar: Sujeito / Verbo / Complemento / Circunstâncias / Modificadores. ▼ [Passo 4: Confronto Bloco a Bloco com o Texto-Base] │ • Mapear equivalência sinônima para cada número. │ • Validar singular genérico (= plural) e simultaneidade temporal. │ • Aplicar "Desapego Provisório" (marcar "?" em caso de dúvida temporária). ▼ [Passo 5: Teste de Polarização e Blindagem Epistêmica] │ • Houve inversão de carga semântica ([+] vs. [-])? ──► Erro por Contradição. │ • Há termos ausentes ("difundida", "priorizar")? ──► Erro por Extrapolação. │ • O dado decorre apenas da "verdade da vida"? ──► Erro por Extrapolação. ▼ [Passo 6: Julgamento Conclusivo]
+├── Todos os blocos possuem âncora explícita e compatível ──► CERTO
+└── Qualquer bloco apresenta contradição, extrapolação ou troca de agente ──► ERRADO
 ```
 
 1. Leitura Silenciosa Contínua: Realizar a leitura estritamente interna (evitar sussurros ou leitura labial que consomem atenção e energia cognitiva).

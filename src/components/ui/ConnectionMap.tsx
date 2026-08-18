@@ -1,7 +1,9 @@
-import React, { useState } from 'react';
-import { GitBranch, ArrowDown, ChevronRight, Layers, Sparkles } from 'lucide-react';
+import React from 'react';
+import { GitBranch } from 'lucide-react';
 import { PorquesVisualGuide } from './PorquesVisualGuide';
 import { SyllablePhoneticsVisualGuide } from './SyllablePhoneticsVisualGuide';
+import { PolifoniaDoXVisualGuide } from './PolifoniaDoXVisualGuide';
+import { DigrafosVisualGuide } from './DigrafosVisualGuide';
 import { PedagogicalFlowchart } from './PedagogicalFlowchart';
 import { PedagogicalTreeDiagram } from './PedagogicalTreeDiagram';
 import { EnhancedCodeBlock } from './EnhancedCodeBlock';
@@ -36,16 +38,39 @@ export const isPorquesDiagram = (source: string) => {
   );
 };
 
-export const isSyllablePhoneticsDiagram = (source: string) => {
+export const isPolifoniaDoXDiagram = (source: string) => {
   const normalized = source.toUpperCase();
   return (
-    normalized.includes('ESTUDO DA SÍLABA') ||
-    normalized.includes('ESTUDO DA SILABA') ||
-    (normalized.includes('ENCONTROS VOCÁLICOS') && normalized.includes('DÍGRAFO')) ||
-    (normalized.includes('ENCONTROS VOCÁLICOS') && normalized.includes('DIVISÃO SILÁBICA')) ||
-    (normalized.includes('POLIFONIA DO "X"') && normalized.includes('FONEMA')) ||
-    (normalized.includes('MANTRA DA VOGAL ÚNICA') || (normalized.includes('DÍGRAFOS CONSONANTAIS') && normalized.includes('DÍFONOS')))
+    normalized.includes('POLIFONIA DO X') ||
+    normalized.includes('POLIFONIA DO "X"') ||
+    (normalized.includes('SOM DE /KS/') && normalized.includes('SOM DE /Z/'))
   );
+};
+
+export const isDigrafosDiagram = (source: string) => {
+  const normalized = source.toUpperCase();
+  return (
+    normalized.includes('DÍGRAFOS (2L = 1 SOM)') ||
+    normalized.includes('DIGRAFOS (2L = 1 SOM)') ||
+    (normalized.includes('CONSONANTAIS: CH, LH') && normalized.includes('VOCÁLICOS: AM, EM'))
+  );
+};
+
+export const isSyllablePhoneticsDiagram = (source: string) => {
+  const normalized = source.toUpperCase();
+  // Strictly match only the full comprehensive master guide to prevent duplicate cards
+  const isMasterTitle =
+    normalized.includes('ESTUDO DA SÍLABA E FONÉTICA') ||
+    normalized.includes('ESQUEMA DE SÍLABA, FONÉTICA E FONEMAS') ||
+    normalized.includes('SÍLABA, FONÉTICA E FONEMAS');
+
+  const hasAllPillarsSimultaneously =
+    normalized.includes('MANTRA DA VOGAL ÚNICA') &&
+    normalized.includes('ENCONTROS VOCÁLICOS') &&
+    normalized.includes('DIVISÃO SILÁBICA') &&
+    normalized.includes('POLIFONIA DO "X"');
+
+  return isMasterTitle || hasAllPillarsSimultaneously;
 };
 
 export const isFlowchartDiagram = (source: string) => {
@@ -69,6 +94,8 @@ export const isTreeDiagram = (source: string) => {
 export const looksLikeConnectionMap = (source: string) => {
   if (
     isPorquesDiagram(source) ||
+    isPolifoniaDoXDiagram(source) ||
+    isDigrafosDiagram(source) ||
     isSyllablePhoneticsDiagram(source) ||
     isFlowchartDiagram(source) ||
     isTreeDiagram(source)
@@ -85,22 +112,32 @@ export const ConnectionMap: React.FC<ConnectionMapProps> = ({ source }) => {
     return <PorquesVisualGuide rawSource={source} />;
   }
 
-  // 2. Specialized native visual guide for Syllable & Phonetics
+  // 2. Specialized targeted visual guide for X Polyphony
+  if (isPolifoniaDoXDiagram(source)) {
+    return <PolifoniaDoXVisualGuide rawSource={source} />;
+  }
+
+  // 3. Specialized targeted visual guide for Dígrafos
+  if (isDigrafosDiagram(source)) {
+    return <DigrafosVisualGuide rawSource={source} />;
+  }
+
+  // 4. Specialized master guide for full Syllable & Phonetics schema
   if (isSyllablePhoneticsDiagram(source)) {
     return <SyllablePhoneticsVisualGuide rawSource={source} />;
   }
 
-  // 3. Specialized native visual flowchart for procedural algorithms and decisions
+  // 5. Specialized native visual flowchart for procedural algorithms and decisions
   if (isFlowchartDiagram(source)) {
     return <PedagogicalFlowchart source={source} />;
   }
 
-  // 4. Specialized native visual tree for taxonomies and syntax hierarchies
+  // 6. Specialized native visual tree for taxonomies and syntax hierarchies
   if (isTreeDiagram(source)) {
     return <PedagogicalTreeDiagram source={source} />;
   }
 
-  // 5. General Connection Map with steps, visual flow, and code block
+  // 7. General Connection Map with steps, visual flow, and code block
   const nodes = linearizeMap(source);
   const summary = nodes.length
     ? `Mapa de conexões em ${nodes.length} etapas: ${nodes.join('; ')}.`

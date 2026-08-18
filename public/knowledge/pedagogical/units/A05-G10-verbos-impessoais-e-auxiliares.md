@@ -47,7 +47,15 @@ SINTAXE E MORFOLOGIA VERBAL │ ┌───────────────
 1. VERBOS IMPESSOAIS 2. LOCUÇÕES VERBAIS 3. TIPOLOGIA DO SUJEITO
 
 ```text
-│ │ E CONCORDÂNCIA ├─ Regra Geral: ├─ Estrutura: │ │ • Sem sujeito / Sem pessoa │ • V. Principal: ÚLTIMO ├─ 1ª P.S. ("Saí") e 1ª P.P. ("Saímos"): │ • Fixo na 3ª pess. singular │ (Infinitivo/Gerúndio/ │ • Sujeito Oculto / Desinencial / │ │ Particípio) │ Elíptico (morfologia unívoca) ├─ Fenômenos da Natureza: │ • V. Auxiliar(es): ANTERIORES │ │ • Denotativo = Impessoal │ (Carregam as flexões) ├─ 3ª P.S. ("Saiu"): │ ("Chovia forte") │ │ • Sujeito Oculto / Elíptico Contextual │ • Conotativo = Pessoal ├─ Tempos Compostos: │ • NÃO é desinencial puro │ ("Choveram críticas") │ • [TER/HAVER + Particípio] │ • NÃO é indeterminado (salvo c/ "SE") │ │ │ ├─ Verbo Fazer: ├─ Intercalação e Cadeias: └─ 3ª P.P. ("Saíram" sem referente): │ • Tempo decorrido / Clima │ • Admite prep./pronome/advérbio │ • Sujeito Indeterminado │ ("Faz 2 anos" / "Faz frio") │ • Cadeia 3+ verbos: flexiona │ │ • Oposição: "Saiu o sol" │ apenas o 1º AUXILIAR │ │ │ │ └─ Verbo Haver: └─ O Mantra da Locução: │ ├─ Impessoal Pleno (3 valores) • "O principal manda, o │ │ 1. Existir ("Há vagas") auxiliar obedece" │ │ 2. Ocorrer ("Houve erros") • "O auxiliar carrega a │ │ 3. Tempo ("Há dias") (im)pessoalidade do principal"│ │ (Rege Objeto Direto) │ │ │ ├── V. Princ. Pessoal ────┘ └─ Pessoal Legítimo (Plural) │ ("Hão de existir")
+│ │ E CONCORDÂNCIA ├─ Regra Geral: ├─ Estrutura: │ │ • Sem sujeito / Sem pessoa │ • V. Principal: ÚLTIMO ├─ 1ª P.S. ("Saí") e 1ª P.P. ("Saímos"): │ • Fixo na 3ª pess. singular │ (Infinitivo/Gerúndio/ │ • Sujeito Oculto / Desinencial / │ │ Particípio) │ Elíptico (morfologia unívoca) ├─ Fenômenos da Natureza: │ • V. Auxiliar(es): ANTERIORES │ │ • Denotativo = Impessoal │ (Carregam as flexões) ├─ 3ª P.S. ("Saiu"): │ ("Chovia forte") │ │ • Sujeito Oculto / Elíptico Contextual │ • Conotativo = Pessoal ├─ Tempos Compostos: │ • NÃO é desinencial puro │ ("Choveram críticas") │ • [TER/HAVER + Particípio] │ • NÃO é indeterminado (salvo c/ "SE") │ │ │ ├─ Verbo Fazer: ├─ Intercalação e Cadeias: └─ 3ª P.P. ("Saíram" sem referente): │ • Tempo decorrido / Clima │ • Admite prep./pronome/advérbio │ • Sujeito Indeterminado │ ("Faz 2 anos" / "Faz frio") │ • Cadeia 3+ verbos: flexiona │ │ • Oposição: "Saiu o sol" │ apenas o 1º AUXILIAR │ │ │ │ └─ Verbo Haver: └─ O Mantra da Locução: │ ├─ Impessoal Pleno (3 valores) • "O principal manda, o │
+│
+└── 1. Existir ("Há vagas") auxiliar obedece" │
+│
+└── 2. Ocorrer ("Houve erros") • "O auxiliar carrega a │
+│
+└── 3. Tempo ("Há dias") (im)pessoalidade do principal"│ │ (Rege Objeto Direto)
+│ │ │
+├── V. Princ. Pessoal ────┘ └─ Pessoal Legítimo (Plural) │ ("Hão de existir")
 ```
 
 1. Pronominal ("houveram-se") └── V. Princ. Impessoal

@@ -46,7 +46,55 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Pronomes: Reconhecimento dos valores anafóricos do pronome relativo que e das funções do pronome oblíquo se.
 
 ```text
-SISTEMA DAS VOZES VERBAIS EM CONCURSOS PÚBLICOS │ ├── 1. VOZ ATIVA (Sujeito Agente ou Estrutura Sem Marcação Passiva) │ ├── Verbos Transitivos Diretos, Indiretos, Diretos e Indiretos, Intransitivos │ ├── Verbos de Ligação + Predicativo do Sujeito (ex.: "era filósofo", "estão destinados") │ ├── Verbos Pronominais / PIV (ex.: "queixavam-se", "sair-se", "acomodou-se", "dar-se") │ ├── Orações com Índice de Indeterminação do Sujeito (ex.: "trabalha-se como escravo") │ └── Orações Sem Sujeito / Verbos Impessoais (ex.: "Há muitas decepções") │ ├── 2. VOZ PASSIVA (Sujeito Paciente sofre a ação verbal) │ ├── A. Voz Passiva Analítica │ │ ├── Estrutura Canônica: [Verbo Auxiliar SER] + [Particípio do Verbo Principal] │ │ ├── Agente da Passiva: │ │ │ ├── Explícito / Expresso: Introduzido por 'por' / 'pelo(a)' (ex.: "julgado pelas crianças") │ │ │ └── Indeterminado / Omitido: (ex.: "somos feitos", "foram transportados") │ │ └── Alerta Estrutural: Admite adjuntos adverbiais intercalados ("foi duas vezes concedido") │ │ │ └── B. Voz Passiva Sintética (Pronominal) │ ├── Estrutura: [VTD / VTDI na 3ª pessoa] + [Pronome Apassivador SE] + [Sujeito Paciente] │ ├── Princípio de Economia: Dispensa verbo auxiliar e normalmente omite o agente │ └── Validação Algorítmica: Obrigatoriedade de conversão plena para a Passiva Analítica │ ├── 3. VOZ REFLEXIVA E VOZ RECÍPROCA │ ├── Voz Reflexiva: Sujeito pratica e sofre a ação (Pronome SE = "a si mesmo/a si próprio") │ └── Voz Recíproca: Sujeitos trocam ações no plural (Pronome SE = "uns aos outros") │ └── 4. MECÂNICA DA TRANSPOSIÇÃO (Ativa ➔ Passiva Analítica) ├── Requisito Primário: Presença de OBJETO DIRETO na voz ativa (VTD ou VTDI) │ └── Mecanismo: [O.D. da Ativa] vira [Sujeito Paciente da Passiva] ├── Incompatibilidades Estruturais: VI, VTI e VL NÃO admitem transposição ├── Exceção Semântica Absoluta: Verbo "HAVER" impessoal existencial (VTD sem passiva) └── Validação Discursiva (CESPE): Checagem da preservação lógica de orações reduzidas intercaladas
+SISTEMA DAS VOZES VERBAIS EM CONCURSOS PÚBLICOS
+│
+├── 1. VOZ ATIVA (Sujeito Agente ou Estrutura Sem Marcação Passiva)
+│
+├── Verbos Transitivos Diretos, Indiretos, Diretos e Indiretos, Intransitivos
+│
+├── Verbos de Ligação + Predicativo do Sujeito (ex.: "era filósofo", "estão destinados")
+│
+├── Verbos Pronominais / PIV (ex.: "queixavam-se", "sair-se", "acomodou-se", "dar-se")
+│
+├── Orações com Índice de Indeterminação do Sujeito (ex.: "trabalha-se como escravo")
+│
+└── Orações Sem Sujeito / Verbos Impessoais (ex.: "Há muitas decepções")
+│
+├── 2. VOZ PASSIVA (Sujeito Paciente sofre a ação verbal)
+│
+├── A. Voz Passiva Analítica
+│ │
+├── Estrutura Canônica: [Verbo Auxiliar SER] + [Particípio do Verbo Principal]
+│ │
+├── Agente da Passiva:
+│ │ │
+├── Explícito / Expresso: Introduzido por 'por' / 'pelo(a)' (ex.: "julgado pelas crianças")
+│ │ │
+└── Indeterminado / Omitido: (ex.: "somos feitos", "foram transportados")
+│ │
+└── Alerta Estrutural: Admite adjuntos adverbiais intercalados ("foi duas vezes concedido")
+│ │ │
+└── B. Voz Passiva Sintética (Pronominal)
+│
+├── Estrutura: [VTD / VTDI na 3ª pessoa] + [Pronome Apassivador SE] + [Sujeito Paciente]
+│
+├── Princípio de Economia: Dispensa verbo auxiliar e normalmente omite o agente
+│
+└── Validação Algorítmica: Obrigatoriedade de conversão plena para a Passiva Analítica
+│
+├── 3. VOZ REFLEXIVA E VOZ RECÍPROCA
+│
+├── Voz Reflexiva: Sujeito pratica e sofre a ação (Pronome SE = "a si mesmo/a si próprio")
+│
+└── Voz Recíproca: Sujeitos trocam ações no plural (Pronome SE = "uns aos outros")
+│
+└── 4. MECÂNICA DA TRANSPOSIÇÃO (Ativa ➔ Passiva Analítica)
+├── Requisito Primário: Presença de OBJETO DIRETO na voz ativa (VTD ou VTDI)
+│
+└── Mecanismo: [O.D. da Ativa] vira [Sujeito Paciente da Passiva]
+├── Incompatibilidades Estruturais: VI, VTI e VL NÃO admitem transposição
+├── Exceção Semântica Absoluta: Verbo "HAVER" impessoal existencial (VTD sem passiva)
+└── Validação Discursiva (CESPE): Checagem da preservação lógica de orações reduzidas intercaladas
 ```
 
 ---
@@ -76,7 +124,13 @@ Uma das armadilhas mais letais elaboradas pelo CESPE/CEBRASPE e pela FCC consist
 - Na Passiva Sintética: Em "onde se fala ucraniano", o vocábulo ucraniano é o sujeito paciente determinado singular. O agente que fala é indeterminado, mas o sujeito sintático está presente e explícito.
 
 ```text
-┌─────────────────────────────────────────────────────────┐ │ A EQUAÇÃO INVIOLÁVEL: SUJEITO ≠ AGENTE DA PASSIVA │ └─────────────────────────────────────────────────────────┘ "São excluídos do cálculo os desligamentos..." │ │ └───────────────┘ │ │ │ │ │ └── SUJEITO SINTÁTICO PACIENTE │ │ (Determinado, no plural e posposto) │ │ │ └── ADJUNTO ADVERBIAL │ └── LOCUÇÃO PASSIVA ANALÍTICA (SER + PARTICÍPIO)
+┌─────────────────────────────────────────────────────────┐ │ A EQUAÇÃO INVIOLÁVEL: SUJEITO ≠ AGENTE DA PASSIVA │ └─────────────────────────────────────────────────────────┘ "São excluídos do cálculo os desligamentos..." │ │ └───────────────┘ │ │
+│ │ │
+└── SUJEITO SINTÁTICO PACIENTE │ │ (Determinado, no plural e posposto)
+│ │ │
+└── ADJUNTO ADVERBIAL
+│
+└── LOCUÇÃO PASSIVA ANALÍTICA (SER + PARTICÍPIO)
 ```
 
 - AGENTE DA PASSIVA = Omitido / Indeterminado
@@ -125,7 +179,8 @@ A passiva sintética atende a um princípio de economia linguística: elimina a 
 A classificação sintática da oração e a determinação da voz verbal associada à partícula SE dependem estritamente da transitividade do verbo e da relação semântica estabelecida com o sujeito, dividindo-se em: Partícula Apassivadora (PA), Parte Integrante do Verbo (PIV), Índice de Indeterminação do Sujeito (IIS) e Pronome Reflexivo/Recíproco.
 
 ```text
-┌──────────────────────────────────┐ │ ANÁLISE SINTÁTICA DO "SE" │ └──────────────────────────────────┘ │ ┌──────────────────────────────┬───────┴──────────────────────┬──────────────────────────────┐ ▼ ▼ ▼ ▼ [ 1. VTD / VTDI ] [ 2. VI / VTI / VL ] [ 3. VERBO PRONOMINAL ] [ 4. VALOR ANAFÓRICO ] │ │ │ │ • SE = Pronome Apassivador • SE = Índice de Indeterm. • SE = Parte Integrante (PIV) • SE = Pronome Reflexivo • Sujeito = Paciente • Sujeito = Indeterminado • Sujeito = Agente / Exper. • Sujeito = Agente e Paciente • Admite Passiva Analítica • Verbo fixo no singular 3ª • Verbo de afeto/mudança/fato • Equivale a "a si mesmo" • VOZ PASSIVA SINTÉTICA • VOZ ATIVA • VOZ ATIVA • VOZ REFLEXIVA / RECÍP. (ex.: "Vendem-se casas") (ex.: "Trabalha-se muito") (ex.: "Queixou-se da dor") (ex.: "O homem feriu-se")
+┌──────────────────────────────────┐ │ ANÁLISE SINTÁTICA DO "SE" │ └──────────────────────────────────┘
+│ ┌──────────────────────────────┬───────┴──────────────────────┬──────────────────────────────┐ ▼ ▼ ▼ ▼ [ 1. VTD / VTDI ] [ 2. VI / VTI / VL ] [ 3. VERBO PRONOMINAL ] [ 4. VALOR ANAFÓRICO ] │ │ │ │ • SE = Pronome Apassivador • SE = Índice de Indeterm. • SE = Parte Integrante (PIV) • SE = Pronome Reflexivo • Sujeito = Paciente • Sujeito = Indeterminado • Sujeito = Agente / Exper. • Sujeito = Agente e Paciente • Admite Passiva Analítica • Verbo fixo no singular 3ª • Verbo de afeto/mudança/fato • Equivale a "a si mesmo" • VOZ PASSIVA SINTÉTICA • VOZ ATIVA • VOZ ATIVA • VOZ REFLEXIVA / RECÍP. (ex.: "Vendem-se casas") (ex.: "Trabalha-se muito") (ex.: "Queixou-se da dor") (ex.: "O homem feriu-se")
 ```
 
 1. Pronome Apassivador (PA) $\rightarrow$ Voz Passiva Sintética:
@@ -157,7 +212,8 @@ A transposição de uma oração da voz ativa para a voz passiva analítica depe
 O mecanismo sintático de transposição baseia-se na troca de funções: o Objeto Direto da ativa converte-se em Sujeito Paciente da passiva, e o Sujeito Agente da ativa converte-se em Agente da Passiva:
 
 ```text
-MECÂNICA ESTRUTURAL DA TRANSPOSIÇÃO DE VOZES ┌──────────────────────────────────────────────────────────┐ │ VOZ ATIVA: [ Sujeito Agente ] + [ VTD / VTDI ] + [ OBJETO DIRETO ] │ │ │ │ ▼ ▼ │ VOZ PASSIVA: [ Agente da Passiva ] + [ SER + Particípio ] + [ SUJEITO PACIENTE ] └──────────────────────────────────────────────────────────┘
+MECÂNICA ESTRUTURAL DA TRANSPOSIÇÃO DE VOZES ┌──────────────────────────────────────────────────────────┐ │ VOZ ATIVA: [ Sujeito Agente ] + [ VTD / VTDI ] + [ OBJETO DIRETO ] │ │ │
+│ ▼ ▼ │ VOZ PASSIVA: [ Agente da Passiva ] + [ SER + Particípio ] + [ SUJEITO PACIENTE ] └──────────────────────────────────────────────────────────┘
 ```
 
 - O Atalho da Transitividade: Ao enfrentar questões do tipo "Assinale a frase que admite transposição para a voz passiva", o candidato não deve tentar reescrever mentalmente todas as opções, pois isso consome tempo e induz a erros auditivos. O procedimento rigoroso consiste em inspecionar a predicação do verbo principal:
@@ -268,7 +324,10 @@ Avaliar assertivas do CESPE que afirmam que construções passivas são "destitu
 Determinar em poucos segundos, sem reescrever frases por extenso, qual alternativa admite ou não transposição para a passiva analítica.
 
 ```text
-FLUXOGRAMA DE DECISÃO: ADMISSIBILIDADE DE TRANSPOSIÇÃO [ Localizar o Verbo Principal ] │ ┌──────────────────────────┴──────────────────────────┐ ▼ ▼ [ Presença de Preposição ] [ Sem Preposição Imediata ] │ │ ┌───────────┴───────────┐ ┌───────────┴───────────┐ ▼ ▼ ▼ ▼ [ VTI / VI ] [ Locução com VL ] [ Verbo "Haver" ] [ VTD / VTDI Pleno ] │ │ │ │ ▼ ▼ ▼ ▼ (NÃO ADMITE) (NÃO ADMITE) (NÃO ADMITE) (ADMITE) (ex.: queixar-se de) (ex.: deixou de ser) (Exceção Semântica) (ex.: publico fotos)
+FLUXOGRAMA DE DECISÃO: ADMISSIBILIDADE DE TRANSPOSIÇÃO [ Localizar o Verbo Principal ]
+│ ┌──────────────────────────┴──────────────────────────┐ ▼ ▼ [ Presença de Preposição ] [ Sem Preposição Imediata ] │
+│ ┌───────────┴───────────┐ ┌───────────┴───────────┐ ▼ ▼ ▼ ▼ [ VTI / VI ] [ Locução com VL ] [ Verbo "Haver" ] [ VTD / VTDI Pleno ] │ │ │
+│ ▼ ▼ ▼ ▼ (NÃO ADMITE) (NÃO ADMITE) (NÃO ADMITE) (ADMITE) (ex.: queixar-se de) (ex.: deixou de ser) (Exceção Semântica) (ex.: publico fotos)
 ```
 
 1. Passo 1 — Filtro das Preposições: Olhe o termo regido após o verbo. Havendo preposição obrigatória (de, em, com, a), classifique como Objeto Indireto ou Adjunto Adverbial e descarte a alternativa.
@@ -315,7 +374,10 @@ Avaliar assertivas do CESPE que afirmam que construções passivas são "destitu
 Determinar em poucos segundos, sem reescrever frases por extenso, qual alternativa admite ou não transposição para a passiva analítica.
 
 ```text
-FLUXOGRAMA DE DECISÃO: ADMISSIBILIDADE DE TRANSPOSIÇÃO [ Localizar o Verbo Principal ] │ ┌──────────────────────────┴──────────────────────────┐ ▼ ▼ [ Presença de Preposição ] [ Sem Preposição Imediata ] │ │ ┌───────────┴───────────┐ ┌───────────┴───────────┐ ▼ ▼ ▼ ▼ [ VTI / VI ] [ Locução com VL ] [ Verbo "Haver" ] [ VTD / VTDI Pleno ] │ │ │ │ ▼ ▼ ▼ ▼ (NÃO ADMITE) (NÃO ADMITE) (NÃO ADMITE) (ADMITE) (ex.: queixar-se de) (ex.: deixou de ser) (Exceção Semântica) (ex.: publico fotos)
+FLUXOGRAMA DE DECISÃO: ADMISSIBILIDADE DE TRANSPOSIÇÃO [ Localizar o Verbo Principal ]
+│ ┌──────────────────────────┴──────────────────────────┐ ▼ ▼ [ Presença de Preposição ] [ Sem Preposição Imediata ] │
+│ ┌───────────┴───────────┐ ┌───────────┴───────────┐ ▼ ▼ ▼ ▼ [ VTI / VI ] [ Locução com VL ] [ Verbo "Haver" ] [ VTD / VTDI Pleno ] │ │ │
+│ ▼ ▼ ▼ ▼ (NÃO ADMITE) (NÃO ADMITE) (NÃO ADMITE) (ADMITE) (ex.: queixar-se de) (ex.: deixou de ser) (Exceção Semântica) (ex.: publico fotos)
 ```
 
 1. Passo 1 — Filtro das Preposições: Olhe o termo regido após o verbo. Havendo preposição obrigatória (de, em, com, a), classifique como Objeto Indireto ou Adjunto Adverbial e descarte a alternativa.

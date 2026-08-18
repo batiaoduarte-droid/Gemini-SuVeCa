@@ -46,7 +46,71 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Distinção elementar entre termos essenciais (sujeito e predicado), termos integrantes (objetos direto e indireto) e termos acessórios (adjuntos adnominais e adverbiais).
 
 ```text
-CONCORDÂNCIA VERBAL — CADERNO 1: TIPOS DE SUJEITO │ ├── 1. Sujeito Simples (Único Núcleo Substantivo Não Preposicionado) │ ├── Regra Geral: Verbo concorda em número e pessoa com o núcleo │ ├── Locução Verbal: Auxiliar flexiona; Principal permanece invariável (forma nominal) │ ├── Sujeito Simples com 'E' conectando Adjuntos Adnominais (ex.: "A ordem social e humana alcança") │ └── Verbos DAR, BATER e SOAR │ ├── Sujeito = Instrumento (relógio/sinos sem preposição) -> Concorda com o instrumento │ └── Sujeito = Horas (instrumento preposicionado "no relógio" = Adj. Adv. Lugar) -> Concorda com as horas │ ├── 2. Sujeito Composto (Dois ou Mais Núcleos Nominais) │ ├── Verbo Posposto (Sujeito + Verbo): Plural obrigatório (Concordância Total / Lógica) │ ├── Verbo Anteposto (Verbo + Sujeito): Dupla opção (Atrativa com o 1º núcleo OU Total no plural) │ ├── Hierarquia de Pessoas Gramaticais: 1ª > 2ª > 3ª (ex.: "Ela e eu saímos" = nós) │ ├── Conectivo 'COM' │ │ ├── Sem vírgulas: Dupla possibilidade (Plural aditivo OU Singular enfático no 1º termo) │ │ └── Com vírgulas: Expressão é Adjunto Adverbial de Cia -> Verbo concorda com o sujeito simples anterior │ └── Conectivo 'OU' │ ├── Sentido de Exclusão / Retificação: Verbo no singular (ação restrita a um único núcleo) │ └── Sentido de Adição / Inclusão ('ou' = 'e'): Verbo no plural (ação extensiva a ambos) │ ├── 3. Sujeito Indeterminado (Agente existe, mas não se quer/pode identificar) │ ├── Estrutura 1: Verbo na 3ª pessoa do plural sem referente textual prévio │ └── Estrutura 2: Verbo na 3ª pessoa do singular + Partícula SE (PIS / IIS) │ └── Aplica-se a: VI + SE, VTI + SE, VL + SE (Invariável na 3ª pessoa do singular) │ ├── 4. Voz Passiva Sintética (SE = Pronome Apassivador / PA) │ ├── Aplica-se a: VTD + SE ou VTDI + SE │ ├── Validação: Transposição para Voz Passiva Analítica ('Ser + Particípio') │ └── Concordância: Verbo concorda com o Sujeito Paciente expresso │ ├── 5. Sujeito Oracional (Oração Subordinada Substantiva Subjetiva) │ ├── Identificação: Estrutura oracional com verbo (geralmente infinitivo) como sujeito │ ├── Teste do "ISSO": Substitui-se a oração por "ISSO" -> "Isso + verbo" │ └── Concordância: Verbo da oração principal fica obrigatoriamente na 3ª pessoa do singular │ └── 6. Regras Especiais Complementares ├── Partícula de Realce (SE): Verbos de ação espontânea/tempo decorrido (concordância na ordem direta) ├── Nomes Geográficos no Plural: Sem artigo = singular; Com artigo = plural ├── Pronome Relativo 'QUE': Verbo concorda em número e pessoa com o termo antecedente └── Infinitivo Flexionado: Facultativo quando o sujeito plural já foi expresso na oração principal
+CONCORDÂNCIA VERBAL — CADERNO 1: TIPOS DE SUJEITO
+│
+├── 1. Sujeito Simples (Único Núcleo Substantivo Não Preposicionado)
+│
+├── Regra Geral: Verbo concorda em número e pessoa com o núcleo
+│
+├── Locução Verbal: Auxiliar flexiona; Principal permanece invariável (forma nominal)
+│
+├── Sujeito Simples com 'E' conectando Adjuntos Adnominais (ex.: "A ordem social e humana alcança")
+│
+└── Verbos DAR, BATER e SOAR
+│
+├── Sujeito = Instrumento (relógio/sinos sem preposição) -> Concorda com o instrumento
+│
+└── Sujeito = Horas (instrumento preposicionado "no relógio" = Adj. Adv. Lugar) -> Concorda com as horas
+│
+├── 2. Sujeito Composto (Dois ou Mais Núcleos Nominais)
+│
+├── Verbo Posposto (Sujeito + Verbo): Plural obrigatório (Concordância Total / Lógica)
+│
+├── Verbo Anteposto (Verbo + Sujeito): Dupla opção (Atrativa com o 1º núcleo OU Total no plural)
+│
+├── Hierarquia de Pessoas Gramaticais: 1ª > 2ª > 3ª (ex.: "Ela e eu saímos" = nós)
+│
+├── Conectivo 'COM'
+│ │
+├── Sem vírgulas: Dupla possibilidade (Plural aditivo OU Singular enfático no 1º termo)
+│ │
+└── Com vírgulas: Expressão é Adjunto Adverbial de Cia -> Verbo concorda com o sujeito simples anterior
+│
+└── Conectivo 'OU'
+│
+├── Sentido de Exclusão / Retificação: Verbo no singular (ação restrita a um único núcleo)
+│
+└── Sentido de Adição / Inclusão ('ou' = 'e'): Verbo no plural (ação extensiva a ambos)
+│
+├── 3. Sujeito Indeterminado (Agente existe, mas não se quer/pode identificar)
+│
+├── Estrutura 1: Verbo na 3ª pessoa do plural sem referente textual prévio
+│
+└── Estrutura 2: Verbo na 3ª pessoa do singular + Partícula SE (PIS / IIS)
+│
+└── Aplica-se a: VI + SE, VTI + SE, VL + SE (Invariável na 3ª pessoa do singular)
+│
+├── 4. Voz Passiva Sintética (SE = Pronome Apassivador / PA)
+│
+├── Aplica-se a: VTD + SE ou VTDI + SE
+│
+├── Validação: Transposição para Voz Passiva Analítica ('Ser + Particípio')
+│
+└── Concordância: Verbo concorda com o Sujeito Paciente expresso
+│
+├── 5. Sujeito Oracional (Oração Subordinada Substantiva Subjetiva)
+│
+├── Identificação: Estrutura oracional com verbo (geralmente infinitivo) como sujeito
+│
+├── Teste do "ISSO": Substitui-se a oração por "ISSO" -> "Isso + verbo"
+│
+└── Concordância: Verbo da oração principal fica obrigatoriamente na 3ª pessoa do singular
+│
+└── 6. Regras Especiais Complementares
+├── Partícula de Realce (SE): Verbos de ação espontânea/tempo decorrido (concordância na ordem direta)
+├── Nomes Geográficos no Plural: Sem artigo = singular; Com artigo = plural
+├── Pronome Relativo 'QUE': Verbo concorda em número e pessoa com o termo antecedente
+└── Infinitivo Flexionado: Facultativo quando o sujeito plural já foi expresso na oração principal
 ```
 
 ---
@@ -199,7 +263,14 @@ Localizar com exatidão matemática o núcleo sintático do sujeito em qualquer 
 Discriminar a função exata da partícula SE e aplicar a concordância cabível.
 
 ```text
-FLUXOGRAMA DECISÓRIO DO SE │ [ Localizar Verbo + SE ] │ ┌───────────────────┴───────────────────┐ ▼ ▼ [ Termo seguinte é preposicionado? ] [ Termo seguinte NÃO tem preposição ] │ │ ┌──────────┴──────────┐ │ SIM NÃO │ │ │ │ ▼ └────────────┬───────────────┘ [ Verbo é VI, VTI ou VL ] │ │ ▼ ▼ [ Teste da Passiva Analítica ] [ SE = P.I.S. / I.I.S. ] (Converter em "Ser + Particípio") │ │ ▼ ┌─────────┴─────────┐ [ SUJEITO INDETERMINADO ] SIM NÃO │ │ │ ▼ ▼ ▼ ┌────────────────────────┐ ┌──────────────────┐ ┌───────────────────────┐ │ VERBO FIXO NA 3ª DO │ │ SE = P.A. │ │ Verbo de ação │ │ SINGULAR │ │ (Passiva Sint.) │ │ espontânea / tempo? │ └────────────────────────┘ └────────┬─────────┘ └──────────┬────────────┘ │ │ ▼ ▼ ┌──────────────────┐ ┌───────────────────────┐ │ VERBO CONCORDA │ │ SE = REALCE │ │ COM O SUJEITO │ │ (Ordem direta: verbo │ │ PACIENTE │ │ concorda com sujeito)│ └──────────────────┘ └───────────────────────┘
+FLUXOGRAMA DECISÓRIO DO SE │ [ Localizar Verbo + SE ]
+│ ┌───────────────────┴───────────────────┐ ▼ ▼ [ Termo seguinte é preposicionado? ] [ Termo seguinte NÃO tem preposição ] │
+│ ┌──────────┴──────────┐ │ SIM NÃO │ │ │
+│ ▼ └────────────┬───────────────┘ [ Verbo é VI, VTI ou VL ] │
+│ ▼ ▼ [ Teste da Passiva Analítica ] [ SE = P.I.S. / I.I.S. ] (Converter em "Ser + Particípio") │
+│ ▼ ┌─────────┴─────────┐ [ SUJEITO INDETERMINADO ] SIM NÃO │ │
+│ ▼ ▼ ▼ ┌────────────────────────┐ ┌──────────────────┐ ┌───────────────────────┐ │ VERBO FIXO NA 3ª DO │ │ SE = P.A. │ │ Verbo de ação │ │ SINGULAR │ │ (Passiva Sint.) │ │ espontânea / tempo? │ └────────────────────────┘ └────────┬─────────┘ └──────────┬────────────┘ │
+│ ▼ ▼ ┌──────────────────┐ ┌───────────────────────┐ │ VERBO CONCORDA │ │ SE = REALCE │ │ COM O SUJEITO │ │ (Ordem direta: verbo │ │ PACIENTE │ │ concorda com sujeito)│ └──────────────────┘ └───────────────────────┘
 ```
 
 Definir se o sujeito composto ligado por "ou" exige verbo no singular ou plural.
@@ -236,7 +307,14 @@ Localizar com exatidão matemática o núcleo sintático do sujeito em qualquer 
 Discriminar a função exata da partícula SE e aplicar a concordância cabível.
 
 ```text
-FLUXOGRAMA DECISÓRIO DO SE │ [ Localizar Verbo + SE ] │ ┌───────────────────┴───────────────────┐ ▼ ▼ [ Termo seguinte é preposicionado? ] [ Termo seguinte NÃO tem preposição ] │ │ ┌──────────┴──────────┐ │ SIM NÃO │ │ │ │ ▼ └────────────┬───────────────┘ [ Verbo é VI, VTI ou VL ] │ │ ▼ ▼ [ Teste da Passiva Analítica ] [ SE = P.I.S. / I.I.S. ] (Converter em "Ser + Particípio") │ │ ▼ ┌─────────┴─────────┐ [ SUJEITO INDETERMINADO ] SIM NÃO │ │ │ ▼ ▼ ▼ ┌────────────────────────┐ ┌──────────────────┐ ┌───────────────────────┐ │ VERBO FIXO NA 3ª DO │ │ SE = P.A. │ │ Verbo de ação │ │ SINGULAR │ │ (Passiva Sint.) │ │ espontânea / tempo? │ └────────────────────────┘ └────────┬─────────┘ └──────────┬────────────┘ │ │ ▼ ▼ ┌──────────────────┐ ┌───────────────────────┐ │ VERBO CONCORDA │ │ SE = REALCE │ │ COM O SUJEITO │ │ (Ordem direta: verbo │ │ PACIENTE │ │ concorda com sujeito)│ └──────────────────┘ └───────────────────────┘
+FLUXOGRAMA DECISÓRIO DO SE │ [ Localizar Verbo + SE ]
+│ ┌───────────────────┴───────────────────┐ ▼ ▼ [ Termo seguinte é preposicionado? ] [ Termo seguinte NÃO tem preposição ] │
+│ ┌──────────┴──────────┐ │ SIM NÃO │ │ │
+│ ▼ └────────────┬───────────────┘ [ Verbo é VI, VTI ou VL ] │
+│ ▼ ▼ [ Teste da Passiva Analítica ] [ SE = P.I.S. / I.I.S. ] (Converter em "Ser + Particípio") │
+│ ▼ ┌─────────┴─────────┐ [ SUJEITO INDETERMINADO ] SIM NÃO │ │
+│ ▼ ▼ ▼ ┌────────────────────────┐ ┌──────────────────┐ ┌───────────────────────┐ │ VERBO FIXO NA 3ª DO │ │ SE = P.A. │ │ Verbo de ação │ │ SINGULAR │ │ (Passiva Sint.) │ │ espontânea / tempo? │ └────────────────────────┘ └────────┬─────────┘ └──────────┬────────────┘ │
+│ ▼ ▼ ┌──────────────────┐ ┌───────────────────────┐ │ VERBO CONCORDA │ │ SE = REALCE │ │ COM O SUJEITO │ │ (Ordem direta: verbo │ │ PACIENTE │ │ concorda com sujeito)│ └──────────────────┘ └───────────────────────┘
 ```
 
 #### Objetivo

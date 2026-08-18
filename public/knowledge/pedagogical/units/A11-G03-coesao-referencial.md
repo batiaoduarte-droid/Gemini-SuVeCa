@@ -45,7 +45,28 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Conceito Preliminar de Enunciação: Noção de situação comunicativa, emissor/locutor, receptor/interlocutor, tempo cronológico da fala e espaço físico da emissão.
 
 ```text
-COESÃO TEXTUAL ("A LIGA") │ ┌───────────────────────┴───────────────────────┐ ▼ ▼ COESÃO SEQUENCIAL COESÃO REFERENCIAL (Conectores lógico-semânticos: (Mecanismos de substituição causa, oposição, tempo, etc.) e apontamento: "Setas") │ │ └──────── Sem envio de setas ──────┐ │ │ ▼ TRÍADE DA REFERENCIAÇÃO ├── Coesivo (Emissor / Operador) ├── Referência (A Seta / Processo) └── Referente (Receptor / Alvo) │ ┌───────────────────────────────┴───────────────────────────────┐ ▼ ▼ FUNÇÃO ENDOFÓRICA FUNÇÃO EXOFÓRICA (DÊIXIS) (Referente EXPLÍCITO no texto) (Referente FORA do texto / Situação) │ │ ┌─────────────┴─────────────┐ ┌─────────────┼─────────────┐ ▼ ▼ ▼ ▼ ▼ ANÁFORA CATÁFORA QUEM QUANDO ONDE (Aponta p/ trás / (Aponta p/ frente / (Pessoa / (Tempo / (Espaço / termo antecedente) termo subsequente) Interlocutor) Cronologia) Lugar) │ │ │ │ │ └─────────────┬─────────────┘ └──────┬──────┴──────┬──────┘ │ │ │ ▼ ▼ ▼ MECANISMOS E CLASSES CRÍTICAS EXPLICITAÇÃO PROIBIÇÃO EM ├── Pronomes Pessoais / Relativos TEXTUAL REDAÇÃO │ └── Concordam com o referente (Converte dêixis (Autonomia ├── Pronomes Demonstrativos (Isso/Esse) em endófora) do texto) │ └── Função Resumitiva (Todo vs. Parte) ├── Pronomes Possessivos (Seu/Sua) │ ├── Concorda com: Coisa possuída (posposta) │ └── Refere-se a: Possuidor (antecedente) └── Coesão Lexical (FGV) └── Substantivo retoma verbo / hiperônimos
+COESÃO TEXTUAL ("A LIGA")
+│ ┌───────────────────────┴───────────────────────┐ ▼ ▼ COESÃO SEQUENCIAL COESÃO REFERENCIAL (Conectores lógico-semânticos: (Mecanismos de substituição causa, oposição, tempo, etc.) e apontamento: "Setas") │ │ └──────── Sem envio de setas ──────┐ │
+│ ▼ TRÍADE DA REFERENCIAÇÃO
+├── Coesivo (Emissor / Operador)
+├── Referência (A Seta / Processo)
+└── Referente (Receptor / Alvo)
+│ ┌───────────────────────────────┴───────────────────────────────┐ ▼ ▼ FUNÇÃO ENDOFÓRICA FUNÇÃO EXOFÓRICA (DÊIXIS) (Referente EXPLÍCITO no texto) (Referente FORA do texto / Situação) │
+│ ┌─────────────┴─────────────┐ ┌─────────────┼─────────────┐ ▼ ▼ ▼ ▼ ▼ ANÁFORA CATÁFORA QUEM QUANDO ONDE (Aponta p/ trás / (Aponta p/ frente / (Pessoa / (Tempo / (Espaço / termo antecedente) termo subsequente) Interlocutor) Cronologia) Lugar) │ │ │ │ │ └─────────────┬─────────────┘ └──────┬──────┴──────┬──────┘ │ │
+│ ▼ ▼ ▼ MECANISMOS E CLASSES CRÍTICAS EXPLICITAÇÃO PROIBIÇÃO EM
+├── Pronomes Pessoais / Relativos TEXTUAL REDAÇÃO
+│
+└── Concordam com o referente (Converte dêixis (Autonomia
+├── Pronomes Demonstrativos (Isso/Esse) em endófora) do texto)
+│
+└── Função Resumitiva (Todo vs. Parte)
+├── Pronomes Possessivos (Seu/Sua)
+│
+├── Concorda com: Coisa possuída (posposta)
+│
+└── Refere-se a: Possuidor (antecedente)
+└── Coesão Lexical (FGV)
+└── Substantivo retoma verbo / hiperônimos
 ```
 
 ---
@@ -236,7 +257,14 @@ B), validando-os pelo predicado subsequente.
 ## Roteiros de resolução
 
 ```text
-INÍCIO: Isolar o Elemento Coesivo │ ▼ O referente está explícito dentro da superfície textual? │ ┌────────────────────┴────────────────────┐ ▼ SIM ▼ NÃO FUNÇÃO ENDOFÓRICA FUNÇÃO EXOFÓRICA (DÊIXIS) │ │ ┌────────┴────────┐ ┌────────┼────────┐ ▼ ▼ ▼ ▼ ▼ ANÁFORA CATÁFORA QUEM QUANDO ONDE (Vetor p/ trás) (Vetor p/ frente) (Pessoa) (Tempo) (Espaço) │ ▼ Identificar a Classe do Coesivo Anafórico: ├── Pronome Pessoal / Relativo: Aplicar filtro de concordância com antecedente. ├── Pronome Demonstrativo (Isso): Testar escopo (retoma o fato global ou um sintagma?). └── Pronome Possessivo (Seu/Sua):
+INÍCIO: Isolar o Elemento Coesivo
+│ ▼ O referente está explícito dentro da superfície textual?
+│ ┌────────────────────┴────────────────────┐ ▼ SIM ▼ NÃO FUNÇÃO ENDOFÓRICA FUNÇÃO EXOFÓRICA (DÊIXIS) │
+│ ┌────────┴────────┐ ┌────────┼────────┐ ▼ ▼ ▼ ▼ ▼ ANÁFORA CATÁFORA QUEM QUANDO ONDE (Vetor p/ trás) (Vetor p/ frente) (Pessoa) (Tempo) (Espaço)
+│ ▼ Identificar a Classe do Coesivo Anafórico:
+├── Pronome Pessoal / Relativo: Aplicar filtro de concordância com antecedente.
+├── Pronome Demonstrativo (Isso): Testar escopo (retoma o fato global ou um sintagma?).
+└── Pronome Possessivo (Seu/Sua):
 ```
 
 1. Isolar substantivo posposto (com que concorda morfologicamente - NÃO É O REFERENTE);
@@ -257,7 +285,14 @@ INÍCIO: Isolar o Elemento Coesivo │ ▼ O referente está explícito dentro d
 - Se o Candidato B (o concorrente) for o termo real exigido pela lógica do autor $\rightarrow$ Julgue ERRADO.
 
 ```text
-INÍCIO: Isolar o Elemento Coesivo │ ▼ O referente está explícito dentro da superfície textual? │ ┌────────────────────┴────────────────────┐ ▼ SIM ▼ NÃO FUNÇÃO ENDOFÓRICA FUNÇÃO EXOFÓRICA (DÊIXIS) │ │ ┌────────┴────────┐ ┌────────┼────────┐ ▼ ▼ ▼ ▼ ▼ ANÁFORA CATÁFORA QUEM QUANDO ONDE (Vetor p/ trás) (Vetor p/ frente) (Pessoa) (Tempo) (Espaço) │ ▼ Identificar a Classe do Coesivo Anafórico: ├── Pronome Pessoal / Relativo: Aplicar filtro de concordância com antecedente. ├── Pronome Demonstrativo (Isso): Testar escopo (retoma o fato global ou um sintagma?). └── Pronome Possessivo (Seu/Sua):
+INÍCIO: Isolar o Elemento Coesivo
+│ ▼ O referente está explícito dentro da superfície textual?
+│ ┌────────────────────┴────────────────────┐ ▼ SIM ▼ NÃO FUNÇÃO ENDOFÓRICA FUNÇÃO EXOFÓRICA (DÊIXIS) │
+│ ┌────────┴────────┐ ┌────────┼────────┐ ▼ ▼ ▼ ▼ ▼ ANÁFORA CATÁFORA QUEM QUANDO ONDE (Vetor p/ trás) (Vetor p/ frente) (Pessoa) (Tempo) (Espaço)
+│ ▼ Identificar a Classe do Coesivo Anafórico:
+├── Pronome Pessoal / Relativo: Aplicar filtro de concordância com antecedente.
+├── Pronome Demonstrativo (Isso): Testar escopo (retoma o fato global ou um sintagma?).
+└── Pronome Possessivo (Seu/Sua):
 ```
 
 1. Isolar substantivo posposto (com que concorda morfologicamente - NÃO É O REFERENTE);

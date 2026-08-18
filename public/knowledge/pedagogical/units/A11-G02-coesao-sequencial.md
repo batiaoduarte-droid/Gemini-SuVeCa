@@ -43,7 +43,10 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Conhecimento morfológico das classes gramaticais conectivas: conjunções coordenativas (aditivas, adversativas, alternativas, conclusivas, explicativas), conjunções subordinativas adverbiais (especialmente causais e consecutivas), preposições e advérbios conectivos.
 
 ```text
-TEXTUALIDADE (Texto com qualidade comunicativa global) │ ┌─────────────────────────┴─────────────────────────┐ ▼ ▼ COESÃO SEQUENCIAL COERÊNCIA (Mecanismo gramatical explícito) (Lógica interna / Sentido) │ │ ┌──────────────┴──────────────┐ │ ▼ ▼ │ Inventário de Conectores Regra de Posicionamento │
+TEXTUALIDADE (Texto com qualidade comunicativa global)
+│ ┌─────────────────────────┴─────────────────────────┐ ▼ ▼ COESÃO SEQUENCIAL COERÊNCIA (Mecanismo gramatical explícito) (Lógica interna / Sentido) │
+│ ┌──────────────┴──────────────┐
+│ ▼ ▼ │ Inventário de Conectores Regra de Posicionamento │
 ```
 
 - Conjunções - A conjunção recebe o nome │
@@ -51,7 +54,25 @@ TEXTUALIDADE (Texto com qualidade comunicativa global) │ ┌──────
 - Advérbios conectivos - Mantra: "O que vem depois salva" │
 
 ```text
-│ │ ┌──────────────┴──────────────┐ │ ▼ ▼ ▼ MÉTODO DOS 3 PASSOS TAXONOMIA DAS RELAÇÕES LÓGICAS 1º Resumo nuclear pelo verbo ├── OPOSIÇÃO / CONTRASTE (Sim vs Não) ("O verbo salva") │ └── Conectivos: mas, porém, não obstante 2º Identificação da relação lógica ├── EXPLICAÇÃO / JUSTIFICATIVA 3º Escolha e alocação do conector │ └── Marcador: Imperativo ("Com imperativo, │ eu sou feliz"); conectivo: pois, porque ├── CAUSA E CONSEQUÊNCIA / CONCLUSÃO │ ├── Fórmula: "O fato de [1º] fez com que [2º]" │ ├── Causa (1º cronológico) -> Conector Causal │ └── Efeito/Conclusão (2º) -> Consecutivo/Conclusivo └── EXEMPLIFICAÇÃO (Geral -> Específico) └── Conectivos: por exemplo, como exemplo └── Incompatível com conclusivos (portanto)
+│
+│ ┌──────────────┴──────────────┐
+│ ▼ ▼ ▼ MÉTODO DOS 3 PASSOS TAXONOMIA DAS RELAÇÕES LÓGICAS 1º Resumo nuclear pelo verbo
+├── OPOSIÇÃO / CONTRASTE (Sim vs Não) ("O verbo salva")
+│
+└── Conectivos: mas, porém, não obstante 2º Identificação da relação lógica
+├── EXPLICAÇÃO / JUSTIFICATIVA 3º Escolha e alocação do conector
+│
+└── Marcador: Imperativo ("Com imperativo, │ eu sou feliz"); conectivo: pois, porque
+├── CAUSA E CONSEQUÊNCIA / CONCLUSÃO
+│
+├── Fórmula: "O fato de [1º] fez com que [2º]"
+│
+├── Causa (1º cronológico) -> Conector Causal
+│
+└── Efeito/Conclusão (2º) -> Consecutivo/Conclusivo
+└── EXEMPLIFICAÇÃO (Geral -> Específico)
+└── Conectivos: por exemplo, como exemplo
+└── Incompatível com conclusivos (portanto)
 ```
 
 ```text

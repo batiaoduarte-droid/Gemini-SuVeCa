@@ -45,7 +45,66 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Classes Gramaticais de Conectivos: Identificar as preposições essenciais (a, de, em, com, por, para, contra, sobre).
 
 ```text
-text REGÊNCIA COM PRONOMES RELATIVOS │ ├── 1. Princípio da Inversão Sintática │ ├── Padrão canônico: Regente ANTES da preposição ("deparamos COM a realidade") │ └── Padrão relativo: Preposição ANTES do pronome, regida pelo termo DEPOIS ("a QUE me refiro") │ ├── 2. Algoritmo Universal (Método dos 3 Passos) │ ├── Passo 1: Localizar o regente posterior (se for locução, focar no último verbo) │ ├── Passo 2: Transpor a oração adjetiva para a ordem direta (Sujeito + Verbo + Complemento) │ └── Passo 3: Preencher o complemento com o antecedente e identificar o conectivo natural │ ├── 3. Comportamento Sintático dos Pronomes Relativos │ ├── QUE / QUEM / O QUAL │ │ ├── Sem preposição quando regidos por VTD │ │ ├── Com preposição quando regidos por VTI / VTDI │ │ └── "Quem" precedido de preposição "a" NUNCA recebe crase (a quem) │ ├── CUJO / CUJA / CUJOS / CUJAS │ │ ├── Exige valor estrito de posse entre substantivo antecedente e consequente │ │ ├── Proibição absoluta de artigo posterior (cujo o, cuja a) │ │ ├── Não pode anteceder verbos ou pronomes indefinidos │ │ └── Preposição antes de cujo é regida exclusivamente pelo termo posterior │ └── ONDE / AONDE / DONDE │ ├── Restrição estrita: uso exclusivo para LUGAR FÍSICO / ESPACIAL concreto │ ├── ONDE = EM QUE (verbos de permanência / posicionamento / estado) │ ├── AONDE = A QUE (verbos de movimento com destino / direção a) │ └── DONDE / DE ONDE = DE QUE (verbos de origem / procedência) │ ├── 4. Nuances Sintáticas e Casos Especiais │ ├── Verbos de Memória: Esquecer/Lembrar (VTD) vs. Esquecer-se/Lembrar-se (VTI com DE) │ ├── Cognatos Verbo vs. Nome: Simpatizar COM vs. Simpatia POR (por cujas ideias) │ ├── Locuções Verbais: Regência governada exclusivamente pelo Verbo Principal (último) │ └── Pronomes Oblíquos: O/A para VTD vs. Lhe para VTI (regido por preposição "a") │ └── 5. Estratégias por Banca Examinadora ├── Cesgranrio / Vunesp: Verificação linear direta de regência ├── FCC: Frases longas e cansativas ──► Técnica de Resolução Reversa (E ──► A) └── FGV: Frases curtas e ardilosas ──► Atenção a referentes abstratos e locuções
+text REGÊNCIA COM PRONOMES RELATIVOS
+│
+├── 1. Princípio da Inversão Sintática
+│
+├── Padrão canônico: Regente ANTES da preposição ("deparamos COM a realidade")
+│
+└── Padrão relativo: Preposição ANTES do pronome, regida pelo termo DEPOIS ("a QUE me refiro")
+│
+├── 2. Algoritmo Universal (Método dos 3 Passos)
+│
+├── Passo 1: Localizar o regente posterior (se for locução, focar no último verbo)
+│
+├── Passo 2: Transpor a oração adjetiva para a ordem direta (Sujeito + Verbo + Complemento)
+│
+└── Passo 3: Preencher o complemento com o antecedente e identificar o conectivo natural
+│
+├── 3. Comportamento Sintático dos Pronomes Relativos
+│
+├── QUE / QUEM / O QUAL
+│ │
+├── Sem preposição quando regidos por VTD
+│ │
+├── Com preposição quando regidos por VTI / VTDI
+│ │
+└── "Quem" precedido de preposição "a" NUNCA recebe crase (a quem)
+│
+├── CUJO / CUJA / CUJOS / CUJAS
+│ │
+├── Exige valor estrito de posse entre substantivo antecedente e consequente
+│ │
+├── Proibição absoluta de artigo posterior (cujo o, cuja a)
+│ │
+├── Não pode anteceder verbos ou pronomes indefinidos
+│ │
+└── Preposição antes de cujo é regida exclusivamente pelo termo posterior
+│
+└── ONDE / AONDE / DONDE
+│
+├── Restrição estrita: uso exclusivo para LUGAR FÍSICO / ESPACIAL concreto
+│
+├── ONDE = EM QUE (verbos de permanência / posicionamento / estado)
+│
+├── AONDE = A QUE (verbos de movimento com destino / direção a)
+│
+└── DONDE / DE ONDE = DE QUE (verbos de origem / procedência)
+│
+├── 4. Nuances Sintáticas e Casos Especiais
+│
+├── Verbos de Memória: Esquecer/Lembrar (VTD) vs. Esquecer-se/Lembrar-se (VTI com DE)
+│
+├── Cognatos Verbo vs. Nome: Simpatizar COM vs. Simpatia POR (por cujas ideias)
+│
+├── Locuções Verbais: Regência governada exclusivamente pelo Verbo Principal (último)
+│
+└── Pronomes Oblíquos: O/A para VTD vs. Lhe para VTI (regido por preposição "a")
+│
+└── 5. Estratégias por Banca Examinadora
+├── Cesgranrio / Vunesp: Verificação linear direta de regência
+├── FCC: Frases longas e cansativas ──► Técnica de Resolução Reversa (E ──► A)
+└── FGV: Frases curtas e ardilosas ──► Atenção a referentes abstratos e locuções
 ```
 
 ---

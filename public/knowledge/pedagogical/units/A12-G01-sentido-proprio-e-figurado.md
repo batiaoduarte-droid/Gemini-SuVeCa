@@ -19,7 +19,59 @@ Esta unidade foi preparada para estudo autônomo: avance do modelo mental para a
 - Distinção Gramatical Básica: Entendimento preliminar de que classe de palavra (morfologia) não define o sentido da sentença (semântica).
 
 ```text
-SEMÂNTICA (O Sentido Determinado pelo Contexto Discursivo) │ ├── 1. Distinção Epistemológica Fundamental │ ├── Morfologia: Análise estática da classe da palavra (substantivo, adjetivo, verbo) │ └── Semântica: Análise dinâmica do sentido e relações de significação no texto │ ├── 2. Eixo Denotativo (Sentido Próprio) │ ├── Nomenclaturas: Real | Lógico (FGV) | Dicionarizado | Denotativo | Literal | Usual │ ├── Critério: Relação factual, física, biológica ou institucionalmente direta com o referente │ └── Fenômeno Associado: POLISSEMIA │ ├── Múltiplos sentidos dicionarizados próprios para o mesmo vocábulo │ ├── Ex: "Banco" (instituição financeira vs. peça de mobília) │ ├── Ex: "Montar" (cavalgar animal vs. organizar/estruturar escritório) │ └── Ex: "Gastar" (desembolsar moeda vs. despender tempo/duração) │ ├── 3. Eixo Conotativo (Sentido Figurado) │ ├── Nomenclaturas: Figurado | Conotativo | Não Lógico (FGV) | Metafórico | Sentido Poético │ ├── Critério: Translação semântica por analogia, sensação, abstração ou quebra da lógica física │ ├── Fenômeno de Alta Recorrência: REIFICAÇÃO (Coisificação) │ ├── Atribuição de propriedades de coisas/objetos/máquinas a seres humanos ou entidades │ ├── Ex: Pessoa "doce", "bateria" de crianças, ser um "trampolim" (= meio) │ └── Toda reificação resulta obrigatoriamente em sentido figurado │ ├── Linguagem Figurada em Textos Científicos e Jornalísticos (FGV) │ ├── Função Didática: Traduzir conceitos complexos para o público leigo │ └── Exemplos: "aprofundar" resultados, "impulsionar" perda neuronal, bactéria "comer" plástico │ └── Deslocamento Semântico em Textos Literários / Crônicas (Consulplan / FCC / Cebraspe) │ └── Exemplos: "pavão enfático", "volúpia autoral", "cigarro em chamas", "me constipei" │ └── 4. Método Operacional e Protocolo de Resolução ├── Passo 1: Traçado da Seta Semântica (Vincular vocábulo ao seu referente textual) ├── Passo 2: Resgate do Sentido Nuclear Dicionarizado (O que o vocábulo significa no mundo físico?) ├── Passo 3: Confronto Físico/Lógico vs. Metafórico (Compatibilidade material) └── Passo 4: Teste da Paráfrase Denotativa Inversa (Substituir o figurado por palavra real equivalente)
+SEMÂNTICA (O Sentido Determinado pelo Contexto Discursivo)
+│
+├── 1. Distinção Epistemológica Fundamental
+│
+├── Morfologia: Análise estática da classe da palavra (substantivo, adjetivo, verbo)
+│
+└── Semântica: Análise dinâmica do sentido e relações de significação no texto
+│
+├── 2. Eixo Denotativo (Sentido Próprio)
+│
+├── Nomenclaturas: Real | Lógico (FGV) | Dicionarizado | Denotativo | Literal | Usual
+│
+├── Critério: Relação factual, física, biológica ou institucionalmente direta com o referente
+│
+└── Fenômeno Associado: POLISSEMIA
+│
+├── Múltiplos sentidos dicionarizados próprios para o mesmo vocábulo
+│
+├── Ex: "Banco" (instituição financeira vs. peça de mobília)
+│
+├── Ex: "Montar" (cavalgar animal vs. organizar/estruturar escritório)
+│
+└── Ex: "Gastar" (desembolsar moeda vs. despender tempo/duração)
+│
+├── 3. Eixo Conotativo (Sentido Figurado)
+│
+├── Nomenclaturas: Figurado | Conotativo | Não Lógico (FGV) | Metafórico | Sentido Poético
+│
+├── Critério: Translação semântica por analogia, sensação, abstração ou quebra da lógica física
+│
+├── Fenômeno de Alta Recorrência: REIFICAÇÃO (Coisificação)
+│
+├── Atribuição de propriedades de coisas/objetos/máquinas a seres humanos ou entidades
+│
+├── Ex: Pessoa "doce", "bateria" de crianças, ser um "trampolim" (= meio)
+│
+└── Toda reificação resulta obrigatoriamente em sentido figurado
+│
+├── Linguagem Figurada em Textos Científicos e Jornalísticos (FGV)
+│
+├── Função Didática: Traduzir conceitos complexos para o público leigo
+│
+└── Exemplos: "aprofundar" resultados, "impulsionar" perda neuronal, bactéria "comer" plástico
+│
+└── Deslocamento Semântico em Textos Literários / Crônicas (Consulplan / FCC / Cebraspe)
+│
+└── Exemplos: "pavão enfático", "volúpia autoral", "cigarro em chamas", "me constipei"
+│
+└── 4. Método Operacional e Protocolo de Resolução
+├── Passo 1: Traçado da Seta Semântica (Vincular vocábulo ao seu referente textual)
+├── Passo 2: Resgate do Sentido Nuclear Dicionarizado (O que o vocábulo significa no mundo físico?)
+├── Passo 3: Confronto Físico/Lógico vs. Metafórico (Compatibilidade material)
+└── Passo 4: Teste da Paráfrase Denotativa Inversa (Substituir o figurado por palavra real equivalente)
 ```
 
 ---

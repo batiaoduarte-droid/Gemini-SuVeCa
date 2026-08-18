@@ -45,7 +45,72 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Reconhecimento de desinências modo-temporais clássicas (-va/-ia para imperfeito do indicativo; -ra para mais-que-perfeito simples; -ria para futuro do pretérito; -sse para imperfeito do subjuntivo).
 
 ```text
-SEMÂNTICA DOS TEMPOS E MODOS VERBAIS (A04-esta unidade) │ ├── 1. Metodologia de Operação em Provas (#ANOTAAÍ) │ ├── Passo 1: Redução ao Infinitivo │ ├── Passo 2: Teste das Palavras Mágicas (Hoje, Ontem, Antigamente, Tinha + Part.) │ ├── Passo 3: Fatiamento da Assertiva (Morfossintaxe vs. Semântica) │ └── Passo 4: Referenciação Textual e Regra "O que vem depois salva" │ ├── 2. Modo Indicativo (Valores Semânticos e Aspecto Verbal) │ ├── Presente do Indicativo (5 Valores) │ │ ├── Presente Atual / Pontual (simultâneo à fala) │ │ ├── Presente Histórico / Narrativo (atualiza o passado; troca por Pretérito Perfeito) │ │ ├── Presente por Futuro Próximo (fato vindouro certo) │ │ ├── Presente Habitual / Frequente / Atemporal (verdades universais / leis) │ │ └── Presente Durativo (iniciado no passado e contínuo no presente: marca "desde") │ ├── Pretéritos do Indicativo │ │ ├── Pretérito Perfeito: Ação pontual concluída ("começa e acaba") │ │ ├── Pretérito Imperfeito: Ação habitual/contínua no passado OU desejo não realizado │ │ │ └── [Alerta]: NUNCA indica o início (inchoativo) de uma ação │ │ └── Pretérito Mais-que-Perfeito: Ação anterior a outro fato passado │ │ ├── Equivalência: Simples (-ra) = Composto (tinha/havia + particípio) │ │ └── [Alerta]: Anterioridade é cronológica real, não de posição gráfica │ └── Futuros do Indicativo │ ├── Futuro do Presente: Fato futuro OU dúvida/incerteza no presente (interrogação) │ └── Futuro do Pretérito (4 Valores) │ ├── 1. Fato posterior ao passado (projeção vista do pretérito) │ ├── 2. Dúvida / Incerteza (visão contestada ou hesitação) │ ├── 3. Hipótese / Possibilidade (tese científica, definição teórica) │ └── 4. Polidez / Cortesia (suavização pragmática de pedidos/ofertas) │ ├── 3. Modo Subjuntivo │ ├── Presente do Subjuntivo ("que eu ame / aproxime"): Desejo / Hipótese factível │ ├── Pretérito Imperfeito do Subjuntivo ("se eu amasse / devesse"): Condição / Hipótese │ └── Futuro do Subjuntivo ("quando eu chegar"): Eventualidade futura │ └── 4. Matriz Semântica de Confronto Cebraspe ├── HIPÓTESE = POSSIBILIDADE (Subjuntivo OU Futuro do Pretérito) ├── DÚVIDA = INCERTEZA (Contestação textual explícita pelo enunciador) └── IMPOSSIBILIDADE (Condição contrafactual / obstáculo impeditivo)
+SEMÂNTICA DOS TEMPOS E MODOS VERBAIS (A04-esta unidade)
+│
+├── 1. Metodologia de Operação em Provas (#ANOTAAÍ)
+│
+├── Passo 1: Redução ao Infinitivo
+│
+├── Passo 2: Teste das Palavras Mágicas (Hoje, Ontem, Antigamente, Tinha + Part.)
+│
+├── Passo 3: Fatiamento da Assertiva (Morfossintaxe vs. Semântica)
+│
+└── Passo 4: Referenciação Textual e Regra "O que vem depois salva"
+│
+├── 2. Modo Indicativo (Valores Semânticos e Aspecto Verbal)
+│
+├── Presente do Indicativo (5 Valores)
+│ │
+├── Presente Atual / Pontual (simultâneo à fala)
+│ │
+├── Presente Histórico / Narrativo (atualiza o passado; troca por Pretérito Perfeito)
+│ │
+├── Presente por Futuro Próximo (fato vindouro certo)
+│ │
+├── Presente Habitual / Frequente / Atemporal (verdades universais / leis)
+│ │
+└── Presente Durativo (iniciado no passado e contínuo no presente: marca "desde")
+│
+├── Pretéritos do Indicativo
+│ │
+├── Pretérito Perfeito: Ação pontual concluída ("começa e acaba")
+│ │
+├── Pretérito Imperfeito: Ação habitual/contínua no passado OU desejo não realizado
+│ │ │
+└── [Alerta]: NUNCA indica o início (inchoativo) de uma ação
+│ │
+└── Pretérito Mais-que-Perfeito: Ação anterior a outro fato passado
+│ │
+├── Equivalência: Simples (-ra) = Composto (tinha/havia + particípio)
+│ │
+└── [Alerta]: Anterioridade é cronológica real, não de posição gráfica
+│
+└── Futuros do Indicativo
+│
+├── Futuro do Presente: Fato futuro OU dúvida/incerteza no presente (interrogação)
+│
+└── Futuro do Pretérito (4 Valores)
+│
+├── 1. Fato posterior ao passado (projeção vista do pretérito)
+│
+├── 2. Dúvida / Incerteza (visão contestada ou hesitação)
+│
+├── 3. Hipótese / Possibilidade (tese científica, definição teórica)
+│
+└── 4. Polidez / Cortesia (suavização pragmática de pedidos/ofertas)
+│
+├── 3. Modo Subjuntivo
+│
+├── Presente do Subjuntivo ("que eu ame / aproxime"): Desejo / Hipótese factível
+│
+├── Pretérito Imperfeito do Subjuntivo ("se eu amasse / devesse"): Condição / Hipótese
+│
+└── Futuro do Subjuntivo ("quando eu chegar"): Eventualidade futura
+│
+└── 4. Matriz Semântica de Confronto Cebraspe
+├── HIPÓTESE = POSSIBILIDADE (Subjuntivo OU Futuro do Pretérito)
+├── DÚVIDA = INCERTEZA (Contestação textual explícita pelo enunciador)
+└── IMPOSSIBILIDADE (Condição contrafactual / obstáculo impeditivo)
 ```
 
 ---

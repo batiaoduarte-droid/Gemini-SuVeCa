@@ -44,7 +44,61 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Noções de transitividade verbal (Verbo Transitivo Direto - VTD, Verbo Transitivo Indireto - VTI, Verbo Intransitivo - VI, Verbo de Ligação - VL);
 
 ```text
-A03-esta unidade-REGENCIA-REESCRITA-RELATIVOS ├── FUNDAMENTOS DO PRONOME RELATIVO │ ├── Função Textual: Anáfora / Substituição  │ └── Natureza do Antecedente: Obrigatoriamente Substantiva  │ ├── Substantivo (Comum / Próprio) │ ├── Pronome Substantivo Demonstrativo (o, a, os, as = aquilo, aquele, aquela) │ └── Numeral Substantivo ├── INVENTÁRIO E EMPREGO DOS RELATIVOS │ ├── Coringas: QUE / O QUAL (Pessoas e Coisas; flexões preposicionadas)  │ ├── Pessoal Preposicionado: QUEM (Exige pessoa + preposição obrigatória)  │ │ └── Gera Objeto Direto Preposicionado com VTD │ ├── Circunstanciais: COMO (Modo), QUANTO (Quantidade), QUANDO (Tempo)  │ ├── Espaciais Estritos: ONDE / AONDE / DONDE  │ │ ├── ONDE: Permanência / Preposição EM │ │ ├── AONDE: Movimento / Preposição A │ │ └── DONDE: Origem / Preposição DE │ └── Possessivo Insubstituível: CUJO  │ ├── Vincula dois substantivos em relação de posse (Subst.2 + de + Subst.1) │ ├── Internaliza a preposição "de" │ └── Acopla preposição externa regida pelo verbo antes de si (com cujo, de cujo) ├── PROCEDIMENTOS OPERACIONAIS DE REGÊNCIA │ ├── Método Algorítmico em 4 Passos  │ │ ├── Passo 1: Isolar a Oração Adjetiva │ │ ├── Passo 2: Localizar o Verbo/Regente │ │ ├── Passo 3: Identificar o Sujeito │ │ └── Passo 4: Ordem Direta + Completar com Antecedente ("Olho no peixe, olho no gato") │ └── Regência de Verbos de Movimento: A vs. PARA / Crase  └── REESCRITA E ANÁLISE PRAGMÁTICA (PADRÃO CESPE/CEBRASPE) ├── Método de Julgamento em 5 Passos  ├── Fenômeno da Dupla Regência (VTI vs. VTD)  ├── Correção Gramatical vs. Preservação de Sentido  └── Proibição de Onde/Aonde para Antecedentes Abstratos
+A03-esta unidade-REGENCIA-REESCRITA-RELATIVOS
+├── FUNDAMENTOS DO PRONOME RELATIVO
+│
+├── Função Textual: Anáfora / Substituição
+│
+└── Natureza do Antecedente: Obrigatoriamente Substantiva
+│
+├── Substantivo (Comum / Próprio)
+│
+├── Pronome Substantivo Demonstrativo (o, a, os, as = aquilo, aquele, aquela)
+│
+└── Numeral Substantivo
+├── INVENTÁRIO E EMPREGO DOS RELATIVOS
+│
+├── Coringas: QUE / O QUAL (Pessoas e Coisas; flexões preposicionadas)
+│
+├── Pessoal Preposicionado: QUEM (Exige pessoa + preposição obrigatória)
+│ │
+└── Gera Objeto Direto Preposicionado com VTD
+│
+├── Circunstanciais: COMO (Modo), QUANTO (Quantidade), QUANDO (Tempo)
+│
+├── Espaciais Estritos: ONDE / AONDE / DONDE
+│ │
+├── ONDE: Permanência / Preposição EM
+│ │
+├── AONDE: Movimento / Preposição A
+│ │
+└── DONDE: Origem / Preposição DE
+│
+└── Possessivo Insubstituível: CUJO
+│
+├── Vincula dois substantivos em relação de posse (Subst.2 + de + Subst.1)
+│
+├── Internaliza a preposição "de"
+│
+└── Acopla preposição externa regida pelo verbo antes de si (com cujo, de cujo)
+├── PROCEDIMENTOS OPERACIONAIS DE REGÊNCIA
+│
+├── Método Algorítmico em 4 Passos
+│ │
+├── Passo 1: Isolar a Oração Adjetiva
+│ │
+├── Passo 2: Localizar o Verbo/Regente
+│ │
+├── Passo 3: Identificar o Sujeito
+│ │
+└── Passo 4: Ordem Direta + Completar com Antecedente ("Olho no peixe, olho no gato")
+│
+└── Regência de Verbos de Movimento: A vs. PARA / Crase
+└── REESCRITA E ANÁLISE PRAGMÁTICA (PADRÃO CESPE/CEBRASPE)
+├── Método de Julgamento em 5 Passos
+├── Fenômeno da Dupla Regência (VTI vs. VTD)
+├── Correção Gramatical vs. Preservação de Sentido
+└── Proibição de Onde/Aonde para Antecedentes Abstratos
 ```
 
 ---

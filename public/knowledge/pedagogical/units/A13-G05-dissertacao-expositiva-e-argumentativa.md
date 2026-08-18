@@ -45,7 +45,9 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Leitura crítica desprovida de juízos de valor pessoais (princípio da alteridade na interpretação textual).
 
 ```text
-MODOS DE ORGANIZAÇÃO DISCURSIVA │ ┌───────────────────────────────────────┼───────────────────────────────────────┐ ▼ ▼ ▼ NARRAÇÃO DESCRIÇÃO DISSERTAÇÃO (Acontecimentos no tempo) (Atributos e estados) (Discussão de um assunto) │ ┌──────────────────────────────────────────────────┴───────────────────────┐ ▼ ▼ DISSERTAÇÃO EXPOSITIVA / INFORMATIVA DISSERTAÇÃO ARGUMENTATIVA ├─ Intenção: Transmitir / explicar saberes ├─ Intenção: Persuadir / convencer o leitor ├─ Objeto: Conceitos, teorias, fatos da ciência ├─ Objeto: Tese controversa / tomada de posição ├─ Relação com Dados: Dado é o próprio conteúdo ├─ Relação com Dados: Dado fundamenta a tese ├─ Tolerância a Modalizadores: Pontuais (não alteram tipo) ├─ Recursos: Argumentos lógicos, refutações ├─ Fatos Normativos: Trata ideais legais como fatos da ordem └─ Fecho Textual: Arremate conclusivo persuasivo └─ Fecho Textual: Conclusão didática/explicativa ("O Final Matador")
+MODOS DE ORGANIZAÇÃO DISCURSIVA
+│ ┌───────────────────────────────────────┼───────────────────────────────────────┐ ▼ ▼ ▼ NARRAÇÃO DESCRIÇÃO DISSERTAÇÃO (Acontecimentos no tempo) (Atributos e estados) (Discussão de um assunto)
+│ ┌──────────────────────────────────────────────────┴───────────────────────┐ ▼ ▼ DISSERTAÇÃO EXPOSITIVA / INFORMATIVA DISSERTAÇÃO ARGUMENTATIVA ├─ Intenção: Transmitir / explicar saberes ├─ Intenção: Persuadir / convencer o leitor ├─ Objeto: Conceitos, teorias, fatos da ciência ├─ Objeto: Tese controversa / tomada de posição ├─ Relação com Dados: Dado é o próprio conteúdo ├─ Relação com Dados: Dado fundamenta a tese ├─ Tolerância a Modalizadores: Pontuais (não alteram tipo) ├─ Recursos: Argumentos lógicos, refutações ├─ Fatos Normativos: Trata ideais legais como fatos da ordem └─ Fecho Textual: Arremate conclusivo persuasivo └─ Fecho Textual: Conclusão didática/explicativa ("O Final Matador")
 ```
 
 ---

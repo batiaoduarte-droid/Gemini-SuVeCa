@@ -41,7 +41,10 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 ## Pré-requisitos e modelo mental
 
 ```text
-REESCRITURA DE VOZES VERBAIS: PASSIVA ANALÍTICA ➔ ATIVA │ ┌─────────────────────────────────────────────────┴─────────────────────────────────────────────────┐ ▼ ▼ COM AGENTE DA PASSIVA EXPRESSO SEM AGENTE DA PASSIVA (INDETERMINADO) │ │ ┌─────┴──────────────────────────────┐ ┌─────────────────────┴─────────────────────┐ ▼ ▼ ▼ ▼ Estrutura Simples (2 Verbos) Locução com 3 Verbos Estrutura Simples (2 Verbos) Locuções com 3 Verbos (Exs. 1-3, Q46-49, Q55) (Q57 / VUNESP, Q58 / FGV) (Exs. 4-6, Q51, Q54, Q56) (Exs. 7-9, Q50, Q52-53, Q59-60) • Agente vira Sujeito Ativo • Auxiliar modal/temporal fica • Agente ausente vira Sujeito • Auxiliar carrega marca de 3ª (sai preposição "por/pelo") (ex.: "podem", "ter") Indeterminado (3ª do plural) pessoa plural para indeterminar • Verbo "ser" eliminado transfere • Verbo "ser" é eliminado • "ser" transfere tempo/modo ao • "ser" (sido/sendo/infinitivo) tempo/modo ao Principal (ex.: "sido", "ser") verbo principal em 3ª plural transfere forma nominal ao principal • Sujeito Paciente vira Objeto • Principal assume forma nominal • Sujeito paciente vira Objeto Direto • Principal permanece invariável Direto na voz ativa de "ser" (infinitivo/particípio) (atenção a sujeitos pospostos) • Fórmula matemática: 3 - 1 = 2 • Sujeito vira pronome oblíquo • Cuidado com referente de advérbio verbos na voz ativa (sujeito "eu" -> objeto "me") ("também" modificando o verbo) • Proibida ênclise ao particípio │ ┌─────────────────────────────┴─────────────────────────────┐ ▼ ▼ Sujeito Paciente Elíptico/Oculto Infinitivo Pessoal Flexionado (Ex. 6, Q51 / FCC) (Ex. 6: "para não o olharem") • Dedução pelo particípio ou contexto • Verbo no infinitivo isolado • Conversão em pronome oblíquo (o, me) sem auxiliar • Próclise obrigatória com negação ("não") • Flexão em 3ª pessoa plural (-em)
+REESCRITURA DE VOZES VERBAIS: PASSIVA ANALÍTICA ➔ ATIVA
+│ ┌─────────────────────────────────────────────────┴─────────────────────────────────────────────────┐ ▼ ▼ COM AGENTE DA PASSIVA EXPRESSO SEM AGENTE DA PASSIVA (INDETERMINADO) │
+│ ┌─────┴──────────────────────────────┐ ┌─────────────────────┴─────────────────────┐ ▼ ▼ ▼ ▼ Estrutura Simples (2 Verbos) Locução com 3 Verbos Estrutura Simples (2 Verbos) Locuções com 3 Verbos (Exs. 1-3, Q46-49, Q55) (Q57 / VUNESP, Q58 / FGV) (Exs. 4-6, Q51, Q54, Q56) (Exs. 7-9, Q50, Q52-53, Q59-60) • Agente vira Sujeito Ativo • Auxiliar modal/temporal fica • Agente ausente vira Sujeito • Auxiliar carrega marca de 3ª (sai preposição "por/pelo") (ex.: "podem", "ter") Indeterminado (3ª do plural) pessoa plural para indeterminar • Verbo "ser" eliminado transfere • Verbo "ser" é eliminado • "ser" transfere tempo/modo ao • "ser" (sido/sendo/infinitivo) tempo/modo ao Principal (ex.: "sido", "ser") verbo principal em 3ª plural transfere forma nominal ao principal • Sujeito Paciente vira Objeto • Principal assume forma nominal • Sujeito paciente vira Objeto Direto • Principal permanece invariável Direto na voz ativa de "ser" (infinitivo/particípio) (atenção a sujeitos pospostos) • Fórmula matemática: 3 - 1 = 2 • Sujeito vira pronome oblíquo • Cuidado com referente de advérbio verbos na voz ativa (sujeito "eu" -> objeto "me") ("também" modificando o verbo) • Proibida ênclise ao particípio
+│ ┌─────────────────────────────┴─────────────────────────────┐ ▼ ▼ Sujeito Paciente Elíptico/Oculto Infinitivo Pessoal Flexionado (Ex. 6, Q51 / FCC) (Ex. 6: "para não o olharem") • Dedução pelo particípio ou contexto • Verbo no infinitivo isolado • Conversão em pronome oblíquo (o, me) sem auxiliar • Próclise obrigatória com negação ("não") • Flexão em 3ª pessoa plural (-em)
 ```
 
 ---
@@ -63,7 +66,9 @@ Voz Passiva Analítica: [Sujeito Paciente] + [Auxiliar SER (Tempo T)] + [Partic�
 - Exemplificado em: , , , ,
 
 ```text
-MÉTODO DAS 5 INSTRUÇÕES │ ┌──────────────────────────────────────┼──────────────────────────────────────┐ ▼ ▼ ▼ INSTRUÇÃO 1: INSTRUÇÃO 2: INSTRUÇÃO 3: "Chamar o feito à ordem" Agente ➔ Sujeito Ativo Eliminação do "SER" • Identificar Agente da Passiva • Deslocar para início da oração • Riscar o verbo "ser" • Identificar Tempo do Verbo "Ser" • Eliminar a preposição "por/de" • Desenhar seta para verbo seguinte • Identificar Sujeito Paciente • Preservar artigos e modificadores • Transferir carga temporal/modo │ │ └──────────────────────────────────────┬──────────────────────────────────────┘ │ ┌──────────────────────────────────────┴──────────────────────────────────────┐ ▼ ▼ INSTRUÇÃO 4: INSTRUÇÃO 5: Sujeito Paciente ➔ Objeto Direto Agente Indeterminado ➔ Sujeito Indeterminado • Termo paciente vira complemento do verbo • Se agente não for expresso ("por quem? não sei"): • Pronomes retos (ele/eu) viram oblíquos (o/me) - O verbo ativo flexiona na 3ª pessoa do plural • Respeitar regras de próclise com palavras atrativas - Não inserir pronome substantivo expresso
+MÉTODO DAS 5 INSTRUÇÕES
+│ ┌──────────────────────────────────────┼──────────────────────────────────────┐ ▼ ▼ ▼ INSTRUÇÃO 1: INSTRUÇÃO 2: INSTRUÇÃO 3: "Chamar o feito à ordem" Agente ➔ Sujeito Ativo Eliminação do "SER" • Identificar Agente da Passiva • Deslocar para início da oração • Riscar o verbo "ser" • Identificar Tempo do Verbo "Ser" • Eliminar a preposição "por/de" • Desenhar seta para verbo seguinte • Identificar Sujeito Paciente • Preservar artigos e modificadores • Transferir carga temporal/modo │ │ └──────────────────────────────────────┬──────────────────────────────────────┘
+│ ┌──────────────────────────────────────┴──────────────────────────────────────┐ ▼ ▼ INSTRUÇÃO 4: INSTRUÇÃO 5: Sujeito Paciente ➔ Objeto Direto Agente Indeterminado ➔ Sujeito Indeterminado • Termo paciente vira complemento do verbo • Se agente não for expresso ("por quem? não sei"): • Pronomes retos (ele/eu) viram oblíquos (o/me) - O verbo ativo flexiona na 3ª pessoa do plural • Respeitar regras de próclise com palavras atrativas - Não inserir pronome substantivo expresso
 ```
 
 - Procedimento formal:
@@ -75,7 +80,9 @@ Na língua portuguesa, o agente da passiva é um termo sintático acessório; po
 3. É vedado o acréscimo de termos como "eles", "as pessoas" ou "alguém" caso o texto original não forneça essa ancoragem.
 
 ```text
-Passiva Analítica sem Agente: "As palavras precisavam ser interpretadas [por quem? Não diz]" │ ▼ (Transposição para a Ativa) Voz Ativa com Sujeito Indet.: "[Eles] Precisavam interpretar as palavras." └── Auxiliar flexionado na 3ª pessoa do plural
+Passiva Analítica sem Agente: "As palavras precisavam ser interpretadas [por quem? Não diz]"
+│ ▼ (Transposição para a Ativa) Voz Ativa com Sujeito Indet.: "[Eles] Precisavam interpretar as palavras."
+└── Auxiliar flexionado na 3ª pessoa do plural
 ```
 
 - Exemplificado em: , , , , , , , ,
@@ -184,7 +191,8 @@ o tempo/modo do verbo "ser". 2. Agente não expresso (indeterminado):
 1. Identificar o Agente da Passiva • O verbo (ou auxiliar) da ativa DEVE ir
 
 ```text
-(verificar se é explícito ou indeterminado). para a 3ª pessoa do plural. │ │ └──────────────────────────────┬──────────────────────────────┘ │ ┌──────────────────────────────┴──────────────────────────────┐ ▼ ▼ ETAPA 3: TRANSFORMAÇÃO E REDUÇÃO VERBAL ETAPA 4: CONVERSÃO DO OBJETO E VALIDAÇÃO
+(verificar se é explícito ou indeterminado). para a 3ª pessoa do plural. │ │ └──────────────────────────────┬──────────────────────────────┘
+│ ┌──────────────────────────────┴──────────────────────────────┐ ▼ ▼ ETAPA 3: TRANSFORMAÇÃO E REDUÇÃO VERBAL ETAPA 4: CONVERSÃO DO OBJETO E VALIDAÇÃO
 ```
 
 1. Eliminar o verbo auxiliar "ser". 1. O antigo sujeito paciente vira Objeto Direto.
@@ -211,7 +219,8 @@ o tempo/modo do verbo "ser". 2. Agente não expresso (indeterminado):
 1. Identificar o Agente da Passiva • O verbo (ou auxiliar) da ativa DEVE ir
 
 ```text
-(verificar se é explícito ou indeterminado). para a 3ª pessoa do plural. │ │ └──────────────────────────────┬──────────────────────────────┘ │ ┌──────────────────────────────┴──────────────────────────────┐ ▼ ▼ ETAPA 3: TRANSFORMAÇÃO E REDUÇÃO VERBAL ETAPA 4: CONVERSÃO DO OBJETO E VALIDAÇÃO
+(verificar se é explícito ou indeterminado). para a 3ª pessoa do plural. │ │ └──────────────────────────────┬──────────────────────────────┘
+│ ┌──────────────────────────────┴──────────────────────────────┐ ▼ ▼ ETAPA 3: TRANSFORMAÇÃO E REDUÇÃO VERBAL ETAPA 4: CONVERSÃO DO OBJETO E VALIDAÇÃO
 ```
 
 1. Eliminar o verbo auxiliar "ser". 1. O antigo sujeito paciente vira Objeto Direto.

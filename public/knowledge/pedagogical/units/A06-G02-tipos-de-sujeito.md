@@ -45,7 +45,13 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Noção de Oração: Reconhecimento de limites oracionais marcados pela presença de formas verbais.
 
 ```text
-SINTAXE DO SUJEITO (AULA 06) │ ┌──────────────────────────────────┴──────────────────────────────────┐ ▼ ▼ PROTOCOLO OPERACIONAL TAXONOMIA DOS TIPOS ┌─────────────────────────┐ │ │ Passo 1: Interrogar V. │ ┌───────────────────────┼───────────────────────┐ │ "Quem/O que é que + V?" │ ▼ ▼ ▼ └─────────────┬───────────┘ SUJEITO DETERMINADO SUJEITO INDETERMINADO SUJEITO INEXISTENTE │ (Agente Identificável) (Existe, mas oculto) (Oração Sem Sujeito) ▼ │ │ │ ┌─────────────────────────┐ ┌────────┼────────┐ ┌───────┼───────┐ ┌───────┼───────┐ │ Passo 2: Extrair Núcleo │ │ │ │ │ │ │ │ │ │ │ • Substantivo/Pron/Num │ Simples Composto Oculto 3ª P. 3ª Sing Inf. Haver Fazer Fenôm. │ • VEDAÇÃO DE PREPOSIÇÃO │ (1 Núc.) (2+ Núcs)(Elípt.) Plural + SE Impes. (Exist.)(Tempo) Natureza └─────────────┬───────────┘ │ │ │ (s/ ctx) (IIS) ("Estudar") │ │ (Literal) │ │ │ │ │ │ │ │ │ │ ▼ └────────┼────────┘ └───────┼───────┘ └───────┼───────┘ ┌─────────────────────────┐ │ │ │ │ Passo 3: Classificar │ ▼ ▼ ▼ │ (Contagem / Estrutura) │ Sujeito Oracional Marca Formal da Verbos Impessoais └─────────────────────────┘ (Oração Subjetiva) Língua Escrita (3ª P. Singular) • Teste do "ISSO" (Norma Culta) [Exceção: Sentido Figurado • Contém VERBO próprio -> Sujeito Simples]
+SINTAXE DO SUJEITO (AULA 06)
+│ ┌──────────────────────────────────┴──────────────────────────────────┐ ▼ ▼ PROTOCOLO OPERACIONAL TAXONOMIA DOS TIPOS ┌─────────────────────────┐ │ │ Passo 1: Interrogar V.
+│ ┌───────────────────────┼───────────────────────┐ │ "Quem/O que é que + V?"
+│ ▼ ▼ ▼ └─────────────┬───────────┘ SUJEITO DETERMINADO SUJEITO INDETERMINADO SUJEITO INEXISTENTE │ (Agente Identificável) (Existe, mas oculto) (Oração Sem Sujeito) ▼ │ │
+│ ┌─────────────────────────┐ ┌────────┼────────┐ ┌───────┼───────┐ ┌───────┼───────┐ │ Passo 2: Extrair Núcleo │ │ │ │ │ │ │ │ │ │ │ • Substantivo/Pron/Num │ Simples Composto Oculto 3ª P. 3ª Sing Inf. Haver Fazer Fenôm. │ • VEDAÇÃO DE PREPOSIÇÃO │ (1 Núc.) (2+ Núcs)(Elípt.) Plural + SE Impes. (Exist.)(Tempo) Natureza └─────────────┬───────────┘ │ │ │ (s/ ctx) (IIS) ("Estudar") │ │ (Literal) │ │ │ │ │ │ │ │ │
+│ ▼ └────────┼────────┘ └───────┼───────┘ └───────┼───────┘ ┌─────────────────────────┐ │ │ │ │ Passo 3: Classificar
+│ ▼ ▼ ▼ │ (Contagem / Estrutura) │ Sujeito Oracional Marca Formal da Verbos Impessoais └─────────────────────────┘ (Oração Subjetiva) Língua Escrita (3ª P. Singular) • Teste do "ISSO" (Norma Culta) [Exceção: Sentido Figurado • Contém VERBO próprio -> Sujeito Simples]
 ```
 
 ---
@@ -124,7 +130,10 @@ A sintaxe da Língua Portuguesa sistematiza a indeterminação por meio de três
 3. Via 3 (Infinitivo Impessoal): Ocorre quando o verbo é empregado em sua forma nominal não flexionada expressando processos em tese ou genéricos ("É bom estudar para concurso" / "Prenderam os suspeitos de fraudar o INSS").
 
 ```text
-SUJEITO INDETERMINADO (Semântica: "Alguém pratica a ação, não se sabe ou não se diz quem") ├── Via 1: Verbo na 3ª pessoa do PLURAL (sem referente anafórico no contexto) ├── Via 2: Verbo na 3ª pessoa do SINGULAR + SE como IIS (com VTI, VI ou VL preposicionados) └── Via 3: Verbo no INFINITIVO IMPESSOAL (enunciados gerais sem agente determinado)
+SUJEITO INDETERMINADO (Semântica: "Alguém pratica a ação, não se sabe ou não se diz quem")
+├── Via 1: Verbo na 3ª pessoa do PLURAL (sem referente anafórico no contexto)
+├── Via 2: Verbo na 3ª pessoa do SINGULAR + SE como IIS (com VTI, VI ou VL preposicionados)
+└── Via 3: Verbo no INFINITIVO IMPESSOAL (enunciados gerais sem agente determinado)
 ```
 
 A Oração Sem Sujeito (Sujeito Inexistente) é aquela estruturada em torno de verbos impessoais, os quais não possuem sujeito gramatical nem agente no mundo dos fatos, permanecendo compulsoriamente na 3ª pessoa do singular.
@@ -140,7 +149,13 @@ A gramática unifica três formulações sinônimas: Sujeito Inexistente = Oraç
 - Em "Choveram elogios para A abordagem didática", o verbo chover significa ocorrer em grande quantidade. A pergunta O que é que choveu? resulta em Elogios (núcleo do Sujeito Simples).
 
 ```text
-VERBOS IMPESSOAIS (Oração Sem Sujeito / Sujeito Inexistente) ├── 1. HAVER = Existir / Ocorrer / Acontecer (termo acompanhante = Objeto Direto) ├── 2. FAZER / HAVER = Tempo decorrido / Clima (Invariável na 3ª do singular) └── 3. FENÔMENOS DA NATUREZA em sentido literal ("Chove muito") │ └── EXCEÇÃO: Sentido Conotativo / Figurado ("Choveram elogios") └── Verbo deixa de ser impessoal ──> Possui SUJEITO SIMPLES
+VERBOS IMPESSOAIS (Oração Sem Sujeito / Sujeito Inexistente)
+├── 1. HAVER = Existir / Ocorrer / Acontecer (termo acompanhante = Objeto Direto)
+├── 2. FAZER / HAVER = Tempo decorrido / Clima (Invariável na 3ª do singular)
+└── 3. FENÔMENOS DA NATUREZA em sentido literal ("Chove muito")
+│
+└── EXCEÇÃO: Sentido Conotativo / Figurado ("Choveram elogios")
+└── Verbo deixa de ser impessoal ──> Possui SUJEITO SIMPLES
 ```
 
 Ocorre Sujeito Oracional (Oração Subordinada Substantiva Subjetiva) quando o termo que exerce o papel sintático de sujeito do verbo principal é constituído por uma oração inteira, caracterizada obrigatoriamente por conter um verbo em seu interior, exigindo que o verbo principal permaneça na 3ª pessoa do singular.
@@ -172,7 +187,8 @@ A partícula se desempenha funções sintáticas distintas a depender da transit
 - Portanto, o emprego do pronome se (seja como PA, seja como IIS) é reconhecido em concursos públicos como marca inequívoca de formalidade da linguagem e da modalidade escrita culta.
 
 ```text
-EMPREGO DA PARTÍCULA "SE" NA SINTAXE DO SUJEITO │ ┌────────────────────────────────┴────────────────────────────────┐ ▼ ▼ SE = PRONOME APASSIVADOR (PA) SE = ÍNDICE DE INDETERMINAÇÃO (IIS) • Verbo: VTD ou VTDI • Verbo: VTI, VI ou VL • Termo seguinte: NÃO PREPOSICIONADO • Termo seguinte: PREPOSICIONADO • Função do termo: SUJEITO PACIENTE (Determinado) • Função sintática: SUJEITO INDETERMINADO • Conversão: Admite Passiva Analítica • Conversão: NÃO admite Passiva Analítica • Exemplo: "Alugam-se casas" (= Casas são alugadas) • Exemplo: "Trata-se de problemas" │ │ └────────────────────────────────┬────────────────────────────────┘ ▼ MARCA DE FORMALIDADE DA LÍNGUA ESCRITA (Assertiva canônica da banca Cebraspe)
+EMPREGO DA PARTÍCULA "SE" NA SINTAXE DO SUJEITO
+│ ┌────────────────────────────────┴────────────────────────────────┐ ▼ ▼ SE = PRONOME APASSIVADOR (PA) SE = ÍNDICE DE INDETERMINAÇÃO (IIS) • Verbo: VTD ou VTDI • Verbo: VTI, VI ou VL • Termo seguinte: NÃO PREPOSICIONADO • Termo seguinte: PREPOSICIONADO • Função do termo: SUJEITO PACIENTE (Determinado) • Função sintática: SUJEITO INDETERMINADO • Conversão: Admite Passiva Analítica • Conversão: NÃO admite Passiva Analítica • Exemplo: "Alugam-se casas" (= Casas são alugadas) • Exemplo: "Trata-se de problemas" │ │ └────────────────────────────────┬────────────────────────────────┘ ▼ MARCA DE FORMALIDADE DA LÍNGUA ESCRITA (Assertiva canônica da banca Cebraspe)
 ```
 
 - Operacionalizado em:

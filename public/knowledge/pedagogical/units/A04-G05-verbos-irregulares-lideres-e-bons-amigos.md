@@ -19,11 +19,74 @@ Esta unidade foi preparada para estudo autônomo: avance do modelo mental para a
 - Noções fundamentais de colocação pronominal (fatores de atração da próclise) e sintaxe de regência/objeto indireto.
 
 ```text
-ARQUITETURA GERAL DA FLEXÃO VERBAL ├── GRUPO 1: VERBOS LÍDERES E BONS AMIGOS (Foco Total deste Módulo) │ ├── Matrizes Primitivas (4 Líderes): TER, VER, VIR, PÔR │ ├── Princípio da Fidelidade Absoluta: Derivado = Prefixo + Flexão do Líder │ ├── Protocolo de Resolução: Método dos 4 Passos │ └── Instrumentos de Apoio: Rodinhas de Bicicleta (Gatilhos Mentais) │ ├── GRUPO 2: FALSOS AMIGOS E DIFÍCIL CONJUGAÇÃO ("ALOPRADOS") (Módulos Subsequentes) │ └── Verbos aparentados com conjugação divergente (ex.: PROVER não segue VER) │ └── GRUPO 3: VERBOS DEFECTIVOS (Módulos Subsequentes) └── Verbos com lacunas de conjugação (Atualização sobre ADEQUAR-SE)
+ARQUITETURA GERAL DA FLEXÃO VERBAL
+├── GRUPO 1: VERBOS LÍDERES E BONS AMIGOS (Foco Total deste Módulo)
+│
+├── Matrizes Primitivas (4 Líderes): TER, VER, VIR, PÔR
+│
+├── Princípio da Fidelidade Absoluta: Derivado = Prefixo + Flexão do Líder
+│
+├── Protocolo de Resolução: Método dos 4 Passos
+│
+└── Instrumentos de Apoio: Rodinhas de Bicicleta (Gatilhos Mentais)
+│
+├── GRUPO 2: FALSOS AMIGOS E DIFÍCIL CONJUGAÇÃO ("ALOPRADOS") (Módulos Subsequentes)
+│
+└── Verbos aparentados com conjugação divergente (ex.: PROVER não segue VER)
+│
+└── GRUPO 3: VERBOS DEFECTIVOS (Módulos Subsequentes)
+└── Verbos com lacunas de conjugação (Atualização sobre ADEQUAR-SE)
 ```
 
 ```text
-MAPA OPERACIONAL DOS 4 LÍDERES DO GRUPO 1 ├── PÔR & DERIVADOS (propor, dispor, compor, contrapor, depor, etc.) │ ├── Presente Ind.: ponho, pões, põe, pomos, pondes, põem │ ├── Pretérito Perf.: pus, puseste, pôs, pusemos, pusestes, puseram │ ├── Futuro Subjuntivo: quando eu puser, tu puseres... │ ├── Infinitivo Pessoal: para eu pôr, tu pôres, ele pôr, nós pôrmos, vós pôrdes, eles porem │ └── Particípio Irregular: POSTO (terminação -to) | Gerúndio: PONDO │ ├── TER & DERIVADOS (abster-se, conter, deter, entreter, manter, obter, reter, suster) │ ├── Pretérito Perf.: tive, tiveste, teve, tivemos, tivestes, tiveram (-> detiveram, obtiveram) │ ├── Acentuação Diferencial Singular/Plural: │ │ ├── Líder Monossilábico: ele tem / eles têm │ │ └── Derivados Oxítonos: ele mantém / eles mantêm; ele entretém / eles entretêm │ └── Sintaxe: Próclise obrigatória com conjunção integrante (que se absteriam) │ ├── VER & DERIVADOS (antever, entrever, prever, rever) │ ├── Pretérito Perf.: vi, viste, viu, vimos, visteis, viram (-> anteviram) │ ├── Futuro Subjuntivo: quando eu vir, tu vires, ele vir, nós virmos, vós virdes, eles virem │ ├── Pretérito Imp. Subjuntivo: se eu visse, se tu visses... (-> antevissem) │ └── Particípio Irregular: VISTO (terminação -to) │ └── VIR & DERIVADOS (advir, avir-se, convir, desavir-se, intervir, provir, sobrevir) ├── O Par VIMOS vs. VIEMOS: │ ├── VIMOS = Pres. Ind. de VIR ("Hoje nós vimos") OU Pret. Perf. de VER ("Ontem nós vimos") │ └── VIEMOS = Pret. Perf. de VIR ("Ontem nós viemos") ├── Futuro Subjuntivo: quando eu vier, tu vieres, ele vier, nós viermos, vós vierdes, eles vierem ├── Pretérito Imp. Subjuntivo: se eu viesse, se tu viesses... (-> interviessem) ├── Acentuação no Presente Ind.: ele advém / eles advêm; ele convém / eles convêm └── Formas Nominais Homógrafas: ├── Particípio Irregular: VINDO / INTERVINDO ├── Gerúndio: VINDO / INTERVINDO └── Diagnóstico via Teste CHEGAR: chegado = Particípio | chegando = Gerúndio
+MAPA OPERACIONAL DOS 4 LÍDERES DO GRUPO 1
+├── PÔR & DERIVADOS (propor, dispor, compor, contrapor, depor, etc.)
+│
+├── Presente Ind.: ponho, pões, põe, pomos, pondes, põem
+│
+├── Pretérito Perf.: pus, puseste, pôs, pusemos, pusestes, puseram
+│
+├── Futuro Subjuntivo: quando eu puser, tu puseres...
+│
+├── Infinitivo Pessoal: para eu pôr, tu pôres, ele pôr, nós pôrmos, vós pôrdes, eles porem
+│
+└── Particípio Irregular: POSTO (terminação -to) | Gerúndio: PONDO
+│
+├── TER & DERIVADOS (abster-se, conter, deter, entreter, manter, obter, reter, suster)
+│
+├── Pretérito Perf.: tive, tiveste, teve, tivemos, tivestes, tiveram (-> detiveram, obtiveram)
+│
+├── Acentuação Diferencial Singular/Plural:
+│ │
+├── Líder Monossilábico: ele tem / eles têm
+│ │
+└── Derivados Oxítonos: ele mantém / eles mantêm; ele entretém / eles entretêm
+│
+└── Sintaxe: Próclise obrigatória com conjunção integrante (que se absteriam)
+│
+├── VER & DERIVADOS (antever, entrever, prever, rever)
+│
+├── Pretérito Perf.: vi, viste, viu, vimos, visteis, viram (-> anteviram)
+│
+├── Futuro Subjuntivo: quando eu vir, tu vires, ele vir, nós virmos, vós virdes, eles virem
+│
+├── Pretérito Imp. Subjuntivo: se eu visse, se tu visses... (-> antevissem)
+│
+└── Particípio Irregular: VISTO (terminação -to)
+│
+└── VIR & DERIVADOS (advir, avir-se, convir, desavir-se, intervir, provir, sobrevir)
+├── O Par VIMOS vs. VIEMOS:
+│
+├── VIMOS = Pres. Ind. de VIR ("Hoje nós vimos") OU Pret. Perf. de VER ("Ontem nós vimos")
+│
+└── VIEMOS = Pret. Perf. de VIR ("Ontem nós viemos")
+├── Futuro Subjuntivo: quando eu vier, tu vieres, ele vier, nós viermos, vós vierdes, eles vierem
+├── Pretérito Imp. Subjuntivo: se eu viesse, se tu viesses... (-> interviessem)
+├── Acentuação no Presente Ind.: ele advém / eles advêm; ele convém / eles convêm
+└── Formas Nominais Homógrafas:
+├── Particípio Irregular: VINDO / INTERVINDO
+├── Gerúndio: VINDO / INTERVINDO
+└── Diagnóstico via Teste CHEGAR: chegado = Particípio | chegando = Gerúndio
 ```
 
 ---

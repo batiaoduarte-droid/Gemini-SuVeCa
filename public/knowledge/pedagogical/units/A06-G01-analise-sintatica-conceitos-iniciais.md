@@ -43,7 +43,12 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Reconhecimento das classes gramaticais básicas (substantivo, adjetivo, verbo, pronome, artigo e preposição).
 
 ```text
-[Morfologia Básica: Classes de Palavras] │ ▼ [: Frase, Oração e Período] ──> [: Locuções e Contagem de Orações] │ ▼ [: Bipolaridade Oracional (Predicado Obrigatório vs Sujeito Inexistente)] │ ├────────────────────────────────────────┬────────────────────────────────────────┐ ▼ ▼ ▼ [: Algoritmo do Verbo] [: Ordem Direta SVC vs Inversa] [: Sujeito vs Referente] │ ▼ [: Sujeito Posposto e Predicativo Antecipado] │ ▼ [: Teoria Moderna do Núcleo do Sujeito] │ ▼ [: Núcleo vs Adjunto Adnominal vs Aposto Especificativo]
+[Morfologia Básica: Classes de Palavras]
+│ ▼ [: Frase, Oração e Período] ──> [: Locuções e Contagem de Orações]
+│ ▼ [: Bipolaridade Oracional (Predicado Obrigatório vs Sujeito Inexistente)] │ ├────────────────────────────────────────┬────────────────────────────────────────┐ ▼ ▼ ▼ [: Algoritmo do Verbo] [: Ordem Direta SVC vs Inversa] [: Sujeito vs Referente]
+│ ▼ [: Sujeito Posposto e Predicativo Antecipado]
+│ ▼ [: Teoria Moderna do Núcleo do Sujeito]
+│ ▼ [: Núcleo vs Adjunto Adnominal vs Aposto Especificativo]
 ```
 
 1. Compreender a hierarquia: Frase $\rightarrow$ Oração $\rightarrow$ Período .
@@ -54,7 +59,65 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 6. Diferenciar rigorosamente função sintática estrita de coesão referencial .
 
 ```text
-ANÁLISE SINTÁTICA: CONCEITOS INICIAIS E QUESTÕES CEBRASPE │ ├── 1. UNIDADES DE ENUNCIAÇÃO │ ├── Frase: Enunciado com sentido completo │ │ ├── Frase Nominal: Sem verbo (Ex.: "Puxa!", "A força das mulheres", "kkk") │ │ └── Frase Verbal: Contém verbo (Coincide com a Oração) │ ├── Oração: Enunciado centrado em verbo ou locução verbal │ │ └── Locução: Expressão de 2+ palavras (Verbal, Adjetiva, Prepositiva) │ └── Período: Frase verbal estruturada em orações │ ├── Período Simples: 1 oração (Oração Absoluta) │ └── Período Composto: 2 ou mais orações │ ├── 2. ESTRUTURAÇÃO ORACIONAL (TERMOS ESSENCIAIS) │ ├── Verbo: Ponto de partida obrigatório ("No desespero, vírgula, vá ao verbo") │ ├── Sujeito: Termo sobre o qual se faz declaração (Sintático — Facultativo) │ │ ├── Voz Ativa (executa a ação) vs. Voz Passiva (sofre a ação) │ │ ├── Identificação: Pergunta "Quem/O que é que + Verbo?" │ │ └── Pode ser Inexistente (Verbo impessoal -> Oração sem Sujeito) │ └── Predicado: "Tudo menos o sujeito" (Sintático — Obrigatório) │ └── Se o sujeito for inexistente, o predicado abrange 100% da oração │ ├── 3. TOPOLOGIA DA FRASE (ORDEM DOS TERMOS) │ ├── Ordem Direta (Canônica): Sujeito + Verbo + Complementos + Adj. Adverbial (SVC) │ └── Ordem Inversa / Indireta (Recurso Estilístico Legítimo / Não é Erro) │ ├── Deslocamento por Antecipação: Termo movido para o início da oração │ ├── Deslocamento por Intercalação: Termo inserido no meio da oração │ └── Início com Preposição: Válido (adjuntos adverbiais antecipados) │ ├── 4. DISCRIMINAÇÃO TERMINOLÓGICA E COESIVA │ ├── Sujeito = Função Sintática Estrita (Restrita aos limites da própria oração) │ └── Referente = Conceito Semântico/Discursivo (Termo textual que recebe a "seta") │ └── 5. TEORIA FORMAL DO NÚCLEO DO SUJEITO E APOSTO ├── Desconstrução Escolar: "Ideia principal" / "Mais importante" = Falso / Abolido ├── Critério Sintático Formal: Palavra mais especificada (receptora das setas) ├── Critério Morfossintático: Substantivo / Pronome / Numeral (Adjetivo é satélite) └── Aposto Especificativo: Substantivo que nomeia substantivo genérico sem vírgulas
+ANÁLISE SINTÁTICA: CONCEITOS INICIAIS E QUESTÕES CEBRASPE
+│
+├── 1. UNIDADES DE ENUNCIAÇÃO
+│
+├── Frase: Enunciado com sentido completo
+│ │
+├── Frase Nominal: Sem verbo (Ex.: "Puxa!", "A força das mulheres", "kkk")
+│ │
+└── Frase Verbal: Contém verbo (Coincide com a Oração)
+│
+├── Oração: Enunciado centrado em verbo ou locução verbal
+│ │
+└── Locução: Expressão de 2+ palavras (Verbal, Adjetiva, Prepositiva)
+│
+└── Período: Frase verbal estruturada em orações
+│
+├── Período Simples: 1 oração (Oração Absoluta)
+│
+└── Período Composto: 2 ou mais orações
+│
+├── 2. ESTRUTURAÇÃO ORACIONAL (TERMOS ESSENCIAIS)
+│
+├── Verbo: Ponto de partida obrigatório ("No desespero, vírgula, vá ao verbo")
+│
+├── Sujeito: Termo sobre o qual se faz declaração (Sintático — Facultativo)
+│ │
+├── Voz Ativa (executa a ação) vs. Voz Passiva (sofre a ação)
+│ │
+├── Identificação: Pergunta "Quem/O que é que + Verbo?"
+│ │
+└── Pode ser Inexistente (Verbo impessoal -> Oração sem Sujeito)
+│
+└── Predicado: "Tudo menos o sujeito" (Sintático — Obrigatório)
+│
+└── Se o sujeito for inexistente, o predicado abrange 100% da oração
+│
+├── 3. TOPOLOGIA DA FRASE (ORDEM DOS TERMOS)
+│
+├── Ordem Direta (Canônica): Sujeito + Verbo + Complementos + Adj. Adverbial (SVC)
+│
+└── Ordem Inversa / Indireta (Recurso Estilístico Legítimo / Não é Erro)
+│
+├── Deslocamento por Antecipação: Termo movido para o início da oração
+│
+├── Deslocamento por Intercalação: Termo inserido no meio da oração
+│
+└── Início com Preposição: Válido (adjuntos adverbiais antecipados)
+│
+├── 4. DISCRIMINAÇÃO TERMINOLÓGICA E COESIVA
+│
+├── Sujeito = Função Sintática Estrita (Restrita aos limites da própria oração)
+│
+└── Referente = Conceito Semântico/Discursivo (Termo textual que recebe a "seta")
+│
+└── 5. TEORIA FORMAL DO NÚCLEO DO SUJEITO E APOSTO
+├── Desconstrução Escolar: "Ideia principal" / "Mais importante" = Falso / Abolido
+├── Critério Sintático Formal: Palavra mais especificada (receptora das setas)
+├── Critério Morfossintático: Substantivo / Pronome / Numeral (Adjetivo é satélite)
+└── Aposto Especificativo: Substantivo que nomeia substantivo genérico sem vírgulas
 ```
 
 ---

@@ -43,7 +43,10 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Noção preliminar dos três modos verbais: Indicativo (certeza), Subjuntivo (hipótese/dúvida) e Imperativo (ordem/pedido).
 
 ```text
-ESTRUTURA MORFOLÓGICA DO VERBO │ ┌───────────────────────────────────┴───────────────────────────────────┐ ▼ ▼ BASE LEXICAL E TEMÁTICA DESINÊNCIAS FLEXIONAIS │ │ ┌───────┴───────┐ ┌───────────────┴───────────────┐ ▼ ▼ ▼ ▼ RADICAL VOGAL TEMÁTICA (VT) DMT DNP (Significado (Classifica a conjugação: (Modo e Tempo: (Número e Pessoa: Léxico) 1ª: -a-, 2ª: -e-, 3ª: -i-) marca comum a marca particular │ todas as pessoas) que varia p/ pessoa) ▼ │ │ ┌───────────────┐ ├─ Pret. Imp. Ind (1ª): -va- ├─ 1ª Sing: -o / -i / Ø │ TEMA VERBAL │ ├─ Pret. Imp. Ind (2ª/3ª): -ia- ├─ 2ª Sing: -s │ (Radical + VT)│ ├─ Pret. Imp. Subj: -sse- ├─ 3ª Sing: Ø └───────────────┘ ├─ Pres. Subj (1ª): -e- (VT Ø) ├─ 1ª Plural: -mos ├─ Pres. Subj (2ª/3ª): -a- (VT Ø)├─ 2ª Plural: -is / -des └─ Pres. Ind: Ø └─ 3ª Plural: -m / -ão
+ESTRUTURA MORFOLÓGICA DO VERBO
+│ ┌───────────────────────────────────┴───────────────────────────────────┐ ▼ ▼ BASE LEXICAL E TEMÁTICA DESINÊNCIAS FLEXIONAIS │
+│ ┌───────┴───────┐ ┌───────────────┴───────────────┐ ▼ ▼ ▼ ▼ RADICAL VOGAL TEMÁTICA (VT) DMT DNP (Significado (Classifica a conjugação: (Modo e Tempo: (Número e Pessoa: Léxico) 1ª: -a-, 2ª: -e-, 3ª: -i-) marca comum a marca particular │ todas as pessoas) que varia p/ pessoa) ▼ │
+│ ┌───────────────┐ ├─ Pret. Imp. Ind (1ª): -va- ├─ 1ª Sing: -o / -i / Ø │ TEMA VERBAL │ ├─ Pret. Imp. Ind (2ª/3ª): -ia- ├─ 2ª Sing: -s │ (Radical + VT)│ ├─ Pret. Imp. Subj: -sse- ├─ 3ª Sing: Ø └───────────────┘ ├─ Pres. Subj (1ª): -e- (VT Ø) ├─ 1ª Plural: -mos ├─ Pres. Subj (2ª/3ª): -a- (VT Ø)├─ 2ª Plural: -is / -des └─ Pres. Ind: Ø └─ 3ª Plural: -m / -ão
 ```
 
 1. Reconhecer as três conjugações e o caso etimológico do verbo pôr.

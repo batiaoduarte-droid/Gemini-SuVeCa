@@ -45,7 +45,8 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 - Período Simples vs. Composto: Capacidade de localizar núcleos verbais e locuções verbais para delimitar orações.
 
 ```text
-PERÍODO COMPOSTO POR SUBORDINAÇÃO │ ┌───────────────────────────────┼───────────────────────────────┐ ▼ ▼ ▼ SUBSTANTIVAS ADJETIVAS ADVERBIAIS (Equivalem a "ISSO") (Iniciadas por Relativo) (6 Cs + FTP) │ │ ├─► Subjetiva (Sujeito) ├─► Função Externa: SEMPRE Adjunto Adnominal ├─► Obj. Direta (OD) │ ├─► Obj. Indireta (OI) ├─► Classificação Semântico-Pontual: │ └─ Prep. FACULTATIVA │ ├─ Restritiva (sem vírgula / particulariza) ├─► Compl. Nominal (CN) │ └─ Explicativa (com vírgulas / generaliza) │ └─ Prep. OBRIGATÓRIA │ ├─► Predicativa (Predicativo) └─► Sintaxe Interna do Pronome Relativo: └─► Apositiva (Aposto) ├─ Método dos 3 Passos (Isolar->Substituir->Ordem Direta) └─ Pontuação assinalada ├─ Independência da OP (Evitar "Recaída Sintática") └─ "Onde" = Sempre Adjunto Adverbial de Lugar
+PERÍODO COMPOSTO POR SUBORDINAÇÃO
+│ ┌───────────────────────────────┼───────────────────────────────┐ ▼ ▼ ▼ SUBSTANTIVAS ADJETIVAS ADVERBIAIS (Equivalem a "ISSO") (Iniciadas por Relativo) (6 Cs + FTP) │ │ ├─► Subjetiva (Sujeito) ├─► Função Externa: SEMPRE Adjunto Adnominal ├─► Obj. Direta (OD) │ ├─► Obj. Indireta (OI) ├─► Classificação Semântico-Pontual: │ └─ Prep. FACULTATIVA │ ├─ Restritiva (sem vírgula / particulariza) ├─► Compl. Nominal (CN) │ └─ Explicativa (com vírgulas / generaliza) │ └─ Prep. OBRIGATÓRIA │ ├─► Predicativa (Predicativo) └─► Sintaxe Interna do Pronome Relativo: └─► Apositiva (Aposto) ├─ Método dos 3 Passos (Isolar->Substituir->Ordem Direta) └─ Pontuação assinalada ├─ Independência da OP (Evitar "Recaída Sintática") └─ "Onde" = Sempre Adjunto Adverbial de Lugar
 ```
 
 ---

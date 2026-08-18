@@ -45,7 +45,8 @@ A SuVeCA é um mapa de análise para reconstruir as relações sintáticas, e n�
 3. Predicação Verbal Preliminar: Compreensão elementar da distinção entre verbos nocionais/de ação (intransitivos e transitivos) e verbos relacionais/de estado (verbos de ligação).
 
 ```text
-TERMOS DA ORAÇÃO (Morfossintaxe: Classe vs. Função Sintática) │ ┌───────────────────────────────┴───────────────────────────────┐ ▼ ▼ ADJUNTO ADNOMINAL PREDICATIVO (Termo Acessório / Satélite) (Termo no Predicado / Atributo) │ │ ├─ Posição: Acoplado ao Substantivo (em qualquer termo) ├─ Posição: Sempre no PREDICADO ├─ Morfologia Fechada (5 classes): │ │ Artigo, Numeral, Pronome, Adjetivo, Locução Adjetiva ├────────────────────────┬────────────────────────┐ └─ Teste de Supressão: Retirada não corrompe a acepção ▼ ▼ ▼ do verbo regente (essência informativa preservada) PREDICATIVO DO SUJEITO PREDICATIVO DO OBJETO PREDICATIVO DO OBJ. INDIRETO │ │ │ ├─ Refere-se ao Sujeito ├─ Refere-se ao OD └─ Refere-se ao OI ├─ Ocorre com VL, VI, VT ├─ Extensão Semântica (ex.: "Gosto de você alegre") ├─ Morfologia Ampla: │ (Verbo pede o termo; │ Subst, Adj, Pron, Num │ supressão altera o └─ Diferenciação de Modo:│ sentido do verbo) Variável (Adjetivo) ├─ Pode vir preposicionado vs. Invariável (Adv) │ (ex.: "de inquieto") └─ Deslocamento: Permite ficar contíguo ao verbo
+TERMOS DA ORAÇÃO (Morfossintaxe: Classe vs. Função Sintática)
+│ ┌───────────────────────────────┴───────────────────────────────┐ ▼ ▼ ADJUNTO ADNOMINAL PREDICATIVO (Termo Acessório / Satélite) (Termo no Predicado / Atributo) │ │ ├─ Posição: Acoplado ao Substantivo (em qualquer termo) ├─ Posição: Sempre no PREDICADO ├─ Morfologia Fechada (5 classes): │ │ Artigo, Numeral, Pronome, Adjetivo, Locução Adjetiva ├────────────────────────┬────────────────────────┐ └─ Teste de Supressão: Retirada não corrompe a acepção ▼ ▼ ▼ do verbo regente (essência informativa preservada) PREDICATIVO DO SUJEITO PREDICATIVO DO OBJETO PREDICATIVO DO OBJ. INDIRETO │ │ │ ├─ Refere-se ao Sujeito ├─ Refere-se ao OD └─ Refere-se ao OI ├─ Ocorre com VL, VI, VT ├─ Extensão Semântica (ex.: "Gosto de você alegre") ├─ Morfologia Ampla: │ (Verbo pede o termo; │ Subst, Adj, Pron, Num │ supressão altera o └─ Diferenciação de Modo:│ sentido do verbo) Variável (Adjetivo) ├─ Pode vir preposicionado vs. Invariável (Adv) │ (ex.: "de inquieto") └─ Deslocamento: Permite ficar contíguo ao verbo
 ```
 
 ---
@@ -207,7 +208,10 @@ Confronto do Par Mínimo ("Carteira Cara"):
 4. Passo 4 — Validação Morfossintática: Identificar a classe (Substantivo, Adjetivo, Pronome Reto ou Numeral) e validar a função de Predicativo do Sujeito.
 
 ```text
-[Dúvida Sintática: O termo é Predicativo do Sujeito ou Adjunto Adverbial de Modo?] │ ▼ [Etapa 1: Forçar a Flexão do Sujeito em Número ou Gênero] (Ex.: Singular ➔ Plural | Masculino ➔ Feminino) │ ┌────────────────────────┴────────────────────────┐ ▼ ▼ [O termo Permaneceu INVARIÁVEL] [O termo FLEXIONOU / CONCORDOU] (Ex.: "rapidamente", "depressa") (Ex.: cansada ➔ cansadas; feliz ➔ felizes) │ │ ▼ ▼ ==> ADJUNTO ADVERBIAL DE MODO ==> PREDICATIVO DO SUJEITO
+[Dúvida Sintática: O termo é Predicativo do Sujeito ou Adjunto Adverbial de Modo?]
+│ ▼ [Etapa 1: Forçar a Flexão do Sujeito em Número ou Gênero] (Ex.: Singular ➔ Plural | Masculino ➔ Feminino)
+│ ┌────────────────────────┴────────────────────────┐ ▼ ▼ [O termo Permaneceu INVARIÁVEL] [O termo FLEXIONOU / CONCORDOU] (Ex.: "rapidamente", "depressa") (Ex.: cansada ➔ cansadas; feliz ➔ felizes) │
+│ ▼ ▼ ==> ADJUNTO ADVERBIAL DE MODO ==> PREDICATIVO DO SUJEITO
 ```
 
 1. Passo 1 — Vetorizar a Seta de Referência: Identificar o termo adjetivo e conectar a seta ao substantivo que ele qualifica. Constatando que aponta para o Objeto Direto ou Indireto, passar ao Passo 2.
@@ -239,7 +243,10 @@ Para confirmar que um termo é predicativo do objeto, desloque-o para a posiçã
 4. Passo 4 — Validação Morfossintática: Identificar a classe (Substantivo, Adjetivo, Pronome Reto ou Numeral) e validar a função de Predicativo do Sujeito.
 
 ```text
-[Dúvida Sintática: O termo é Predicativo do Sujeito ou Adjunto Adverbial de Modo?] │ ▼ [Etapa 1: Forçar a Flexão do Sujeito em Número ou Gênero] (Ex.: Singular ➔ Plural | Masculino ➔ Feminino) │ ┌────────────────────────┴────────────────────────┐ ▼ ▼ [O termo Permaneceu INVARIÁVEL] [O termo FLEXIONOU / CONCORDOU] (Ex.: "rapidamente", "depressa") (Ex.: cansada ➔ cansadas; feliz ➔ felizes) │ │ ▼ ▼ ==> ADJUNTO ADVERBIAL DE MODO ==> PREDICATIVO DO SUJEITO
+[Dúvida Sintática: O termo é Predicativo do Sujeito ou Adjunto Adverbial de Modo?]
+│ ▼ [Etapa 1: Forçar a Flexão do Sujeito em Número ou Gênero] (Ex.: Singular ➔ Plural | Masculino ➔ Feminino)
+│ ┌────────────────────────┴────────────────────────┐ ▼ ▼ [O termo Permaneceu INVARIÁVEL] [O termo FLEXIONOU / CONCORDOU] (Ex.: "rapidamente", "depressa") (Ex.: cansada ➔ cansadas; feliz ➔ felizes) │
+│ ▼ ▼ ==> ADJUNTO ADVERBIAL DE MODO ==> PREDICATIVO DO SUJEITO
 ```
 
 1. Passo 1 — Vetorizar a Seta de Referência: Identificar o termo adjetivo e conectar a seta ao substantivo que ele qualifica. Constatando que aponta para o Objeto Direto ou Indireto, passar ao Passo 2.
